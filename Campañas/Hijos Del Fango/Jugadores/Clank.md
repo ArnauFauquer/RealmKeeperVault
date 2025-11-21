@@ -1,0 +1,48 @@
+---
+type: playerCharacter
+tags:
+  - pc
+  - wei
+campaign: hijos del fango
+jugador: Pol
+---
+# Clank
+
+> Analizando árbol de manzanas, manzana encontrada, entrada manzano guardada en mi base de datos.
+
+![[Pol-Portrait.png]]
+
+## Apariencia
+
+Guerrero mecánico, muy grande.
+Viste con el resto de tierra y raíces que aun le queda por su cuerpo
+Porta un gran sensor háptico (ojo) de color rojo.
+
+## Personalidad
+
+Como si de un recién nacido.
+Aprende rápido y pregunta mucho.
+Mucha gente podría decir que este ser no tiene sentimientos, pero cuando lo conoces dirías justo lo contrario, es mas persona que maquina.
+
+## Trasfondo
+
+Apagón de sistema... y después de esto lo único que recuerda es a [[Cantharella]] sacándolo de entre las raíces del [[Lodazal de Medianoche]].
+Aun tenia funciones simples como andar, ver , escuchar y parece que alguna emoción tiene, miedo asombro, ira, tristeza.
+Llevan mese juntos aprendiendo de plantas, animales con [[Tortuardo]], a hablar y escribir con [[Amapola]].
+Tiene tacto con las abejas, desde aquel instante que una le intento picar sin éxito. Des de ese momento Clank se ve reflejado en ellas.
+
+> Quien soy? Porque sigo vivo? Fui creado para la Guerra? Tengo sentimientos?
+
+## Relaciones
+
+- [[Tortuardo]] maestro
+- [[Amapola]] maestra
+- [[Cantharella]] maestra
+
+## Preguntas
+
+**Sesión 2:** [[Ben Viejo Loco]] dice que el "espíritu del barro" te llamó a este lugar. Cuando observas el [[Lodazal de Medianoche]], ¿sientes alguna conexión? ¿Reconoces algo familiar en su oscuridad que podría ayudarte a recordar quién eras?
+
+> Tristeza, el [[Lodazal de Medianoche]] me trae trizteza.
+
+**Sesión 3:** Si descubres que tenías un propósito anterior que no recuerdas, ¿qué significaría eso para ti ahora?

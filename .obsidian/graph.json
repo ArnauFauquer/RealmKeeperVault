@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "[\"type\":\"world\"]",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "[\"type\":\"region\"]",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "[\"type\":\"location\"]",
+      "color": {
+        "a": 1,
+        "rgb": 11065924
+      }
+    },
+    {
+      "query": "[\"type\":\"faction\"]",
+      "color": {
+        "a": 1,
+        "rgb": 1496229
+      }
+    },
+    {
+      "query": "[\"type\":\"npc\"]",
+      "color": {
+        "a": 1,
+        "rgb": 15102952
+      }
+    },
+    {
+      "query": "[\"type\":\"playerCharacter\"]",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "[\"type\":\"campain\"]",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.5870926955643276,
+  "close": true
+}
