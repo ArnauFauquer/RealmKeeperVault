@@ -3,8 +3,6 @@ type: npc
 tags:
   - npc
   - wei
-faction:
-  - - Sabios Arcanos
 ---
 # Aspiro
 

@@ -7,6 +7,7 @@ tags:
   - criaturaBarro
   - insectoide
   - hambre
+  - draft
 ---
 # Gula
 

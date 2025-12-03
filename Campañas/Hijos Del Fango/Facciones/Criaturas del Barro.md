@@ -6,6 +6,7 @@ tags:
   - tierrasDelEste
   - oscuridad
   - sobrenatural
+  - draft
 ---
 # Criaturas del Barro
 

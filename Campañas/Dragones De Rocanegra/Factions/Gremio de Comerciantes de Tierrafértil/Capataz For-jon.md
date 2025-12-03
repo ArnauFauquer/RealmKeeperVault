@@ -4,8 +4,6 @@ tags:
   - npc
   - wei
   - tierrafertil
-faction:
-  - - Gremio de Comerciantes de Tierrafértil
 ---
 # Capataz For-jon
 

@@ -3,6 +3,7 @@ type: npc
 tags:
   - npc
   - wei
+  - draft
 ---
 # Nombre del NPC
 

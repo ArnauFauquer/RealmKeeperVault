@@ -2,12 +2,9 @@
 tags:
   - location
   - wei
-  # Añade aquí el tag de la región concreta (ej: tierrasDelNorte)
   - regionTag
+  - draft
 type: location
-region: regionKey  # clave de la región (ej: tierrasDelNorte)
-element:
-  - earth  # earth | water | fire | air (elige o ajusta)
 ---
 # Nombre del Lugar
 

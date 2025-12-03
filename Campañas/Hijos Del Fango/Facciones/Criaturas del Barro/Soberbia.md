@@ -7,6 +7,7 @@ tags:
   - criaturaBarro
   - infiltrada
   - manipuladora
+  - draft
 ---
 # Soberbia
 

@@ -7,6 +7,7 @@ tags:
   - centauro
   - lider
   - fuego
+  - draft
 ---
 # Valkar el Purificador
 

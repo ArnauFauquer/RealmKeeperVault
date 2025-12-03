@@ -5,8 +5,7 @@ tags:
   - wei
   - enanos
   - rocanegra
-faction:
-  - - Enanos de Rocanegra
+
 ---
 # Maestro Kragg Piedraestrella
 

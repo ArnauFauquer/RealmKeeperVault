@@ -4,9 +4,6 @@ tags:
   - wei
   - tierrasDelNorte
 type: location
-region: tierrasDelNorte
-element:
-    - earth
 ---
 # Templo de la Sabiduría Arcana
 

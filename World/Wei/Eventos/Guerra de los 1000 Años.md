@@ -3,7 +3,7 @@ type: event
 tags:
   - event
   - wei
-world: wei
+
 ---
 # Guerra de los 1000 Años
 

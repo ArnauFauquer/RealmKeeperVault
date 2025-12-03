@@ -5,9 +5,6 @@ tags:
   - wei
   - enanos
   - rocanegra
-role: capitán
-faction:
-  - - Enanos de Rocanegra
 ---
 # Capitán Grimnir Barbaviento
 

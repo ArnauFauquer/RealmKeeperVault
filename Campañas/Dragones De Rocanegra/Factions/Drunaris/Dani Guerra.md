@@ -5,8 +5,7 @@ tags:
   - wei
   - drunaris
   - dustoria
-faction:
-  - - Drunaris
+
 ---
 # Dani Guerra
 

@@ -4,8 +4,6 @@ tags:
   - npc
   - wei
   - enano
-faction:
-  - - Los ex Héroes del Momento
 ---
 # Drogar Martillo de Hierro
 

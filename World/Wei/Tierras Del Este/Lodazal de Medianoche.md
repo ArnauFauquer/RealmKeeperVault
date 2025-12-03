@@ -4,11 +4,6 @@ tags:
   - wei
   - tierrasDelEste
 type: location
-region: tierrasDelEste
-element:
-  - earth
-  - water
-  - fire
 ---
 # Lodazal de Medianoche
 

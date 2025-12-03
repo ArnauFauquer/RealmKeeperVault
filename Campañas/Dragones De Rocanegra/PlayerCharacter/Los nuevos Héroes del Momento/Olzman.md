@@ -4,8 +4,6 @@ tags:
   - pc
   - wei
   - nuevos-heroes
-faction:
-  - - Los nuevos Héroes del Momento
 ---
 # Olzman
 

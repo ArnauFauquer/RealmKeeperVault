@@ -3,6 +3,10 @@ type: faction
 tags:
   - faction
   - wei
+  - draft
+  - (usa [[npc-template]])
+  - (usa [[player-character-template]]))
+  - (usa [[location-template]])
 ---
 # Nombre de la Facción
 

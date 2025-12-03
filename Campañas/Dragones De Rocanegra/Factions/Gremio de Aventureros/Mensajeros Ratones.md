@@ -6,8 +6,6 @@ tags:
   - aventureros
   - colonia
   - roedores
-faction:
-  - - Gremio de Aventureros
 ---
 # Mensajeros Ratones
 

@@ -6,6 +6,7 @@ tags:
   - tierrasDelEste
   - criaturaBarro
   - desconocido
+  - draft
 ---
 # Ira
 

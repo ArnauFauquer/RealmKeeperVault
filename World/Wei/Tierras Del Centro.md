@@ -4,12 +4,7 @@ tags:
   - wei
   - tierrasDelCentro
 type: region
-world: wei
-element:
-  - air
-  - fire
-  - earth
-  - water
+
 ---
 # Tierras Del Centro
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campañas/Hijos Del Fango/Sesiones/Sesión 3 Hijos del fango.md",
+                "file": "Campañas/Hijos Del Fango/Facciones/Gremio de cazadores/Joze Pequenho.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sesión 3 Hijos del fango"
+              "title": "Joze Pequenho"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campañas/Hijos Del Fango/Sesiones/Sesión 3 Hijos del fango.md",
+                "file": "Campañas/Hijos Del Fango/Facciones/Gremio de cazadores/Joze Pequenho.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Sesión 3 Hijos del fango"
+              "title": "Enlaces salientes de Joze Pequenho"
             }
           },
           {
@@ -182,36 +182,38 @@
   },
   "active": "16d211944d861bad",
   "lastOpenFiles": [
+    "Campañas/Hijos Del Fango/Facciones/Cazadores de la noche/Valkar el Purificador.md",
+    "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro/Soberbia.md",
+    "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro/Pereza.md",
+    "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro/Lujuria.md",
+    "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro/Ira.md",
+    "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro/Gula.md",
+    "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro/Envidia.md",
+    "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro/Avaricia.md",
+    "Campañas/Hijos Del Fango/Facciones/Cazadores de la noche.md",
+    "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro.md",
+    "RealmKeeper.md",
+    "templates/event-template.md",
+    "Oneshots/Ratas y Zorros/Ratas y Zorros.md",
+    "_templates/region-template.md",
+    "Oneshots/Once Asaltos Bajo Nexus/Once Asaltos Bajo Nexus.md",
+    "Oneshots/Ratones y Monstruos/Ratones y Monstruos.md",
+    "templates/faction-template.md",
+    "templates/location-template.md",
+    "templates/npc-template.md",
+    "templates/player-character-template.md",
+    "templates/region-template.md",
+    "templates/session-template.md",
+    "_templates",
+    "Campañas/Hijos Del Fango/Sesiones/Sesión 3 Hijos del fango.md",
     "_assets/magic_rivals_poster.png",
     "_assets/magic_rivals_poster-1.png",
     "Campañas/Hijos Del Fango/Jugadores/Tortuardo.md",
-    "Campañas/Hijos Del Fango/Sesiones/Sesión 3 Hijos del fango.md",
     "Campañas/Hijos Del Fango/Sesiones/Sesión 2 Hijos del fango.md",
     "Campañas/Hijos Del Fango/Sesiones/Sesión 3 Hijos del fango 1.md",
-    "Campañas/Hijos Del Fango/Jugadores/Cornelius.md",
-    "Campañas/Hijos Del Fango/Jugadores/Amapola.md",
-    "Campañas/Hijos Del Fango/Sesiones/Sesión 0 Hijos del fango.md",
-    "Campañas/Hijos Del Fango/Sesiones/Sesión 1 Hijos del fango.md",
-    "Campañas/Hijos Del Fango/La tesis perdida.md",
-    "Campañas/Hijos Del Fango/Hijos Del Fango.md",
-    "Campañas/Hijos Del Fango/Jugadores/Neftalí.md",
-    "Llama Sagrada.md",
-    "Campañas/Hijos Del Fango/Jugadores/Clank.md",
-    "Campañas/Hijos Del Fango/Jugadores/Cantharella.md",
-    "Campañas/Hijos Del Fango/Jugadores/Raik.md",
-    "Campañas/Hijos Del Fango/Facciones/Pueblo de Fangoalto/Abuela Fragopyro.md",
-    "Campañas/Hijos Del Fango/Facciones/Pueblo de Fangoalto/Dorkan el Herrero.md",
-    "Campañas/Hijos Del Fango/Facciones/Pueblo de Fangoalto/Ben Viejo Loco.md",
-    "World/Wei/Tierras Del Este/Llamaforja.md",
-    "Campañas/Hijos Del Fango/Facciones/_Cazadores de la noche/Valkar el Purificador.md",
-    "Campañas/Hijos Del Fango/Facciones/_Cazadores de la noche.md",
-    "Campañas/Hijos Del Fango/Facciones/_Criaturas del Barro.md",
-    "Campañas/Hijos Del Fango/Facciones/Gremio de cazadores.md",
-    "Campañas/Hijos Del Fango/Facciones/Pueblo de Fangoalto.md",
-    "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro/Ira.md",
     "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro",
     "Campañas/Hijos Del Fango/Facciones/_Criaturas del Barro",
-    "Campañas/Hijos Del Fango/Facciones/_Cazadores de la noche",
+    "Campañas/Hijos Del Fango/Facciones/Cazadores de la noche",
     "Draft.base",
     "_assets/Fangoalto.png",
     "_assets/scene (1).png",
@@ -224,10 +226,8 @@
     "Campañas/Hijos Del Fango/Sesiones",
     "Campañas/Hijos Del Fango/Jugadores",
     "Campañas/Hijos Del Fango/Facciones/Pueblo de Fangoalto",
-    "Campañas/Hijos Del Fango/Facciones/Gremio de cazadores",
     "Assets/Wei-Autumn.jpg",
     "Assets/Wei-Summer.jpg",
-    "Assets/Wei-Spring.jpg",
     "Sin título.canvas"
   ]
 }

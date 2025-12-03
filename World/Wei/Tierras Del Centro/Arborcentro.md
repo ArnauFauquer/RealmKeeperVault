@@ -4,12 +4,6 @@ tags:
   - wei
   - tierrasDelCentro
 type: location
-region: tierrasDelCentro
-element:
-  - earth
-  - water
-  - air
-  - fire
 ---
 # Arborcentro
 

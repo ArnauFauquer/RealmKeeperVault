@@ -3,6 +3,9 @@ type: playerCharacter
 tags:
   - pc
   - wei
+  - draft
+  - (usa [[location-template]])
+  - (usa [[faction-template]]))
 ---
 # Nombre del Personaje
 

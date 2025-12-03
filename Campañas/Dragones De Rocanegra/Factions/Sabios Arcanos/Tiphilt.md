@@ -6,8 +6,6 @@ tags:
   - sabios
   - azotamentes
   - arcano
-faction:
-  - - Sabios Arcanos
 ---
 # Tiphilt
 

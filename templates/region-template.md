@@ -2,13 +2,10 @@
 tags:
   - region
   - wei
+  - draft
+  - (usa [[location-template]])
+  - (usa [[faction-template]]))
 type: region
-world: (wei)
-element:
-  - earth
-  - air
-  - fire
-  - water
 ---
 # Nombre de la Región
 

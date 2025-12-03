@@ -6,8 +6,7 @@ tags:
   - aventureros
   - genasi
   - fuego
-faction:
-  - - Gremio de Aventureros
+
 ---
 # Fénix
 

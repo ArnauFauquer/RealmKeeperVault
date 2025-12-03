@@ -5,8 +5,6 @@ tags:
   - wei
   - enanos
   - rocanegra
-faction:
-  - - Enanos de Rocanegra
 ---
 # Jarl Dragarthia Piedraforjada
 

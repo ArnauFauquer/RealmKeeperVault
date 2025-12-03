@@ -4,10 +4,7 @@ tags:
   - wei
   - tierrasDelSud
 type: location
-region: tierrasDelSud
-element:
-  - water
-  - air
+
 ---
 # Coralia
 

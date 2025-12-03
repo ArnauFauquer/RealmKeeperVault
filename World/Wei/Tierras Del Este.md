@@ -4,9 +4,7 @@ tags:
   - wei
   - tierrasDelEste
 type: region
-world: wei
-element:
-  - fire
+
 ---
 # Tierras Del Este
 

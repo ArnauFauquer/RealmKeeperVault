@@ -4,9 +4,6 @@ tags:
   - wei
   - tierrasDelSud
 type: region
-world: wei
-element:
-  - water
 ---
 # Tierras Del Sud
 

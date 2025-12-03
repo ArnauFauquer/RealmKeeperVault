@@ -4,11 +4,6 @@ tags:
   - wei
   - tierrasDelNorte
 type: location
-region: tierrasDelNorte
-element:
-  - earth
-aliases:
-  - Terrafértil  # nombre anterior normalizado
 ---
 # Tierrafértil
 

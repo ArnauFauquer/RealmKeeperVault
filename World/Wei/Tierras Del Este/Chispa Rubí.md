@@ -4,10 +4,7 @@ tags:
   - wei
   - tierrasDelEste
 type: location
-region: tierrasDelEste
-element:
-  - fire
-  - earth
+
 ---
 # Chispa Rubí
 

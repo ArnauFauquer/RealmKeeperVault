@@ -4,8 +4,6 @@ tags:
   - faction
   - wei
   - tierrasDelEste
-campaign: hijos del fango
-location: Mansión Blodstone
 ---
 # Gremio de Cazadores
 

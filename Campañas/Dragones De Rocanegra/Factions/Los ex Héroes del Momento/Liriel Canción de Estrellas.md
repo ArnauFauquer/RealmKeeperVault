@@ -6,8 +6,6 @@ tags:
   - ex-heroes
   - bardo
   - medio-elfa
-faction:
-  - - Los ex Héroes del Momento
 ---
 # Liriel Canción de Estrellas
 

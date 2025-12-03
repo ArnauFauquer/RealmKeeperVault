@@ -4,8 +4,7 @@ tags:
   - npc
   - wei
   - hijosDelFango
-faction: Gremio de cazadores
-location: Mansión Blodstone
+  - draft
 ---
 # Joze Pequenho
 

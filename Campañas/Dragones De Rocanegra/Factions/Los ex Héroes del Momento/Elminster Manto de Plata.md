@@ -6,8 +6,6 @@ tags:
   - ex-heroes
   - elfo
   - mago
-faction:
-  - - Los ex Héroes del Momento
 ---
 # Elminster Manto de Plata
 

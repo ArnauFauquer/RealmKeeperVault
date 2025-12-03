@@ -4,12 +4,6 @@ tags:
   - wei
   - tierrasDelCentro
 type: location
-region: tierrasDelCentro
-element:
-  - air
-  - fire
-  - earth
-  - water
 ---
 # Bell End
 

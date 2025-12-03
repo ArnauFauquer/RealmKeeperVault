@@ -7,6 +7,7 @@ tags:
   - criaturaBarro
   - aracnida
   - acaparadora
+  - draft
 ---
 # Avaricia
 

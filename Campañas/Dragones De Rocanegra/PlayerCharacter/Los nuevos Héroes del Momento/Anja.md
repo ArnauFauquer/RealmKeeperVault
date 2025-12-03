@@ -3,8 +3,6 @@ type: playerCharacter
 tags:
   - pc
   - wei
-faction:
-  - - Los nuevos Héroes del Momento
 ---
 # Anja
 

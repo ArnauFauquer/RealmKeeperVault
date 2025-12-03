@@ -4,10 +4,6 @@ tags:
   - wei
   - tierrasDelSud
 type: location
-region: tierrasDelSud
-element:
-  - water
-  - earth
 ---
 # Badía Espejo
 

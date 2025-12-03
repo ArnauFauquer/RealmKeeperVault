@@ -3,8 +3,6 @@ type: npc
 tags:
   - npc
   - wei
-faction:
-  - - Los ex Héroes del Momento
 ---
 # Adrael Hoja de sangre
 

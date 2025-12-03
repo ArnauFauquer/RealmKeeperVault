@@ -6,9 +6,6 @@ tags:
   - templo
   - religioso
 type: location
-region: tierrasDelEste
-element:
-  - fire
 ---
 # Llamaforja
 

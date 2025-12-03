@@ -4,10 +4,6 @@ tags:
   - wei
   - tierrasDelEste
 type: location
-region: tierrasDelEste
-element:
-  - fire
-  - shadow
 ---
 # Mansión de los Blodstone
 

@@ -3,8 +3,8 @@ type: session
 tags:
   - session
   - campaña
-campaign: nombre-campaña
-session_number: X
+  - nombre-campaña
+  - draft
 date: YYYY-MM-DD
 ---
 # Sesión X: Título de la Sesión

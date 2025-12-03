@@ -4,9 +4,6 @@ tags:
   - wei
   - tierrasDelNorte
 type: region
-world: wei
-element:
-    - earth
 ---
 # Tierras Del Norte
 

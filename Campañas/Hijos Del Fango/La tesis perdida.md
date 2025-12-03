@@ -6,7 +6,7 @@ tags:
   - mito
   - fuego
   - origen
-world: wei
+
 ---
 # La Llama Sagrada
 

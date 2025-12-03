@@ -3,7 +3,7 @@ type: event
 tags:
   - event
   - wei
-world: wei
+  - draft
 ---
 # Nombre del Evento
 

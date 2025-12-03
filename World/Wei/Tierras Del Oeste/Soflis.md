@@ -4,10 +4,6 @@ tags:
   - wei
   - tierrasDelOeste
 type: location
-region: tierrasDelOeste
-element:
-  - air
-  - water
 ---
 # Soflis
 

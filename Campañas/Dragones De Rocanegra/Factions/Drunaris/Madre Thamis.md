@@ -5,8 +5,6 @@ tags:
   - wei
   - drunaris
   - dustoria
-faction:
-  - - Drunaris
 ---
 # Madre Thamis
 

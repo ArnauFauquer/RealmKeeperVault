@@ -4,9 +4,6 @@ tags:
   - wei
   - tierrasDelOeste
 type: region
-world: wei
-element:
-  - air
 ---
 # Tierras Del Oeste
 

@@ -7,6 +7,7 @@ tags:
   - criaturaBarro
   - mecanica
   - observadora
+  - draft
 ---
 # Pereza
 

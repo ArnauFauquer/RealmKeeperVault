@@ -3,8 +3,6 @@ type: npc
 tags:
   - npc
   - wei
-faction: Pueblo de Arcilla Verde
-location: Arcilla Verde
 ---
 # Doña Petra Cebolla
 

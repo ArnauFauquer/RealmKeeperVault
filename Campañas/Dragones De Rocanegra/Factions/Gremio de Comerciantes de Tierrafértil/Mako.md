@@ -6,8 +6,6 @@ tags:
   - tierrafertil
   - comercio
   - marino
-faction:
-  - - Gremio de Comerciantes de Tierrafértil
 ---
 # Mako
 

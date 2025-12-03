@@ -4,9 +4,7 @@ tags:
   - wei
   - tierrasDelNorte
 type: location
-region: tierrasDelNorte
-element:
-    - earth
+
 ---
 # Desierto de Dustoria
 
