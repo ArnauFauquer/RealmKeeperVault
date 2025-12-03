@@ -10,6 +10,8 @@ tags:
 
 ## Identidad
 
+[[Bell End]]
+
 ## Origen e historia
 
 ## Estructura y liderazgo

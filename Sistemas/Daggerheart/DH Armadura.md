@@ -1,3 +1,8 @@
+---
+type: mechanic
+tags:
+  - daggerheart
+---
 
 # Armadura
 

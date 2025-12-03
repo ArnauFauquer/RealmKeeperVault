@@ -21,7 +21,7 @@ Lema: "Registra, cumple, cobra y cuenta".
 
 ## Origen e historia
 
-Surgió para unificar tablones dispersos de encargos en un sistema de rangos y validación post-[[Guerra de los 1000 años]]. La llegada los humanoides elementales de fuego [[Fénix]] aportó liderazgo carismático y un código informal de camaradería. La inclusión de una colonia de ratones mensajeros profesionalizó la logística interna.
+Surgió para unificar tablones dispersos de encargos en un sistema de rangos y validación post-[[Guerra de los 1000 Años]]. La llegada los humanoides elementales de fuego [[Fénix]] aportó liderazgo carismático y un código informal de camaradería. La inclusión de una colonia de ratones mensajeros profesionalizó la logística interna.
 
 ## Estructura y liderazgo
 

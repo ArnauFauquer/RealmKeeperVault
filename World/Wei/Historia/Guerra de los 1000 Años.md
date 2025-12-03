@@ -1,9 +1,8 @@
 ---
-type: event
+type: history
 tags:
-  - event
   - wei
-
+  - history
 ---
 # Guerra de los 1000 Años
 

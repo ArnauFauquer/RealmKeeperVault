@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8d74afa5e3f053bc",
+        "id": "9302498519fb2ba7",
         "type": "tabs",
         "children": [
           {
-            "id": "16d211944d861bad",
+            "id": "0fc820810f075cee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campañas/Hijos Del Fango/Facciones/Gremio de cazadores/Joze Pequenho.md",
+                "file": "Oneshots/La maldicion del hombre lobo/La maldición del hombre lobo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Joze Pequenho"
+              "title": "La maldición del hombre lobo"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campañas/Hijos Del Fango/Sesiones/Sesión 1 Hijos del fango.md",
+                "file": "Oneshots/La maldicion del hombre lobo/La maldición del hombre lobo.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Sesión 1 Hijos del fango"
+              "title": "Enlaces entrantes de La maldición del hombre lobo"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campañas/Hijos Del Fango/Facciones/Gremio de cazadores/Joze Pequenho.md",
+                "file": "Oneshots/La maldicion del hombre lobo/La maldición del hombre lobo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Joze Pequenho"
+              "title": "Enlaces salientes de La maldición del hombre lobo"
             }
           },
           {
@@ -128,7 +128,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -167,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 453.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,37 +180,37 @@
       "graph:Abrir vista gráfica": false
     }
   },
-  "active": "16d211944d861bad",
+  "active": "0fc820810f075cee",
   "lastOpenFiles": [
-    "Campañas/Hijos Del Fango/Facciones/Cazadores de la noche/Valkar el Purificador.md",
-    "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro/Soberbia.md",
-    "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro/Pereza.md",
-    "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro/Lujuria.md",
-    "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro/Ira.md",
-    "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro/Gula.md",
-    "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro/Envidia.md",
-    "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro/Avaricia.md",
-    "Campañas/Hijos Del Fango/Facciones/Cazadores de la noche.md",
-    "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro.md",
+    "Sistemas/EarlyAdopter/EA Salud.md",
+    "Sistemas/EarlyAdopter.md",
+    "Sistemas/EarlyAdopter/EA Acciones.md",
+    "Sin título.base",
+    "Sistemas/Daggerheart.md",
+    "Sistemas/EarlyAdopter/EA Bonus.md",
+    "Sistemas/EarlyAdopter/EA Habilidades.md",
+    "Oneshots/Vacaciones en BellEnd/Vacaciones en BellEnd.md",
+    "Oneshots/Vacaciones en BellEnd/factions/Pueblo de Bellend/Penelope ciruelo.md",
+    "Oneshots/Vacaciones en BellEnd/factions/Pueblo de Bellend/Matilda Shankbone.md",
+    "Oneshots/Vacaciones en BellEnd/factions/Pueblo de Bellend/Clementine semilla manzana.md",
+    "Oneshots/Vacaciones en BellEnd/factions/Pueblo de Bellend.md",
+    "Oneshots/Vacaciones en BellEnd/factions/Pueblo de Bellend/Teddy dedogordo.md",
+    "Oneshots/Vacaciones en BellEnd/factions/Pueblo de Bellend/Stan migaja.md",
+    "Oneshots/Vacaciones en BellEnd/factions/Pueblo de Bellend/Percival corteza pino.md",
+    "Oneshots/Vacaciones en BellEnd/factions/Pueblo de Bellend/Padre Barty Quill.md",
+    "Oneshots/Vacaciones en BellEnd/factions/Pueblo de Bellend/Jasper milla acero.md",
+    "Oneshots/Vacaciones en BellEnd/factions/Pueblo de Bellend/Alistar engranaje silvato.md",
+    "Campañas/Hijos Del Fango/La tesis perdida.md",
+    "templates/history-template.md",
     "RealmKeeper.md",
-    "templates/event-template.md",
-    "Oneshots/Ratas y Zorros/Ratas y Zorros.md",
-    "_templates/region-template.md",
-    "Oneshots/Once Asaltos Bajo Nexus/Once Asaltos Bajo Nexus.md",
-    "Oneshots/Ratones y Monstruos/Ratones y Monstruos.md",
-    "templates/faction-template.md",
-    "templates/location-template.md",
-    "templates/npc-template.md",
-    "templates/player-character-template.md",
-    "templates/region-template.md",
-    "templates/session-template.md",
+    "World/Wei.md",
+    "Campañas/Dragones De Rocanegra/Factions/Hermanos de la Sangre.md",
+    "Campañas/Dragones De Rocanegra/Factions/Drunaris/Grider Comeconejos.md",
+    "Sistemas/Daggerheart/DH Dominios.md",
+    "Campañas/Hijos Del Fango/Facciones/Gremio de cazadores/Joze Pequenho.md",
     "_templates",
-    "Campañas/Hijos Del Fango/Sesiones/Sesión 3 Hijos del fango.md",
     "_assets/magic_rivals_poster.png",
     "_assets/magic_rivals_poster-1.png",
-    "Campañas/Hijos Del Fango/Jugadores/Tortuardo.md",
-    "Campañas/Hijos Del Fango/Sesiones/Sesión 2 Hijos del fango.md",
-    "Campañas/Hijos Del Fango/Sesiones/Sesión 3 Hijos del fango 1.md",
     "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro",
     "Campañas/Hijos Del Fango/Facciones/_Criaturas del Barro",
     "Campañas/Hijos Del Fango/Facciones/Cazadores de la noche",
@@ -222,10 +222,9 @@
     "_assets/Wei-Spring.jpg",
     "_assets/Wei-Autumn.jpg",
     "Campañas/Hijos Del Fango/Facciones/Cazadores de la noche",
-    "World/Wei/Patrones",
+    "World/Wei/Deidades",
     "Campañas/Hijos Del Fango/Sesiones",
     "Campañas/Hijos Del Fango/Jugadores",
-    "Campañas/Hijos Del Fango/Facciones/Pueblo de Fangoalto",
     "Assets/Wei-Autumn.jpg",
     "Assets/Wei-Summer.jpg",
     "Sin título.canvas"

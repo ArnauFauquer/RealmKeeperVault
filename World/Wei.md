@@ -1,6 +1,7 @@
 ---
 tags:
   - wei
+type: world
 ---
 # Wei
 

@@ -1,1 +1,3 @@
-# Jofre Piedrafirme
+---
+type: npc
+---

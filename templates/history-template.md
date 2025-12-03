@@ -1,11 +1,11 @@
 ---
-type: event
+type: history
 tags:
-  - event
   - wei
   - draft
+  - history
 ---
-# Nombre del Evento
+# Nombre de la historia
 
 > Frase muy breve que capture tono y naturaleza.
 

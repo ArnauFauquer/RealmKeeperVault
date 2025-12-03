@@ -1,3 +1,7 @@
+---
+type: mechanic
+---
+
 # Armas
 
 ## NIVEL 1

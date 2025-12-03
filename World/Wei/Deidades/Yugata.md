@@ -1,5 +1,5 @@
 ---
-type: npc
+type: deity
 tags:
   - npc
   - wei

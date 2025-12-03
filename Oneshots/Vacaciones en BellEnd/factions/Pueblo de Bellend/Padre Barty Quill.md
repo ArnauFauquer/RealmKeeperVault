@@ -16,4 +16,4 @@ tags:
 
 ## Relaciones
 
-En Bell's End, un lugar de trabajo duro, la llegada de un sacerdote como Barty Quill, con aspecto angelical pero ignorado, generó risas entre los lugareños. A pesar de su suavidad, ocultaba un espíritu fuerte, dispuesto a demostrar que incluso lo más delicado puede superar lo más imponente.
+En [[Bell End]], un lugar de trabajo duro, la llegada de un sacerdote como Barty Quill, con aspecto angelical pero ignorado, generó risas entre los lugareños. A pesar de su suavidad, ocultaba un espíritu fuerte, dispuesto a demostrar que incluso lo más delicado puede superar lo más imponente.

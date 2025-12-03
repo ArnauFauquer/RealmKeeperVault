@@ -70,7 +70,7 @@ En la siguiente sala encuentran a [[Tiphilt]] junto a **[[Aspiro]]**, un **drag�
    → **[[Nagisha]]** el dragón rojo, hijo de [[Garrix]] y [[Misha]]
 
 3. **¿Qué significa el último mural de [[Rocanegra]]?**
-   → Las losas detallan la creación, la destrucción tras la [[Guerra de los 1000 años]], y el pueblo dividido (enanos y orcos). Lo que queda es una **profecía sentenciada por la palabra de la suerte**
+   → Las losas detallan la creación, la destrucción tras la [[Guerra de los 1000 Años]], y el pueblo dividido (enanos y orcos). Lo que queda es una **profecía sentenciada por la palabra de la suerte**
 
 4. **¿Qué héroe ha desaparecido en [[Rocanegra]]?**
    → **[[Adrael Hoja de sangre]] Hoja de Sangre**

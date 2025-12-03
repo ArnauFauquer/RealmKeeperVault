@@ -1,12 +1,11 @@
 ---
-type: event
+type: history
 tags:
-  - event
   - wei
   - mito
   - fuego
   - origen
-
+  - history
 ---
 # La Llama Sagrada
 

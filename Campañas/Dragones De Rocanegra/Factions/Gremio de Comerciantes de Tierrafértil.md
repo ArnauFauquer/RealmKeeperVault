@@ -22,7 +22,7 @@ Lema: "Equilibrio por el trueque justo".
 
 ## Origen e historia
 
-Surgió tras la estabilización post-[[Guerra de los 1000 años]] para coordinar excedentes agrícolas de [[Tierrafértil]] con demanda mineral y artesanal de enclaves como [[Enanos de Rocanegra]]. Reunió comerciantes independientes bajo acuerdos de mutua defensa y arbitraje neutro. La incorporación del autómata rescatado For-jon como capataz consolidó su autoridad logística.
+Surgió tras la estabilización post-[[Guerra de los 1000 Años]] para coordinar excedentes agrícolas de [[Tierrafértil]] con demanda mineral y artesanal de enclaves como [[Enanos de Rocanegra]]. Reunió comerciantes independientes bajo acuerdos de mutua defensa y arbitraje neutro. La incorporación del autómata rescatado For-jon como capataz consolidó su autoridad logística.
 
 ## Estructura y liderazgo
 

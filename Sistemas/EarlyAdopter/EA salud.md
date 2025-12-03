@@ -1,8 +1,8 @@
 ---
 type: mechanic
-system: earlyadopter
 ---
 # Salud
+La salud en el las reglas de [[EarlyAdopter]] funciona de la siguiente manera.
 
 - 4 puntos de salud los jugadores
 - 5 puntos de salud los monstruos

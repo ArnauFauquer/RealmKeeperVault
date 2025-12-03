@@ -16,4 +16,4 @@ tags:
 
 ## Relaciones
 
-Percival Pinstripe, un elfo noble y habilidoso sastre, enfrentó el rechazo de su familia y la inseguridad inicial en su arte. Después, encontró refugio en Bell's End, donde convirtió retazos olvidados en obras maestras, transformando su tienda caótica en un símbolo de resiliencia y esperanza.
+Percival Pinstripe, un elfo noble y habilidoso sastre, enfrentó el rechazo de su familia y la inseguridad inicial en su arte. Después, encontró refugio en [[Bell End]], donde convirtió retazos olvidados en obras maestras, transformando su tienda caótica en un símbolo de resiliencia y esperanza.

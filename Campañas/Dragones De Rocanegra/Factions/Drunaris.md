@@ -22,7 +22,7 @@ Lema: "Suerte es escuchar el susurro correcto".
 
 ## Origen e historia
 
-Descendientes de comunidades agrícolas previas a la [[Guerra de los 1000 años]] que transformó praderas fértiles en el [[Desierto de Dustoria]]. Adaptaron técnicas de cultivo subterráneo y camuflaje térmico. La transición de prado a desierto generó mitos sobre un "Pacto con la Arena" preservado por las pitonisas de la Palabra de la Suerte. La capital tribal se reorganizó alrededor del asentamiento parcialmente excavado de [[Pueblo en la Montaña Arenisca]].
+Descendientes de comunidades agrícolas previas a la [[Guerra de los 1000 Años]] que transformó praderas fértiles en el [[Desierto de Dustoria]]. Adaptaron técnicas de cultivo subterráneo y camuflaje térmico. La transición de prado a desierto generó mitos sobre un "Pacto con la Arena" preservado por las pitonisas de la Palabra de la Suerte. La capital tribal se reorganizó alrededor del asentamiento parcialmente excavado de [[Pueblo en la Montaña Arenisca]].
 
 ## Estructura y liderazgo
 

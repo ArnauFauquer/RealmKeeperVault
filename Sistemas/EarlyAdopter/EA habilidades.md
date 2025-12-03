@@ -1,8 +1,10 @@
 ---
 type: mechanic
-system: earlyadopter
 ---
 # Habilidades
+Las habilidades en el las reglas de [[EarlyAdopter]] funciona de la siguiente manera.
+
+Siempre se usa 1 dado de 20 caras (1d20) para superar las pruebas con sacar un 12 o mas vale.
 
 ## Fuerza
 

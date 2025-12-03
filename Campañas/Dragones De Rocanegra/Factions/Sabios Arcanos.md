@@ -22,7 +22,7 @@ Lema: "Memoria antes que poder".
 
 ## Origen e historia
 
-Formados tras fracturas de tradición mágica provocadas por la [[Guerra de los 1000 años]]. Agruparon fragmentos de bibliotecas dispersas en cámaras de eco rúnico del [[Templo de la sabiduría]]. El liderazgo dracónico de [[Aspiro]] aportó neutralidad externa y longevidad estratégica. Castigos ejemplares (como la maldición de [[Tiphilt]]) fijaron protocolos éticos.
+Formados tras fracturas de tradición mágica provocadas por la [[Guerra de los 1000 Años]]. Agruparon fragmentos de bibliotecas dispersas en cámaras de eco rúnico del [[Templo de la sabiduría]]. El liderazgo dracónico de [[Aspiro]] aportó neutralidad externa y longevidad estratégica. Castigos ejemplares (como la maldición de [[Tiphilt]]) fijaron protocolos éticos.
 
 ## Estructura y liderazgo
 

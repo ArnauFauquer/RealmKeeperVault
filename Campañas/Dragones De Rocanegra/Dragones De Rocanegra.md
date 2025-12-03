@@ -14,9 +14,9 @@ Unos jóvenes aventureros de alrededor de todo [[Wei]] reciben una carta del [[G
 
 ## Antecedentes
 
-Durante siglos, los [[Enanos de Rocanegra]]  y los **dragones** mantuvieron un pacto de cooperación: forja y minería a cambio de protección dracónica y conocimiento ancestral durante la [[Guerra de los 1000 años]].
+Durante siglos, los [[Enanos de Rocanegra]]  y los **dragones** mantuvieron un pacto de cooperación: forja y minería a cambio de protección dracónica y conocimiento ancestral durante la [[Guerra de los 1000 Años]].
 
-Últimamente, tensiones económicas y disputas sobre vetas de mithril provocaron resentimiento entre Orcos y las heridas no sanadas de una confrontación antigua, La [[Guerra de los 1000 años]].
+Últimamente, tensiones económicas y disputas sobre vetas de mithril provocaron resentimiento entre Orcos y las heridas no sanadas de una confrontación antigua, La [[Guerra de los 1000 Años]].
 Aprovechando la fractura, los **Orcos** alentados por los **Gigantes** [[Orthning]] se aliaron creando la secta esotérica [[Hermanos de la Sangre]], quienes desean realizar un ritual para esclavizar o corromper a un dragón aun no nacido.
 
 El [[Poblado de Azhrog]] realizó escaramuzas que culminaron en un intento de devastar la capital enana ([[Rocanegra]]), forzando a los enanos a dividir sus fuerzas entre defensa y control de minas profundas.

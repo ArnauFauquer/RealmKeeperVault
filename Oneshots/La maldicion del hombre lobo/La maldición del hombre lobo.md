@@ -3,25 +3,33 @@ type: campain
 tags:
   - wei
 ---
-# La maldicion del hombre lobo
+# La maldición del hombre lobo
+
+>  La oneshot esta basada en la pelicula [La maldición del hombre lobo](https://www.imdb.com/es-es/title/tt15318872/?ref_=fn_t_4)
 
 ## Entrada de los cazadores
 
-los jugadores entran uno por uno a una sala llena de tesoros, reliquias, monstruos disecados. Esta sala parece ser un salón, estanterías repletas de libros, sillones rojos, una chimenea encendía, destaca algo más en la habitación, un ataúd negro lleno de engranajes.
+Los jugadores entran uno por uno a [[Mansión de los Blodstone]], en una sala llena de tesoros de, reliquias, monstruos disecados. Esta sala parece ser un salón, estanterías repletas de libros, sillones rojos, una chimenea encendía, destaca algo más en la habitación, un ataúd negro lleno de engranajes.
 
 ## Discurso y entrada al laberinto
 
-los se sientan y verusa la amante de ulyses blodstone da un discurso, después de eso los cazadores entregan las armas y escogen quien entra primero (D20 el más alto va primero)
+Se sientan y Verusa la amante de Ulyses Blodstone da un discurso, después de eso los cazadores se presentan. 
+
+El objetivo el juego para los jugadores es entrar el laberinto, encontrar la piedra y el monstruo para heredar el [[Gremio de cazadores]].
 
 ## Laberinto
 
-empieza el juego
+El juego empieza.
 
-## la tumba de los blodstone
+Las armas se reparten aleatoriamente en el mapa.
+
+El primero en entrares quien saque la tirada de dados más alto(1d20), luego sentido horario en la mesa de jugadores. Antes de dar la vuelta va el monstruo (si sois muchos el monstruo puede ir a la mitad y al principio de orden de jugadores).
+
+## La tumba de los blodstone
 
 en el centro del laberinto hay una tumba de la familia de los blodstone,
 
-si alguien cierra la puerta una trampa se activa. Encima la puerta un texto pone di la respuesta en alto o muere. Tres intentos de 2 minutos para resolver un acertijo, en caso de que falle los tres una sierra gigante partirá en dos quien este dentro.
+si alguien entra la puerta una trampa se activa. Encima la puerta un texto pone di la respuesta en alto o muere. Tres intentos de 2 minutos para resolver un acertijo, en caso de que falle los tres una sierra gigante partirá en dos quien este dentro.
 
 d20
 
@@ -48,11 +56,11 @@ d20
 
 ## Renuard tira la piedra
 
-Sí le quitan la piedra de sangre a renuard en una dirección aleatoria
+Sí le quitan la piedra de sangre al monstruo Renuard lanzara la piedra en una dirección aleatoria antes.
 
 ## Renuard escapa
 
-si renuard escapa del laberinto, verusa parará la competición y transformará al hombre lobo con la piedra de sangre junto a quien le haya ayudado.
+Si Renuard escapa del laberinto, verusa parará la competición y transformará al hombre lobo con la piedra de sangre junto a quien le haya ayudado.
 
 ## Resolución
 
@@ -63,7 +71,9 @@ Alguien tiene que quedarse con la piedra y con el legado de uyses blodstone.
 
 ## Roles
 
-### Monstruo del laberinto
+Los jugadores antes de nada tienen que coger secretamente una carta del lobo.
+
+### Monstruo del laberinto (Es el GM)
 
 eres un monstruo llamado Renaud, te han atado a este laberinto y tienes que escapar.
 
@@ -75,12 +85,13 @@ si alguien te ataca tienes que asustar a esa persona para obligarla a huir Prese
 
 Duelo CR16 matas de un golpe a la persona.
 
-### Hombre lobo
+### Hombre lobo (obligatorio)
 
 nadie sabe que eres un licántropo
 
-no es malvado, menos cuando se transforma en bestia.
+no es malvado, pero si lo eres cuando se transforma en bestia.
 
+No es luna llena.
 Si te transformas tienes un +3 en todas las tiradas y tienes que atacar a todos menos a los buenos.
 
 Tu objetivo es:
@@ -89,7 +100,7 @@ liberar al monstruo Renaud del laberinto (con una bomba podrías hacer un hueco 
 ayudar a las buenas personas (el/la heredero/a parece maja)
 no morir
 
-### heredero
+### Heredero (obligatorio)
 
 Te apellida Blodstone, no es malvado/a eres la heredera, pero como te fugaste de casa no tienes privilegios durante la noche de hoy
 
@@ -103,7 +114,7 @@ conseguir la piedra de sangre
 
 ### Esbirro
 
-eres el malvado y un sirviente más en el gremio de cazadores de monstruos
+eres el malvado y un sirviente más en el [[gremio de cazadores]] de monstruos
 
 tu objetivo es:
 
