@@ -11,14 +11,10 @@
             "id": "0fc820810f075cee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Oneshots/La maldicion del hombre lobo/La maldición del hombre lobo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "La maldición del hombre lobo"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oneshots/La maldicion del hombre lobo/La maldición del hombre lobo.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de La maldición del hombre lobo"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oneshots/La maldicion del hombre lobo/La maldición del hombre lobo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de La maldición del hombre lobo"
+              "title": "Enlaces salientes"
             }
           },
           {
@@ -182,6 +176,17 @@
   },
   "active": "0fc820810f075cee",
   "lastOpenFiles": [
+    "templates/session-template.md",
+    "templates/faction-template.md",
+    "templates/region-template.md",
+    "Oneshots/La maldicion del hombre lobo/La maldición del hombre lobo.md",
+    "World/Wei/Historia/Guerra de los 1000 Años.md",
+    "World/Wei/Deidades/Potroneo.md",
+    "World/Wei/Deidades/Yugata.md",
+    "World/Wei/Deidades/Anam.md",
+    "Oneshots/La pócima de la voluntad/La pócima de la voluntad.md",
+    "Oneshots/Ratones y Monstruos/Ratones y Monstruos.md",
+    "Oneshots/Ratas y Zorros/Ratas y Zorros.md",
     "Sistemas/EarlyAdopter/EA Salud.md",
     "Sistemas/EarlyAdopter.md",
     "Sistemas/EarlyAdopter/EA Acciones.md",
@@ -198,16 +203,6 @@
     "Oneshots/Vacaciones en BellEnd/factions/Pueblo de Bellend/Stan migaja.md",
     "Oneshots/Vacaciones en BellEnd/factions/Pueblo de Bellend/Percival corteza pino.md",
     "Oneshots/Vacaciones en BellEnd/factions/Pueblo de Bellend/Padre Barty Quill.md",
-    "Oneshots/Vacaciones en BellEnd/factions/Pueblo de Bellend/Jasper milla acero.md",
-    "Oneshots/Vacaciones en BellEnd/factions/Pueblo de Bellend/Alistar engranaje silvato.md",
-    "Campañas/Hijos Del Fango/La tesis perdida.md",
-    "templates/history-template.md",
-    "RealmKeeper.md",
-    "World/Wei.md",
-    "Campañas/Dragones De Rocanegra/Factions/Hermanos de la Sangre.md",
-    "Campañas/Dragones De Rocanegra/Factions/Drunaris/Grider Comeconejos.md",
-    "Sistemas/Daggerheart/DH Dominios.md",
-    "Campañas/Hijos Del Fango/Facciones/Gremio de cazadores/Joze Pequenho.md",
     "_templates",
     "_assets/magic_rivals_poster.png",
     "_assets/magic_rivals_poster-1.png",

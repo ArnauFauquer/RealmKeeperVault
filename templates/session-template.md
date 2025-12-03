@@ -15,18 +15,16 @@ date: YYYY-MM-DD
 
 ### Inicio
 
- Cómo empezó la sesión
+ Cómo empezó la sesión (usa [[npc-template]] y [[player-character-template]]) (usa [[location-template]])
 
 ### Desarrollo
 
-- Encuentro/evento principal
-- Decisión importante del grupo
-- Momento destacado
-
+ Este apartado no lo escribas, es donde los jugadores tomaran sus decisiones
 ### Final
 
 - Cómo terminó y hook para la próxima
 
 ## Momentos
 
+Este apartado no lo escribas, es donde los jugadores tomaran sus decisiones
 - **Quote memorable** - *Quién lo dijo*

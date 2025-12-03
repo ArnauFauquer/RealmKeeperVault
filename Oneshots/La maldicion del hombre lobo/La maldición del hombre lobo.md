@@ -5,7 +5,7 @@ tags:
 ---
 # La maldición del hombre lobo
 
->  La oneshot esta basada en la pelicula [La maldición del hombre lobo](https://www.imdb.com/es-es/title/tt15318872/?ref_=fn_t_4)
+>  La oneshot esta basada en la pelicula [La maldición del hombre lobo](https://www.imdb.com/es-es/title/tt15318872/?ref_=fn_t_4) usando las reglas del sistema [[EarlyAdopter]]
 
 ## Entrada de los cazadores
 

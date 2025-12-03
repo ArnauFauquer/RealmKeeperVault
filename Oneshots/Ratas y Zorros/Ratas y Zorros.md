@@ -3,9 +3,9 @@ type: campain
 tags:
   - wei
 ---
-Ratas de Ciudad Tyon
-Binenvenidos abentureros soy Katheryne recepcionista de la sede del Gremio de Aventureros de ciudad Tyon.
-Estais en el centro de la ciudad delante de un kiosco tyon es la segunda capital de las tierras medianas.
+Ratas de Ciudad [[Tyon]]
+Binenvenidos abentureros soy Katheryne recepcionista de la sede del [[Gremio de Aventureros]] de ciudad [[Tyon]].
+Estais en el centro de la ciudad delante de un kiosco [[tyon]] es la segunda capital de las tierras medianas.
 
 katerine es una humana ojos lilas pelo nego i vestio amarillo,
 le acompaña un osgo llamado juseppe de pelo blanco con apariencia de bonachon, su pelo se mueve extraño.

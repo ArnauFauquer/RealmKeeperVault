@@ -21,9 +21,9 @@ Pragmático y vehemente. Cree que el progreso exige riesgo y que los dioses aban
 
 ## Motivación
 
-El fuego solo ardía en las Tierras del Este, donde moraban los dioses.
+El fuego solo ardía en las [[Tierras del Este]], donde moraban los dioses.
 El Oeste era barro, frío y silencio.
-Atravesó las Puertas de Obsidiana y robó una chispa del fuego divino
+Atravesó las [[Puertas de Obsidiana]] y robó una chispa del fuego divino
 Entregó la chispa al mundo, dando luz y esperanza a todos.
 
 ## Relaciones

@@ -27,7 +27,7 @@ Busca restaurar el estado primordial anterior al robo del fuego por [[Potroneo]]
 ## Relaciones
 
 - [[Potroneo]] – Némesis cósmico, el centauro que robó el fuego y rompió el equilibrio
-- [[Criaturas del Barro]] – Manifestaciones fragmentadas de su esencia (Ira, Gula, Soberbia, Pereza, Envidia, Avaricia, Lujuria)
+- [[Criaturas del Barro]] – Manifestaciones fragmentadas de su esencia ([[Ira]], [[Gula]], [[Soberbia]], [[Pereza]], [[Envidia]], [[Avaricia]], [[Lujuria]])
 - [[Cazadores de la noche]] – Enemigos que portan el fuego robado, especialmente odiosos por su fanatismo
-- Lodazal de Medianoche – Territorio donde su presencia es más fuerte
-- Tierras del Oeste (pre-fuego) – Territorio que reclama como suyo por derecho primordial
+- [[Lodazal de Medianoche]] – Territorio donde su presencia es más fuerte
+- [[Tierras del Oeste]] (pre-fuego) – Territorio que reclama como suyo por derecho primordial
