@@ -45,4 +45,8 @@ Tiene tacto con las abejas, desde aquel instante que una le intento picar sin é
 
 > Tristeza, el [[Lodazal de Medianoche]] me trae trizteza.
 
-**Sesión 3:** Si descubres que tenías un propósito anterior que no recuerdas, ¿qué significaría eso para ti ahora?
+**Sesión 3:** Si descubres que tenías un propósito anterior que no recuerdas, ¿Qué significaría eso para ti ahora?
+
+> Todo depende si es negativo o no. Pero no me preocupa.
+
+**Sesión 4:** Eres un ser que busca comprender sus propios sentimientos. Entre los que te rodean, ¿hay alguien cuya presencia te ayuda a entender mejor quién eres? ¿Quién te parece más fascinante o misteriosa entre la gente del pueblo de [[Fangoalto]]?

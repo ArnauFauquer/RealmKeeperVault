@@ -42,3 +42,7 @@ El recién huérfano escapa en hacia el [[Lodazal de Medianoche]] donde encuentr
 > Quiero venganza pero ayudar a quienes me ofrecen hogar.
 
 **Sesión 3:** ¿Como encontrase a Corax o como el te encontro a ti?
+
+> Salve a Corax en el [[Lodazal de Medianoche]] de la muerte. Fui muy valiente.
+
+**Sesión 4:** Eres el más joven, pero también el que ha experimentado la mayor pérdida. ¿Hay alguien en el grupo a quien consideres más interesante que los demás? ¿Alguien que te haga sentir menos solo en tu sed de venganza?

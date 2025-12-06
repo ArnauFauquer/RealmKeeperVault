@@ -30,7 +30,7 @@ Poco a poco esta descubriendo que sus habilidades fuera la tienda pueden ayudar 
 
 Por suerte tiene amigos como [[Tortuardo]], [[Cantharella]] y [[Clank]] que hacen que la vida en la aldea sea un poco mas divertida y emocionante.
 
-- le habrá gustado la corrección de la tesis a [[Cornelius]]? Que secreto tiene guardado para mi [[Abuela arcilla]]? Tengo que gustarle a todo el mundo?
+- le habrá gustado la corrección de la tesis a [[Cornelius]]? Que secreto tiene guardado para mi [[Abuela Fragopyro]]? Tengo que gustarle a todo el mundo?
 
 ## Relaciones
 
@@ -45,4 +45,8 @@ Por suerte tiene amigos como [[Tortuardo]], [[Cantharella]] y [[Clank]] que hace
 
 > No encontré nada raro
 
-**Sesión 3:** ¿Quien pinto ese cuadro que tu abuela guarda en su habitacion en el sotano?
+**Sesión 3:** ¿Qué guarda tu abuela en su habitación en el sótano?
+
+> Un señor (el cual mi abuelo i el mantenían relaciones), cuando era pequeña, le trajo un cuadro firmado de una mujer. El cuadro tiene una figura de una mujer en el centro de color negro, mientras esta bailando. A la izquierda del cuadro hay formas de agua y figuras azules i a la derecha un fuego y llamas.
+
+**Sesión 4:** En este mundo donde conviven el fuego de la pasión y el hielo del dolor, rodeada de tus compañeros más cercanos, ¿hay alguien del grupo con quien sientes que tienes una conexión especial? ¿Alguien cuyas historias te interesan más que las otras, alguien que te gustaría entender mejor?

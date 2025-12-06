@@ -47,4 +47,8 @@ Sin el, Cornelius no puede acceder al puesto como profesor de la UOC (Universida
 
 > Es innegable que el [[Gremio de cazadores]] es el próximo indicio que debo investigar.
 
-**Sesión 3:** Después de todo lo que has visto en [[Fangoalto]], ¿qué es más importante para ti ahora: su gente, tu carrera académica o entender estos misterios?
+**Sesión 3:** Después de todo lo que has visto en [[Fangoalto]], ¿Qué es más importante para ti ahora: su gente, tu carrera académica o entender estos misterios?
+
+> Por supuesto mi carrera.
+
+**Sesión 4:** Tu ego te ha llevado a buscar la gloria académica, pero ahora estás rodeado de personas genuinas. ¿Cuál de tus compañeros de aventura te ha impresionado más con su carácter? ¿Hay alguien cuya forma de ver el mundo te está haciendo reconsiderar tus prioridades?

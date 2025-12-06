@@ -47,3 +47,8 @@ Una tarde cualquiera volviendo a casa tras una larga colecta de raíces silvestr
 > El [[Lodazal de Medianoche]] me trae pistas poco a poco
 
 **Sesión 3:** ¿Estas cerca de donde estas encontraste a [[Clank]] enterrado?
+
+> Si, el sitio en el [[Lodazal de Medianoche]] no tenia nada especial. Pero cuando vi a [[Clank]] me sorprendió.
+
+**Sesión 4:** Aquí dentro del cuadro, donde la naturaleza misma parece distorsionada, ¿quién del grupo crees que realmente entiende lo que has vivido? ¿A quién le revelarías los secretos más oscuros que aún guardas sobre la noche que perdiste a tu madre?
+

@@ -43,7 +43,9 @@ El pantano no los está dejando ir, les ha hecho retroceder.
 
 La niebla se espesa mientras los [[Hijos Del Fango]] intentan encontrar el camino de vuelta a [[Fangoalto]]. Cada paso parece llevarlos más profundo en el [[Lodazal de Medianoche]], como si el propio pantano conspirara para mantenerlos perdidos.
 
-Un claro, en el suelo charcos y en el medio tres pilares en un lado y tres pilares en otro, en el centro un ultimo pilar.
+[[Cornelius]] y [[Tortuardo]] encuentra el resto que aparentemente hizo es del excavador acido para llegar a ese lugar.
+
+Hasta un claro, en el suelo charcos y en el medio tres pilares en un lado y tres pilares en otro, en el centro un ultimo pilar.
 
 Agárrame para entrar
 
@@ -89,4 +91,22 @@ Desde esta distancia, no pueden distinguir qué exactamente está ardiendo, pero
 
 Las preguntas los acompañan mientras se apresuran hacia el pueblo, el peso del excavador muerto a sus espaldas y el peso de la incertidumbre en sus corazones. [[Fangoalto]] los espera... pero ya no es el mismo lugar que dejaron atrás.
 
+[[Amapola]] al entrar al pueblo ve el panorama. Su casa y la tienda de la [[Abuela Fragopyro]] es la única incendiada hecha pedazos, destrozada, sus amigos [[Hijos Del Fango]] la arropan.
+
+[[Tortuardo]] visita a sus padres, están bien y le dicen que han raptado a la [[Abuela Fragopyro]].
+[[Cornelius]] y [[Neftalí]] observan el templo de [[Ben Viejo Loco]], esta tachando los murales de su antigua patrona [[Yugata]] el espíritu del barro. El fuego nos purificara, escribe [[Ben Viejo Loco]]. Los del [[Gremio de cazadores]] y [[Valkar el Purificador]] son los responsables. 
+
+[[Clank]] aparta los escombros de la tienda de la abuela, solo queda el sótano, la habitación de la abuela.
+
+[[Amapola]] abre la puerta, un sobre y un cuadro tienen un aura peculiar.
+
 ## Momentos
+
+- Sigamos el rastro del excavador acido.
+- [[Clank]] tiene la visión de sus compañeros muertos encima de los pilares escritos en el claro.
+- [[Raik]]: parece una adivinanza.
+- [[Clank]]: prometo no mataros.
+- [[Yugata]] tienta a los [[Hijos Del Fango]].
+- [[Raik]]: no esta mama y papa.
+- [[Ben Viejo Loco]] el purificadoooorrrrrr! (en voz sepulcral)
+- Primer cumplido de [[Cornelius]] a los demas.

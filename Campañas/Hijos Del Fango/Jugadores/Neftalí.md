@@ -43,3 +43,7 @@ Quien mejor que el para elaborar los mejores platos, simples pero elaborados, hu
 > [[Cornelius]] es capaz de protegerse solo, pero ayudar esta gente es una de mis prioridades, me siento como en casa.
 
 **Sesión 3:** ¿Cómo te sientes sobre tu nueva habilidad mágica de crear comida?
+
+> Es Un negocio de proximidad y prospero.
+
+**Sesión 4:** Proteges pero también sientes el llamado de ayudar a esta comunidad sirviendo kebabs. ¿Hay algún miembro del grupo al que sientas especial conexión por su vulnerabilidad o fortaleza? ¿A quién te gustaría conocer mejor fuera de tu rol de protector?
