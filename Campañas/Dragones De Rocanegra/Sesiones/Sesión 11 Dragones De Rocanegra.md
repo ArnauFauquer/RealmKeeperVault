@@ -1,4 +1,4 @@
-﻿---
+---
 type: session
 tags:
   - session
@@ -50,4 +50,3 @@ En ese momento dramático, una **risisa malévola se escucha a lo lejos**, mient
 - **"El cielo se nubla"** - *Presagio ominoso durante el viaje*
 - **"¡Un rayo impacta el barco!"** - *Ataque desde las nubes*
 - **La risa malévola** y **la silueta gigante** - *Revelación del atacante*
-

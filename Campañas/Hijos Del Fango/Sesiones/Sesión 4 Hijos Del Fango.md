@@ -15,7 +15,7 @@ date: 2025-12-10
 
 ### Inicio
 
-**Narración de la Llama Sagrada**
+### Narración de la Llama Sagrada
 
 La historia de [[La Llama Sagrada]] - cómo Potroneo, el centauro héroe, robó el fuego de los dioses para entregarlo a la humanidad, y cómo el Tiempo lo castigó quitándole el fuego de su corazón, condenándolo a existir sin amor.
 
@@ -45,14 +45,14 @@ La danza de la figura es tan cautivadora que los personajes pueden pasar horas o
 
 ### Desarrollo
 
-*Este apartado es para las decisiones y acciones de los jugadores*
+Este apartado es para las decisiones y acciones de los jugadores
 
 ### Final
 
-*Los jugadores determinarán cómo y cuándo saldrán de este mundo. El narrador esperará sus movimientos.*
+Los jugadores determinarán cómo y cuándo saldrán de este mundo. El narrador esperará sus movimientos.
 
 ## Momentos
 
-*Este apartado es para los momentos memorables que los jugadores creen durante la sesión*
+Este apartado es para los momentos memorables que los jugadores creen durante la sesión
 
 - **Quote memorable** - *Quién lo dijo*

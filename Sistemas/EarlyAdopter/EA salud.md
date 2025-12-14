@@ -2,6 +2,7 @@
 type: mechanic
 ---
 # Salud
+
 La salud en el las reglas de [[EarlyAdopter]] funciona de la siguiente manera.
 
 - 4 puntos de salud los jugadores

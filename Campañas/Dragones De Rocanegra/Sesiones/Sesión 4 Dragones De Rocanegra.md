@@ -1,4 +1,4 @@
-﻿---
+---
 type: session
 tags:
   - session
@@ -59,4 +59,3 @@ Los aventureros, con el poco conocimiento que tienen, se lanzan a investigar las
 - El momento de convertirse oficialmente en [[Los Nuevos Héroes Del Momento]]]]**
 - **"La cuarta losa está rota..."** - *El misterio del bebé y el dragón joven*
 - [[Adara]] pidiendo específicamente el mapa de [[Wei]]
-

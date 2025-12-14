@@ -1,4 +1,4 @@
-﻿---
+---
 type: faction
 tags:
   - faction
@@ -46,4 +46,3 @@ Ventajas: Reputación neutral, red de informantes roedores casi invisible.
 ## Operaciones y métodos
 
 Recepción diaria de encargos con clasificación de riesgo (I–V). Distribución de misiones mediante sorteo ponderado por rango y reputación. Seguimiento de progreso vía marcas rúnicas en tablillas. Mensajeros roedores circulan por respiraderos transportando mini-scrolls. Auditorías semanales de integridad de informes.
-

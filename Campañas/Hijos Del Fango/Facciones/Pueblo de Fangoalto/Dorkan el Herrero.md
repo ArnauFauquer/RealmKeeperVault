@@ -1,4 +1,4 @@
-﻿---
+---
 type: npc
 tags:
   - npc
@@ -12,6 +12,7 @@ tags:
 > Único herrero de Fangoalto, dragón humanoide que oculta un pasado con el Gremio de Cazadores.
 
 ![[Dorkan.png]]
+
 ## Apariencia
 
 Alto, robusto y de torso ancho. Escamas opacas rojizas con vetas oscuras de hollín permanente. Cuernos cortos limados para caber bajo una capucha de cuero. Brazos musculosos marcados por quemaduras antiguas. Mandíbula cuadrada y ojos ámbar vigilantes.
@@ -29,4 +30,3 @@ Quiere mantener a Fangoalto autosuficiente y preparado sin levantar sospechas so
 [[Pueblo De Fangoalto]] – Dependen de su forja.
 [[Gremio De Cazadores]] – Pasado oculto, contacto tenso.
 [[Ben Viejo Loco]] – Le tolera y a veces escucha sus delirios en silencio.
-

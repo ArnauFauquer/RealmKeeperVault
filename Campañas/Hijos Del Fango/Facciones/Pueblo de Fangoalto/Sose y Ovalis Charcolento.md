@@ -1,4 +1,4 @@
-﻿---
+---
 type: npc
 tags:
   - npc
@@ -15,6 +15,7 @@ campaign: hijos del fango
 # Sose y Ovalis Charcolento
 
 ![[Sose y ovalis Carcolento.png]]
+
 ## Apariencia
 
 Pareja tortuga: Sose con caparazón oscuro vetas carbón y líquenes verdes; Ovalis con caparazón ámbar claro pulido. Prendas de fibras vegetales teñidas con cortezas y flores, manos con aceites herbales y aroma a humo frío.
@@ -33,4 +34,3 @@ Validar su curtiduría sin sacrificar animales y proteger la filosofía familiar
 - [[Gremio De Cazadores]] – Rival ideológico.
 - [[Fangoalto]] – Comunidad a la que sirven.
 - Comerciantes ambulantes – Intercambio de fibras.
-

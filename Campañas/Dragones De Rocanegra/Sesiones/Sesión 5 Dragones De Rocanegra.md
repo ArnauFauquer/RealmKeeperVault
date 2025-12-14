@@ -1,4 +1,4 @@
-﻿---
+---
 type: session
 tags:
   - session
@@ -62,4 +62,3 @@ Mientras tanto, el grupo de aventureros hace una **entrada triunfal** que termin
 - [[Espe]] gravemente herida durante la batalla épica
 - **"2% de los ingresos del puerto"** - *Negociación con el alcalde*
 - **La flecha mortal** - *Muerte accidental del inocente durante la presentación*
-

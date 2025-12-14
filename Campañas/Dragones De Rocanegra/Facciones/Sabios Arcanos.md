@@ -1,4 +1,4 @@
-﻿---
+---
 type: faction
 tags:
   - faction
@@ -57,4 +57,3 @@ Criterio de adquisición: relevancia, singularidad, riesgo de pérdida. Expedici
 - Aventureros: Fuentes de hallazgos, sujetos de pruebas de integridad.
 
 Reputación: Eruditos abiertos pero firmes; sanciones creativas generan mezcla de respeto y cautela.
-

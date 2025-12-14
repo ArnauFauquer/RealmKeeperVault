@@ -1,4 +1,4 @@
-﻿---
+---
 type: session
 tags:
   - session
@@ -64,4 +64,3 @@ Los [[Drunaris]] **guían a los aventureros al templo** donde finalmente se enco
 - **"¡Un camello se acerca!"** - *Aparición misteriosa de la [[Madre Thamiss]]*
 - **"Era solo un dragón bebé"** - *Revelación sobre [[Grider Comeconejos]] entregado como símbolo de alianza*
 - La pérdida de 2 raciones por el calor abrasador del desierto
-

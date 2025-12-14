@@ -1,4 +1,4 @@
-﻿---
+---
 type: session
 tags:
   - session
@@ -121,4 +121,3 @@ Un ruido de gente... procedente del pueblo... [[Raik]] lanza a Corax, su cuervo.
 - [[Clank]] se lanza directamente contra el excavador sin dudarlo
 - [[Cornelius]] desenvaina la varita del paraguas y lanza carámbanos de hielo
 - [[Cornelius]] se posa encima del excavador y desata un hechizo devastador que provoca un temblor
-

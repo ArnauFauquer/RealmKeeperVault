@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - location
   - wei
@@ -24,4 +24,3 @@ Agricultores, molineros, encargados de almacenes y carreteros. Rutina de siembra
 ## Importancia o rol
 
 Principal centro de producción alimentaria de las [[Tierras Del Norte]], estabiliza reservas estratégicas. Punto logístico que abastece enclaves mineros y fortalezas.
-

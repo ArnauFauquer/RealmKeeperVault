@@ -1,4 +1,4 @@
-﻿---
+---
 type: campain
 tags:
   - wei
@@ -33,4 +33,3 @@ El [[Lodazal De Medianoche]] es un antiguo bosque inundado de origen pre-dragón
 Ahora todo ha sido devorado por el paso del tiempo y solo queda la huella de lo que antes fue.
 
 Los llamados Hijos del fango encontraran Amigos, Secretos, Enigmas y por supuesto adversarios.
-

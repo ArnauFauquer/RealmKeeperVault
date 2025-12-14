@@ -1,4 +1,4 @@
-﻿---
+---
 type: faction
 tags:
   - faction
@@ -52,4 +52,3 @@ Limitaciones: Baja densidad poblacional; dependencia crítica de humedad.
 ## Operaciones y métodos
 
 Movilidad modulada: pequeños núcleos rotan entre oasis fósiles y cámaras hongosas. Comercio por trueque simbólico (pequeños animales, esporas raras). Diplomacia reservada; sólo contactan con quienes superan pruebas de intencionalidad (ritual de manos en arena templada). Uso táctico de "velos de arena" (pantallas de cristales pulverizados) para desorientar intrusos. Religión-filtrado de decisiones estratégicas.
-

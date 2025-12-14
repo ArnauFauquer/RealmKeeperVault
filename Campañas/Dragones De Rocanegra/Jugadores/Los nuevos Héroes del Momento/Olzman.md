@@ -1,4 +1,4 @@
-﻿---
+---
 type: playerCharacter
 tags:
   - pc
@@ -26,4 +26,3 @@ Creció rondando mercados de las [[Tierras del Centro]], perfeccionando manos li
 - Grupo: [[Los Nuevos Héroes Del Momento]] (nido estratégico)
 - Complicidad táctica con [[Adara]].
 - Mentor ocasional de [[Gustavo]] sobre riesgo calculado.
-

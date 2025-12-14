@@ -1,4 +1,4 @@
-﻿---
+---
 type: session
 tags:
   - session
@@ -94,7 +94,7 @@ Las preguntas los acompañan mientras se apresuran hacia el pueblo, el peso del 
 [[Amapola]] al entrar al pueblo ve el panorama. Su casa y la tienda de la [[Abuela Fragopyro]] es la única incendiada hecha pedazos, destrozada, sus amigos [[Hijos Del Fango]] la arropan.
 
 [[Tortuardo]] visita a sus padres, están bien y le dicen que han raptado a la [[Abuela Fragopyro]].
-[[Cornelius]] y [[Neftalí]] observan el templo de [[Ben Viejo Loco]], esta tachando los murales de su antigua patrona [[Yugata]] el espíritu del barro. El fuego nos purificara, escribe [[Ben Viejo Loco]]. Los del [[Gremio De Cazadores]] y [[Valkar el Purificador]] son los responsables. 
+[[Cornelius]] y [[Neftalí]] observan el templo de [[Ben Viejo Loco]], esta tachando los murales de su antigua patrona [[Yugata]] el espíritu del barro. El fuego nos purificara, escribe [[Ben Viejo Loco]]. Los del [[Gremio De Cazadores]] y [[Valkar el Purificador]] son los responsables.
 
 [[Clank]] aparta los escombros de la tienda de la abuela, solo queda el sótano, la habitación de la abuela.
 

@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - location
   - wei
@@ -24,4 +24,3 @@ No hay asentamiento permanente; sólo campamentos temporales de observadores de 
 ## Importancia o rol
 
 Campo de entrenamiento extremo para capitanes ambiciosos de [[Puerto Sirenas]]. Fuente de conchas resonantes utilizadas en rituales de calibración en [[Marea Profunda]]. Sitio donde ocasionalmente encallan restos de navíos foráneos que traen artefactos y rumores lejanos.
-

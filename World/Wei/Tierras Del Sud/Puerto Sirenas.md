@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - location
   - wei
@@ -24,4 +24,3 @@ Barqueros, corredoras de cargas, afinadores de boyas y cantoras que entonan patr
 ## Importancia o rol
 
 Nodo logístico que sincroniza horarios de llegada hacia la capital [[Coralia]]. Mercado secundario de repuestos navales y calibración de instrumentos de navegación. Difunde avisos oficiales recibidos desde los espejos de [[Badía Espejo]]. Lugar neutral para pactos comerciales menores.
-

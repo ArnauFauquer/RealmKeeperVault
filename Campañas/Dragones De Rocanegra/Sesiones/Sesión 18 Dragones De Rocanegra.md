@@ -1,4 +1,4 @@
-﻿---
+---
 type: session
 tags:
   - session
@@ -58,4 +58,3 @@ La batalla ha comenzado oficialmente, pero las fuerzas del bien enfrentan abruma
 - **"[[Trhrim el Guerrero]] y [[Surtur el Creador]] arrastran al dragón [[Nagisha]]"** - *Llegada aterrorizante*
 - **"[[Grider Comeconejos]] sale al rescate"** - *Heroísmo dragontino*
 - **"Solo los héroes parecen estar en las últimas"** - *Momento desesperante*
-

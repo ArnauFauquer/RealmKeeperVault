@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - location
   - wei
@@ -24,4 +24,3 @@ Sacerdotes de la Corriente Silenciosa, iniciados en lectura de patrones de espum
 ## Importancia o rol
 
 Centro espiritual de la región acuática y archivo vivo de fenómenos mareales extremos. Custodia reliquias que, según se cree, estabilizan ciclos de inundación en deltas cercanos a [[Marisma Nácar]]. Emite augurios que influyen tarifas y calendarios de botadura en [[Puerto Sirenas]] y protocolos defensivos en [[Badía Espejo]].
-

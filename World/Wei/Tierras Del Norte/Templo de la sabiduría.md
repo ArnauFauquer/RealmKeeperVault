@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - location
   - wei
@@ -24,4 +24,3 @@ Monjes eruditos, acólitos copistas y custodios guerreros colaboran con los [[Sa
 ## Importancia o rol
 
 Centro de recopilación y verificación de conocimiento arcano regional. Santuario que guarda la tumba del [[Memnor El Manipulador De Las Nubes]], usada como foco didáctico y fuente simbólica de humildad. Archivo estratégico de rutas subterráneas y genealogías mágicas.
-

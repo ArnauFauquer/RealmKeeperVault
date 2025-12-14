@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - location
   - wei
@@ -25,4 +25,3 @@ Actualmente ocupada por los [[Hermanos De La Sangre]]. Actividades: saqueo metó
 ## Importancia
 
 Antiguo sitio funerario y mina estratégica abandonada. Custodia la tumba del gigante [[Grolantor El Cobarde De Las Colinas]] (símbolo de advertencia histórica). Ahora sirve como base clandestina y depósito de artefactos sustraídos.
-

@@ -1,4 +1,4 @@
-﻿---
+---
 type: faction
 tags:
   - faction
@@ -34,4 +34,3 @@ Pozos subterráneos de agua dulce.
 ## Operaciones y Relaciones
 
 Intercambian con [[Enanos De Rocanegra]] cerámica por otros bienes, como ganado, y tranquilidad.
-

@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - location
   - wei
@@ -25,4 +25,3 @@ Escasos grupos [[Drunaris]] ermitaños, caravanas ocasionales y cazadores de rel
 ## Importancia o rol
 
 Zona de paso peligroso que segmenta rutas entre enclaves montañosos. Fuente de recursos raros (resinas fosilizadas, minerales superficiales expuestos por abrasión). Territorio simbólico de resistencia y memoria histórica.
-

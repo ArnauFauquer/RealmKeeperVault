@@ -1,4 +1,4 @@
-﻿---
+---
 type: npc
 tags:
   - npc
@@ -32,4 +32,3 @@ Busca destruir los [[Cazadores De La Noche]] desde dentro incrementando su fanat
 - [[Cazadores De La Noche]] – Orden infiltrada, víctima de manipulación
 - [[Valkar el Purificador]] – Blanco principal de sus susurros de grandeza
 - Círculo de Brasas – Siembra rivalidad entre sus miembros
-

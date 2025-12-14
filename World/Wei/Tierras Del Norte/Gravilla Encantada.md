@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - location
   - wei
@@ -24,4 +24,3 @@ Pequeña comunidad de agricultores de subsistencia (cultivos resistentes), talla
 ## Importancia o rol
 
 Enclave seguro de descanso para rutas que atraviesan zonas áridas. Fuente de pequeñas cantidades de grava y minerales tamizados útiles para forja fina y rituales estabilizadores.
-

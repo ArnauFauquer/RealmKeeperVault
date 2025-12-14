@@ -1,4 +1,4 @@
-﻿---
+---
 type: deity
 tags:
   - npc
@@ -31,4 +31,3 @@ Busca restaurar el estado primordial anterior al robo del fuego por [[Potroneo]]
 - [[Cazadores De La Noche]] – Enemigos que portan el fuego robado, especialmente odiosos por su fanatismo
 - [[Lodazal De Medianoche]] – Territorio donde su presencia es más fuerte
 - [[Tierras del Oeste]] (pre-fuego) – Territorio que reclama como suyo por derecho primordial
-

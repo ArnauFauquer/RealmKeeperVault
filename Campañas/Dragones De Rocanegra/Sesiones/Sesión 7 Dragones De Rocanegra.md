@@ -1,4 +1,4 @@
-﻿---
+---
 type: session
 tags:
   - session
@@ -93,4 +93,3 @@ En la siguiente sala encuentran a [[Tiphilt]] junto a **[[Aspiro]]**, un **drag�
 - **"¡Vamos a volar todo con el cañón!"** - *[[Gustavo]] y la destrucción épica de los 12 tesoros*
 - **"Esta no la sabemos, pero me gusta jugar"** - *[[Aspiro]] siendo misterioso sobre [[Elminster Manto De Plata]]*
 - **"Os he sembrado más dudas que ayudas"** - [[Aspiro]] siendo honesto sobre la complejidad de la situación*
-

@@ -1,4 +1,4 @@
-﻿---
+---
 type: campain
 tags:
   - wei
@@ -34,4 +34,3 @@ El [[Poblado De Azhrog]] realizó escaramuzas que culminaron en un intento de de
 
 - Mundo [[Wei]]
 - Región: [[Tierras Del Norte]]
-

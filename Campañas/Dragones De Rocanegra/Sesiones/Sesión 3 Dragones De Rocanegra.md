@@ -1,4 +1,4 @@
-﻿---
+---
 type: session
 tags:
   - session
@@ -73,4 +73,3 @@ El bastión queda en luto, [[Nagisha]] permanece desaparecido, y [[Adrael Hoja D
 - [[Drogar Martillo De Hierro]] cargando el cadáver de [[Elminster Manto De Plata]] por los pasillos
 - La búsqueda desesperada de [[Adrael Hoja De Sangre]] sin encontrarlo
 - El entierro silencioso en el [[Lago De Las Estrellas]]
-

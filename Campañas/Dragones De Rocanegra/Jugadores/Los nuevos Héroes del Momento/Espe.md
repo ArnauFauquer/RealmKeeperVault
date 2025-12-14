@@ -1,4 +1,4 @@
-﻿---
+---
 type: playerCharacter
 tags:
   - pc
@@ -20,4 +20,3 @@ Tímida, despistada, ingenua pero muy empática. Habla en voz baja; se pierde en
 ## Trasfondo
 
 Procede de enclaves húmedos apartados de [[Wei]] donde aprendió de forma fragmentaria plegarias y magia curativa. Escapó de la soledad buscando voces amigas y terminó con [[Los Nuevos Héroes Del Momento]]. Investiga ecos divinos ligados a corrientes subterráneas bajo las [[Tierras del Centro]].
-

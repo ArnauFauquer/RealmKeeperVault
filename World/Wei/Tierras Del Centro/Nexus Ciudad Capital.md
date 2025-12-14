@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - location
   - wei
@@ -24,4 +24,3 @@ Mezcla de todas las especies y culturas: mercaderes interregionales, embajadas, 
 ## Importancia o rol
 
 Centro político, económico y cultural de Wei. Sede del consejo neutral. Nodo logístico que regula estándares interregionales. Laboratorio vivo de convivencia e innovación de convergencia elemental.
-

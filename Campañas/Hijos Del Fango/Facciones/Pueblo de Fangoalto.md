@@ -1,4 +1,4 @@
-﻿---
+---
 type: faction
 tags:
   - faction
@@ -36,4 +36,3 @@ Métodos simples: patrullas breves, revisión de drenajes y reuniones para compa
 ## Relaciones
 
 Mantiene vigilancia constante sobre el [[Lodazal De Medianoche]]. Intercambia con viajeros lo que no produce. Vista externa: perseverancia reservada. Busca aliados que aporten contención sin abuso.
-

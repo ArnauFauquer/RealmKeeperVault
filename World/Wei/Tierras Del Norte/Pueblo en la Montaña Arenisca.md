@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - location
   - wei
@@ -24,4 +24,3 @@ Mineros, talladores de piedra, tejedores de cuerdas resistentes al polvo y comer
 ## Importancia o rol
 
 Principal enclave social estable dentro del [[Desierto De Dustoria]]. Núcleo de intercambio de agua, minerales y mapas de corrientes de arena. Punto de descanso y reorganización de expediciones.
-

@@ -1,4 +1,4 @@
-﻿---
+---
 type: session
 tags:
   - session
@@ -46,4 +46,3 @@ Sin embargo, [[Anja]] actúa rápidamente y **consigue cortarle un dedo** al gig
 - **"¡Pelear a muerte!"** - *Batalla sin cuartel contra [[Strongmaus el Triste]]*
 - **"¡Se disipa en niebla!"** - *Naturaleza sobrenatural del gigante revelada*
 - **[[Anja]] cortando el dedo** - *Trofeo obtenido en el último momento*
-

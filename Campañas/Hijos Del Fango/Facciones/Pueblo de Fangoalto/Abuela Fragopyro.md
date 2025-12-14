@@ -1,4 +1,4 @@
-﻿---
+---
 type: npc
 tags:
   - npc
@@ -13,6 +13,7 @@ campaign: hijos del fango
 # Abuela Fragopyro
 
 ![[Abuela Fragopyro.png]]
+
 ## Apariencia
 
 Anciana mediana de piel curtida por vapores de horno y niebla húmeda. Cabello recogido en un moño bajo salpicado de ceniza clara. Ojos vivaces, rojizos en el borde por largas horas entre brasas. Lleva delantal grueso de fibras vegetales endurecidas con manchas de miel, harina y jarabes. Manos fuertes, nudillos abultados, uñas breves teñidas de tintes herbales; siempre porta una cuchara de madera ahumada a modo de bastón improvisado.
@@ -31,4 +32,3 @@ Mantener la tienda abastecida pese a humedad, plagas y rutas irregulares; preser
 - [[Fangoalto]] – Comunidad a la que alimenta; relación de dependencia mutua.
 - Viajeros mercantes – Fuente irregular de especias y sal; trato cauteloso.
 - Familias locales – Clientes fijos; conoce sus dietas y debilidades.
-

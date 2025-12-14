@@ -16,6 +16,5 @@ tags:
 
 ## Relaciones
 
-
 Fue hace 4 años cuando Alistair llegó por primera vez a [[Bell End]], montado en un carro tirado por caballos bellamente pintado, rebosante de creaciones fantásticas.
 Su efecto en la cansada y deteriorada calle de la ciudad fue inmediato. Bell's End, una calle que durante mucho tiempo había estancado los ecos de sueños olvidados, finalmente encontró su ritmo de nuevo. Todo gracias a un fabricante de juguetes caprichoso que apareció justo cuando la calle más necesitaba un toque de magia.

@@ -1,4 +1,4 @@
-﻿---
+---
 type: session
 tags:
   - session
@@ -67,4 +67,3 @@ La carta del [[Fénix]] convoca a una misión vital: *"Un desequilibrio mágico 
 - Los aventureros ignoran completamente el atropello del niño en [[Tyon]]
 - El grupo pega a un niño al despedirse en [[Gravilla Encantada]]
 - [[Manel]] progresivamente más borracho durante todo el viaje
-

@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - location
   - wei
@@ -24,4 +24,3 @@ Marineros, mercaderes internacionales, destiladores de esencias ardientes, diplo
 ## Importancia o rol
 
 Centro económico y puerta marítima del Fuego. Regula exportación de metales raros, combustibles y artefactos térmicos. Hub diplomático con emisarios de las [[Tierras del Centro]] y comerciantes de las [[Tierras Del Sud]].
-

@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - location
   - wei
@@ -24,4 +24,3 @@ Clanes orcos pobres pero disciplinados. Actividades: forja rudimentaria, caza me
 ## Importancia o rol
 
 Punto de resistencia orca y símbolo identitario frente a influencia enana. Sirve como puesto de vigilancia de rutas secundarias y refugio para grupos móviles.
-

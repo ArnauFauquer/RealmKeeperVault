@@ -1,4 +1,4 @@
-﻿---
+---
 type: session
 tags:
   - session
@@ -85,4 +85,3 @@ El extraño grupo se reúne de nuevo en el alba, escuchando las ideas locas del 
 - [[Amapola]] acoge al niño [[Raik]]
 - [[Sose Y Ovalis Charcolento]] Padres molones de [[Tortuardo]]
 - [[Ben Viejo Loco]] sois [[Hijos Del Fango]]!
-

@@ -1,4 +1,4 @@
-﻿---
+---
 type: npc
 tags:
   - npc
@@ -26,4 +26,3 @@ Es la encargada de organizar las tareas de la familia de el [[Pueblo De Arcilla 
 [[Brunel Patata]]: Su joven nieto
 [[Hermana Tomasa Guisante]]: La amiga de la infancia
 [[El Huésped Perfecto]]: El ser protector de la isla de [[Arcilla Verde]]
-

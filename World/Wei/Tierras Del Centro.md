@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - region
   - wei
@@ -27,4 +27,3 @@ El gobierno es un consejo neutral con representantes de todas las regiones y fac
 ## Misterios o Leyendas
 
 Sabios y místicos creen que el Centro es un nudo espiritual donde los planos elementales se entrelazan. Se rumorea que bajo [[Nexus Ciudad Capital]] existe una cámara resonante que pulsa al ritmo del equilibrio mundial y que antiguos sellos mantienen estable la convergencia. Algunos peregrinos aseguran oír un coro de cuatro voces fusionadas cuando meditan al amanecer.
-

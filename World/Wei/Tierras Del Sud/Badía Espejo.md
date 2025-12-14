@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - location
   - wei
@@ -24,4 +24,3 @@ Guarnición disciplinada (mezcla de marineros, arqueros de muralla y artilleros 
 ## Importancia o rol
 
 Clave defensiva que controla rutas hacia el corazón comercial del Sur. Estación de relés ópticos y acústicos: transmite avisos de tormentas, piratas o anomalías desde y hacia [[Marea Profunda]] y [[Puerto Sirenas]]. Sirve como punto de inspección aduanera y depósito de pertrechos navales.
-

@@ -20,6 +20,7 @@ date: YYYY-MM-DD
 ### Desarrollo
 
  Este apartado no lo escribas, es donde los jugadores tomaran sus decisiones
+
 ### Final
 
 - Cómo terminó y hook para la próxima
@@ -27,4 +28,5 @@ date: YYYY-MM-DD
 ## Momentos
 
 Este apartado no lo escribas, es donde los jugadores tomaran sus decisiones
+
 - **Quote memorable** - *Quién lo dijo*

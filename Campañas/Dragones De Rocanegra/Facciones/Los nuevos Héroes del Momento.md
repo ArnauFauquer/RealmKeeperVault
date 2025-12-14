@@ -1,4 +1,4 @@
-﻿---
+---
 type: faction
 tags:
   - faccion
@@ -34,4 +34,3 @@ El grupo se formó durante incidentes iniciales de la campaña [[Dragones De Roc
 - Base móvil: campamentos temporales en rutas de las [[Tierras del Centro]].
 - Sin jerarquía rígida; liderazgo situacional.
 - Reputación naciente: vistos como prometedores pero impredecibles.
-

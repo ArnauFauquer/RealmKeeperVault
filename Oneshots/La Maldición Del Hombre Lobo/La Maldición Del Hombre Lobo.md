@@ -1,11 +1,11 @@
-﻿---
+---
 type: campain
 tags:
   - wei
 ---
 # La maldición del hombre lobo
 
->  La oneshot esta basada en la pelicula [La maldición del hombre lobo](https://www.imdb.com/es-es/title/tt15318872/?ref_=fn_t_4) usando las reglas del sistema [[EarlyAdopter]]
+> La oneshot esta basada en la pelicula [La maldición del hombre lobo](https://www.imdb.com/es-es/title/tt15318872/?ref_=fn_t_4) usando las reglas del sistema [[EarlyAdopter]]
 
 ## Entrada de los cazadores
 
@@ -13,7 +13,7 @@ Los jugadores entran uno por uno a [[Mansión De Los Blodstone]], en una sala ll
 
 ## Discurso y entrada al laberinto
 
-Se sientan y Verusa la amante de Ulyses Blodstone da un discurso, después de eso los cazadores se presentan. 
+Se sientan y Verusa la amante de Ulyses Blodstone da un discurso, después de eso los cazadores se presentan.
 
 El objetivo el juego para los jugadores es entrar el laberinto, encontrar la piedra y el monstruo para heredar el [[Gremio De Cazadores]].
 
@@ -180,4 +180,3 @@ tu objetivo es:
 Conseguir la piedra de sangre
 no morir
 antes de entrar al laberinto tienes que robar un arma, sin que nadie se entere.
-

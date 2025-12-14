@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - location
   - wei
@@ -24,4 +24,3 @@ Familias extensas cooperan en ciclos de cultivo de arroz de marea y recolección
 ## Importancia o rol
 
 Granero húmedo del Sur: fuente estable de cereal anfibio y perlas de uso ritual en [[Marea Profunda]]. Sirve de punto de descanso para caravanas fluviales menores y de base de apicultores de manglar que producen resinas medicinales.
-

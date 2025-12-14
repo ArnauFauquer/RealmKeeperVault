@@ -1,4 +1,4 @@
-﻿---
+---
 type: session
 tags:
   - session
@@ -54,4 +54,3 @@ La confrontación final está a punto de comenzar.
 - **"El odio le da un propósito"** - *Motivación de [[Adrael Hoja De Sangre]] explicada*
 - **"Tras cumplir con su apodo Hoja de Sangre"** - *[[Adrael Hoja De Sangre]] como traidor infiltrado*
 - **"Solo causó la muerte de sus hermanos"** - *Fracaso trágico de [[Adrael Hoja De Sangre]]*
-

@@ -1,4 +1,4 @@
-﻿---
+---
 type: faction
 tags:
   - faction
@@ -43,4 +43,3 @@ Estilo reactivo de alta visibilidad: intervención rápida, resolución contunde
 Post disolución: Fragmentación de registros; rumores de bóveda sellada con contratos sin completar.
 
 Reputación actual: Héroes trágicos / grupo con secretos; narrativas divergentes según fuente.
-

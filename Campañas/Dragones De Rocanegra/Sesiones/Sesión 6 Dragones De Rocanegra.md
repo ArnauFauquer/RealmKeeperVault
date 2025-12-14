@@ -1,4 +1,4 @@
-﻿---
+---
 type: session
 tags:
   - session
@@ -51,4 +51,3 @@ Tras derrotar a **todos los [[Hermanos De La Sangre]]** que habían tomado el te
 - La **pelea épica pero sorprendentemente fácil** contra [[Scoraeus El Sabio]]
 - **"El templo está invadido"** - *Descubrimiento de los [[Hermanos De La Sangre]] profanando el lugar sagrado*
 - El misterioso descubrimiento de **la escalera hacia las profundidades**
-

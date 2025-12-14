@@ -1,4 +1,4 @@
-﻿---
+---
 type: session
 tags:
   - session
@@ -54,4 +54,3 @@ Tras este descubrimiento importante, los aventureros **se dirigen al portal** ne
 - **"Portal gigantesco negro y morado"** - *Contraste dramático en la sala blanca*
 - **"[[Grolantor El Cobarde De Las Colinas]]"** - *Segundo gigante caído descubierto*
 - **"¡[[Olzman]] ve el futuro!"** - *Poder de precognición del [[Cubo Rojo]]*
-

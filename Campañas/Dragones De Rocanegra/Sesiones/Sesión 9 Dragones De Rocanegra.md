@@ -1,4 +1,4 @@
-﻿---
+---
 type: session
 tags:
   - session
@@ -47,4 +47,3 @@ Es **[[Drogar Martillo De Hierro]]**, el líder superviviente de [[Los Ex Héroe
 - **"¡Le hemos cegado un ojo!"** - *Daño crítico al dragón aliado*
 - **"¡Un Spelljammer hace sombra a la luna!"** - *Aparición dramática*
 - **El salto épico de [[Drogar Martillo De Hierro]]** desde las alturas para salvar la situación
-

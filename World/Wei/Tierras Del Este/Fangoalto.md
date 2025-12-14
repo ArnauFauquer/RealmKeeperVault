@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - location
   - wei
@@ -26,4 +26,3 @@ Algunas familias de mezcla cultural. Oficios básicos: cría de animales, curtid
 ## Importancia
 
 Es el último pueblo estable antes de adentrarse en el [[Lodazal De Medianoche]] y actúa como puesto de observación sobre su avance. Aporta productos básicos adaptados a la humedad. También es el punto de unión entre la [[Nexus Ciudad Capital]] y [[Puertas De Obsidiana]].
-

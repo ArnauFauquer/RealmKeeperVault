@@ -1,4 +1,4 @@
-﻿---
+---
 type: oneshot
 tags:
   - wei
@@ -77,4 +77,3 @@ Los Manjares Indómitos de Stan. Por alguna confusa coincidencia, ha habido rumo
 El Gronch. Rumores que parecen aparecer cada invierno hablan de un monstruo peludo y verde que vive en la cima de la montaña cercana. La teoría es que el monstruo se molesta por las luces y la alegría que acompañan las festividades de invierno y bajará para erradicar cualquier cosa alegre.
 
 - (Sorprendentemente verdadero; Hay una criatura en las montañas que siente un gran malestar por las luces intermitentes que se reflejan en la superficie del hielo y la nieve, y ocasionalmente baja por la noche para apagarlas. Se desconoce si el monstruo realmente tiene un perro como mascota o no).
-

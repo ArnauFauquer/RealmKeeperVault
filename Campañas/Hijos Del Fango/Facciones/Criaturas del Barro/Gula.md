@@ -1,4 +1,4 @@
-﻿---
+---
 type: npc
 tags:
   - npc
@@ -31,4 +31,3 @@ Acumular sustento para perpetuar su existencia y crear más enjambres. Busca ald
 - [[Yugata]] – Entidad primordial de la que nació
 - Aldeas fronterizas – Fuente de alimento, víctimas recurrentes
 - [[Cazadores De La Noche]] – Exterminadores de sus enjambres
-

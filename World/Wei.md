@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - wei
 type: world
@@ -42,4 +42,3 @@ El equilibrio político de Wei se sostiene gracias a las relaciones entre las re
 Aunque las guerras abiertas son raras, la política no está exenta de intrigas. Las facciones, [[Gremios]] y órdenes religiosas compiten por influencia, tejiendo alianzas ocultas y rivalidades que pueden alterar la estabilidad general. En este mundo, el poder no siempre se decide en el campo de batalla, sino en los pasillos de los consejos, los acuerdos secretos y las maniobras diplomáticas.
 
 ![[Wei-Summer.jpg]]
-

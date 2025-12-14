@@ -1,4 +1,4 @@
-﻿---
+---
 type: npc
 tags:
   - npc
@@ -28,4 +28,3 @@ Motivaciones desconocidas. Puede estar acechando en las sombras o aún formándo
 
 - [[Criaturas Del Barro]] – Una de las manifestaciones de carencias humanas
 - [[Yugata]] – Entidad primordial de la que nació
-

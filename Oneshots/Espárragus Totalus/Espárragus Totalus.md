@@ -1,4 +1,4 @@
-﻿---
+---
 type: campain
 tags:
   - wei
@@ -88,4 +88,3 @@ Han encontrado el ser que protege la isla.
 - Mundo [[Wei]]
 - Región: [[Tierras Del Norte]]
 - Pueblo: [[Arcilla Verde]]
-

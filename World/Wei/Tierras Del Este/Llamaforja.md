@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - location
   - wei
@@ -26,4 +26,3 @@ Aproximadamente 200 miembros de los [[Cazadores De La Noche]] residen permanente
 ## Importancia
 
 Centro neurálgico religioso y militar de los [[Cazadores De La Noche]]. Funciona como cuartel general para coordinar expediciones contra criaturas oscuras, centro de adoctrinamiento para reclutas (muchos capturados), arsenal especializado en armamento ígneo y símbolo de poder en las Tierras del Este. La llama sagrada atrae peregrinos ocasionales pero principalmente sirve como justificación ideológica del control de [[Valkar el Purificador]]. Representa la transformación de un antiguo sitio de adoración pacífica en bastión de cruzada fanática.
-

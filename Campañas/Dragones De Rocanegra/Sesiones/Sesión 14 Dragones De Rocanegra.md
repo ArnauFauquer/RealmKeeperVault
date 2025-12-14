@@ -1,4 +1,4 @@
-﻿---
+---
 type: session
 tags:
   - session
@@ -46,4 +46,3 @@ Sin embargo, descubren que las **salas principales están llenas de [[Hermanos D
 - **"¡Hacemos ruido!"** - *Error táctico durante la infiltración*
 - **"Dejando atrás los gemelos"** - *Abandono de los guías*
 - **"¡Las salas están llenas de enemigos!"** - *Descubrimiento del alcance de la ocupación*
-

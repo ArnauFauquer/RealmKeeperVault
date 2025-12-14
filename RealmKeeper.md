@@ -1,4 +1,4 @@
-﻿---
+---
 type: index
 ---
 
@@ -62,4 +62,3 @@ En esta sección se despliegan las sagas que han definido vuestro paso por estos
 ## Explora los sistemas de Juego
 
 - [[Daggerheart]]
-

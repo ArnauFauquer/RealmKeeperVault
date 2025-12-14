@@ -1,4 +1,4 @@
-﻿---
+---
 type: session
 tags:
   - session
@@ -70,4 +70,3 @@ Tras la gran batalla con **[[Strongmaus el Triste]]**, los aventureros deciden *
 - **"Pocos recuerdan que matasteis al niño"** - *Recordatorio de consecuencias pasadas*
 - **"Un día en llegar"** - *[[Drunaris]] y [[Grider Comeconejos]] como refuerzos*
 - **"Desde la Guerra de los Mil Años abandonada"** - *Conexión histórica con la mina de sal*
-

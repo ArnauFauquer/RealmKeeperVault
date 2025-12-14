@@ -1,4 +1,4 @@
-﻿---
+---
 type: deity
 tags:
   - npc
@@ -29,4 +29,3 @@ Entregó la chispa al mundo, dando luz y esperanza a todos.
 ## Relaciones
 
 - [[Wei]] – Pueblo beneficiario de su legado térmico.
-

@@ -1,4 +1,4 @@
-﻿---
+---
 type: npc
 tags:
   - npc
@@ -14,6 +14,7 @@ tags:
 > Patriarca fanático que transformó la caza en cruzada divina.
 
 ![[Valkar el Purificador.png]]
+
 ## Apariencia
 
 Centauro imponente de torso musculoso marcado con cicatrices rituales de quemaduras. Pelaje equino negro azabache con crines trenzadas que incorporan brasas perpetuas mediante alquimia. Porta armadura parcial de placas oxidadas decoradas con motivos solares y lleva un báculo coronado con un brasero siempre encendido. Ojos ámbar intensos que parecen reflejar llamas. Voz profunda y autoritaria.
@@ -33,4 +34,3 @@ Busca purgar las Tierras del Este de toda corrupción oscura para "restaurar el 
 - [[Llamaforja]] – Estableció aquí su base de poder y templo
 - Gremio de Cazadores – Antiguos compañeros, ahora enemigos por considerarlos débiles
 - Círculo de Brasas – Sus cinco tenientes más leales que ejecutan su voluntad
-

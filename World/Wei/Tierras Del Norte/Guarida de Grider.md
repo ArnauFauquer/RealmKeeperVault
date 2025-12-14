@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - location
   - wei
@@ -24,4 +24,3 @@ No hay población estable. Custodia eventual por iniciados Drunaris o explorador
 ## Importancia o rol
 
 Prisión/arma contenida: lugar diseñado para albergar y restringir al dragón de bronce nacido con propósito bélico. Fuente potencial de conocimiento sobre ingeniería mágica Drunaris y sellado de entidades.
-

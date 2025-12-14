@@ -1,4 +1,4 @@
-﻿---
+---
 type: session
 tags:
   - session
@@ -76,4 +76,3 @@ En medio del tumulto, un sentimiento de **inquietud** se apodera de la multitud,
 - El apaleamiento del oso-lechuza joven por [[Anja]] y [[Adara]]
 - [[Olzman]] lanzándose a la mesa presidencial sin invitación
 - La tormenta sobrenatural interrumpiendo la celebración en su clímax
-

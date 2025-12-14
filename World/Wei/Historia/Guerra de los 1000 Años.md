@@ -1,4 +1,4 @@
-﻿---
+---
 type: history
 tags:
   - wei
@@ -31,4 +31,3 @@ El vacío de liderazgo del legado de Anam gigante dio paso atrás con solo los g
 - Inmediatas: Cese abrupto de hostilidades tras la derrota de [[Memnor El Manipulador De Las Nubes]] y [[Grolantor El Cobarde De Las Colinas]] por [[Garix]]; despoblación severa en estirpes gigantes y dracónicas; detención de campañas orcas; consolidación enana ([[Enanos De Rocanegra]]) de acceso a conocimientos técnicos y magia aplicada.
 - Largo plazo: Persistencia del [[Orthning]] bajo liderazgo colegiado ([[Trhrim el Guerrero]], [[Surtur el Creador]], [[Strongmaus el Triste]], [[Scoraeus El Sabio]]) orientado a reconstrucción; reforzamiento del mito de [[Garix]] como fuerza de destrucción regeneradora; transferencia cultural (runas y escritura atribuidas erróneamente a enanos, origen gigante real); creación de reliquias bélicas dispersas (forjados de guerra inactivos, armas rúnicas huérfanas); desconfianza latente gigante-dragón y memoria traumática que aún modula diplomacia.
 - Herencia invisible: debilitamiento de focos ley por sobreexplotación, cicatrices psico-mágicas en líneas narrativas futuras.
-

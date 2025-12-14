@@ -1,4 +1,4 @@
-﻿---
+---
 type: faction
 tags:
   - faction
@@ -48,4 +48,3 @@ Ventajas: Capataz autómata polivalente, red de informantes de granos y clima.
 ## Operaciones y métodos
 
 Planificación modular de convoyes; uso de estandartes de color según nivel de riesgo. Negociación basada en tablas de equivalencias públicas. Protocolos de emergencia: formación de círculo defensivo y despliegue de barreras de grano humedecido contra fuego. Registro detallado de deudas en tablillas de arcilla lacradas.
-

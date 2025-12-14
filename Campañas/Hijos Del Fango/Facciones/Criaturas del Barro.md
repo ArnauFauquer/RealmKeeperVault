@@ -1,4 +1,4 @@
-﻿---
+---
 type: faction
 tags:
   - faction
@@ -39,4 +39,3 @@ Acechan en las sombras del Lodazal y sus alrededores. Emboscan viajeros nocturno
 ## Relaciones
 
 Enemistadas existencialmente con portadores de fuego y luz. Los [[Cazadores De La Noche]] las persiguen activamente como su némesis ideológica. El Gremio de Cazadores las evita o elimina cuando amenaza asentamientos. Ninguna alianza posible con facciones humanas; solo corruptos o desesperados invocarían su presencia deliberadamente. Reputación: terror absoluto en aldeas fronterizas, leyendas oscuras que madres usan para asustar niños, pero su verdadera naturaleza es incomprendida incluso por quienes las combaten. Para la mayoría son "cosas del Lodazal", monstruos sin nombre del frío eterno.
-

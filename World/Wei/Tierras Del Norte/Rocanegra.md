@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - location
   - wei
@@ -24,4 +24,3 @@ Predominada por los [[Enanos De Rocanegra]]: artesanos, herreros, canteros y com
 ## Importancia o rol
 
 Centro político y económico de la región norte. Custodia archivos genealógicos, tesoros ancestrales y sirve de punto de reunión de consejos clánicos. Nodo comercial de metal trabajado y piedra cortada. Bastión estratégico que controla rutas altas y accesos al interior montañoso.
-

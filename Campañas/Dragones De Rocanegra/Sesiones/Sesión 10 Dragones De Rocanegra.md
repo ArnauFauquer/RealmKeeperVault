@@ -1,4 +1,4 @@
-﻿---
+---
 type: session
 tags:
   - session
@@ -54,4 +54,3 @@ Los aventureros se **disponen a ir a hablar** con [[Drogar Martillo De Hierro]] 
 - **"[[Piedra Sólida]] está aislada y bajo ataque"** - *Situación desesperada*
 - La **entrega ceremonial** de [[Grider Comeconejos]] a la [[Madre Thamis]]
 - **[[Olzman]] enviando una carta misteriosa** - *¿A quién y por qué?*
-

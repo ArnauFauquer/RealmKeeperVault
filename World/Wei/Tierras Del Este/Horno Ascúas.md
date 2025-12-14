@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - location
   - wei
@@ -25,4 +25,3 @@ Ganaderos, curtidores, artesanos de monturas térmicas y tratadores de bestias a
 ## Importancia o rol
 
 Suministra carne resistente, cueros reforzados y grasa usada como combustible secundario. Proveedor logístico crucial para ciudades como [[Emberlia]]. Fuente de bestias de carga adaptadas a altas temperaturas.
-

@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - region
   - wei
@@ -26,4 +26,3 @@ Los clanes de [[Rocanegra]] valoran la tradición y la familia, y gobiernan medi
 ## Misterios o Leyendas
 
 Los viajeros dicen que en lo profundo de las montañas duermen gigantes y que los bosques petrificados del norte guardan secretos de un tiempo anterior a la historia.
-

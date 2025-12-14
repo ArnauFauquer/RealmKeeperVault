@@ -19,7 +19,7 @@ Cuando dos personas se encuentran y quieren pelearse los dos tiraran d20 quien s
 
 El Atacante hará una tirada de [[EA Habilidades]]:
 
-- Fuerza para armas generales 
+- Fuerza para armas generales
 - Agilidad  para armas finas y cortas
 - Presencia para armas a distancia
 

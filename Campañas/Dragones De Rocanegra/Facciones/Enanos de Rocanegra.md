@@ -1,4 +1,4 @@
-﻿---
+---
 type: faction
 tags:
   - faction
@@ -50,4 +50,3 @@ Ventajas especiales: Aleaciones templadas en calor geotérmico; reputación hosp
 ## Operaciones y métodos
 
 Defensa activa con patrullas escalonadas y uso de posiciones elevadas. Diplomacia franca: acuerdos sellados con juramentos públicos. Negociación combinando generosidad inicial (banquetes) y firmeza contractual. Preferencia por martillos, escudos anchos y maquinaria defensiva (ballestas pesadas). Transparencia pública de logros; ocultación selectiva de rutas mineras.
-

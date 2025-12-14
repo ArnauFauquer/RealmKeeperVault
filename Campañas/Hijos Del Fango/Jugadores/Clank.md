@@ -1,4 +1,4 @@
-﻿---
+---
 type: playerCharacter
 tags:
   - pc
@@ -50,4 +50,3 @@ Tiene tacto con las abejas, desde aquel instante que una le intento picar sin é
 > Todo depende si es negativo o no. Pero no me preocupa.
 
 **Sesión 4:** Eres un ser que busca comprender sus propios sentimientos. Entre los que te rodean, ¿hay alguien cuya presencia te ayuda a entender mejor quién eres? ¿Quién te parece más fascinante o misteriosa entre la gente del pueblo de [[Fangoalto]]?
-

@@ -1,4 +1,4 @@
-﻿---
+---
 type: session
 tags:
   - session
@@ -95,4 +95,3 @@ En la sala entran el **resto de líderes de escuadra** para acordar la **estrate
 - **"[[Adrael]] es un semi-dios"** - *Reconocimiento de la verdadera amenaza*
 - **"Los enanos no han tratado bien a los [[Orcos]]"** - *Admisión moral difícil*
 - **"El aliado más poderoso del reino"** - *Reconocimiento del estatus heroico*
-

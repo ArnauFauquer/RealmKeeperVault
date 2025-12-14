@@ -1,4 +1,4 @@
-﻿---
+---
 tags:
   - location
   - wei
@@ -24,4 +24,3 @@ La gente del [[Pueblo De Arcilla Verde]] son Alfareros, pescadores, extractores 
 ## Importancia o rol
 
 Principal fuente regional de arcillas especiales usadas en sellos, vasijas de conservación y pigmentación ritual. Tienen su propia cosmovisión en dioses que muchos considerarían paganos.
-
