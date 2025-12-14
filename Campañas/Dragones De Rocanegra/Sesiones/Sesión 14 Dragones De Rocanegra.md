@@ -7,7 +7,7 @@ campaign: dragones-de-rocanegra
 session_number: 14
 date: 2025-08-28
 ---
-# Sesión 14 La Infiltración de la Mina de Sal
+Sesión 1 Dragones De Rocanegra# Sesión 14 La Infiltración de la Mina de Sal
 
 > **Resumen:** Los aventureros son guiados por dos gemelos curiosos hacia la [[antigua mina de sal]]. Descubren que es tanto una mina como un templo con columnas doradas y runas enanas. Tras hacer ruido y atraer enemigos, llegan a las salas principales llenas de [[Hermanos de la Sangre]]
 

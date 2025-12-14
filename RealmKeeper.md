@@ -39,7 +39,7 @@ En esta sección se despliegan las sagas que han definido vuestro paso por estos
 **Diarios de Sesiones - Los Anales de Vuestras Hazañas:**
 
 - [[Sesión 0 Hijos del fango]] - Donde todo comenzó
-- [[Sesion-06-El-Templo-de-la-Sabiduria]] - El momento que cambió el curso de la historia
+- [[Sesión 6 Dragones De Rocanegra]] - El momento que cambió el curso de la historia
 
 **Facciones y Organizaciones:**
 

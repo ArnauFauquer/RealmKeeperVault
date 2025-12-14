@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campañas/Hijos Del Fango/Facciones/Cazadores de la noche/Valkar el Purificador.md",
+                "file": "Campañas/Dragones De Rocanegra/Sesiones/Sesión 14 Dragones De Rocanegra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Valkar el Purificador"
+              "title": "Sesión 14 Dragones De Rocanegra"
             }
           },
           {
@@ -100,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233.50469589233398
+    "width": 269.5
   },
   "right": {
     "id": "2d187ccdc4066765",
@@ -203,6 +203,12 @@
   },
   "active": "4947274e7554e17c",
   "lastOpenFiles": [
+    "Campañas/Dragones De Rocanegra/Sesiones/Sesión 1 Dragones De Rocanegra.md",
+    "Campañas/Hijos Del Fango/Sesiones/Sesión 1 Hijos Del Fango.md",
+    "Campañas/Hijos Del Fango/Sesiones/Sesión 0 Hijos Del Fango.md",
+    "Campañas/Hijos Del Fango/Sesiones/Sesión 4 Hijos Del Fango.md",
+    "Campañas/Hijos Del Fango/Sesiones/Sesión 3 Hijos Del Fango.md",
+    "Campañas/Hijos Del Fango/Facciones/Cazadores de la noche/Valkar el Purificador.md",
     "Campañas/Hijos Del Fango/Facciones/Gremio De Cazadores/Joze Pequenho.md",
     "Campañas/Hijos Del Fango/Facciones/Gremio De Cazadores",
     "Oneshots/Vacaciones En BellEnd/Facciones/Pueblo de Bellend/Teddy dedogordo.md",
@@ -227,16 +233,10 @@
     "Oneshots/La Maldicion Del Hombre Lobo",
     "Oneshots/La Pocima De La Voluntad/La pócima de la voluntad.md",
     "Oneshots/La Pocima De La Voluntad",
-    "Campañas/Hijos Del Fango/Sesiones/sesion-04-hijos-del-fango.md",
-    "Campañas/Hijos Del Fango/Sesiones/sesion-03-hijos-del-fango.md",
-    "Campañas/Hijos Del Fango/Sesiones/sesion-02-hijos-del-fango.md",
-    "Campañas/Hijos Del Fango/Sesiones/sesion-01-hijos-del-fango.md",
-    "Campañas/Hijos Del Fango/Sesiones/sesion-00-hijos-del-fango.md",
+    "Campañas/Hijos Del Fango/Sesiones/Sesión 2 Hijos Del Fango.md",
     "Plantillas/region-template.md",
     "Plantillas/player-character-template.md",
     "Plantillas/session-template.md",
-    "Plantillas/location-template.md",
-    "Plantillas/npc-template.md",
     "Plantillas",
     "_assets/Valkar el Purificador.png",
     "_assets/ze human.png",
