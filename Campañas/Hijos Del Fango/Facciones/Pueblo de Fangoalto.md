@@ -1,4 +1,4 @@
----
+﻿---
 type: faction
 tags:
   - faction
@@ -11,7 +11,7 @@ tags:
 
 ## Identidad
 
-Comunidad rural junto al borde del [[Lodazal de Medianoche]]. Usa un concejo local para decisiones y mantiene símbolos sencillos ligados al control del agua. Imagen sobria y práctica.
+Comunidad rural junto al borde del [[Lodazal De Medianoche]]. Usa un concejo local para decisiones y mantiene símbolos sencillos ligados al control del agua. Imagen sobria y práctica.
 
 ## Origen e historia
 
@@ -35,4 +35,5 @@ Métodos simples: patrullas breves, revisión de drenajes y reuniones para compa
 
 ## Relaciones
 
-Mantiene vigilancia constante sobre el [[Lodazal de Medianoche]]. Intercambia con viajeros lo que no produce. Vista externa: perseverancia reservada. Busca aliados que aporten contención sin abuso.
+Mantiene vigilancia constante sobre el [[Lodazal De Medianoche]]. Intercambia con viajeros lo que no produce. Vista externa: perseverancia reservada. Busca aliados que aporten contención sin abuso.
+

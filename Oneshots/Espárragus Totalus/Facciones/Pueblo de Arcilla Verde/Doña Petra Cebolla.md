@@ -1,4 +1,4 @@
----
+﻿---
 type: npc
 tags:
   - npc
@@ -19,10 +19,11 @@ Es amable, pero sus discursos siempre terminan con todos los presentes llorando.
 >
 ## Motivación
 
-Es la encargada de organizar las tareas de la familia de el [[Pueblo de Arcilla Verde]]
+Es la encargada de organizar las tareas de la familia de el [[Pueblo De Arcilla Verde]]
 
 ## Relaciones
 
 [[Brunel Patata]]: Su joven nieto
 [[Hermana Tomasa Guisante]]: La amiga de la infancia
 [[El Huésped Perfecto]]: El ser protector de la isla de [[Arcilla Verde]]
+

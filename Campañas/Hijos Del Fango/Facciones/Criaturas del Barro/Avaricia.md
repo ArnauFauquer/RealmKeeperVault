@@ -1,4 +1,4 @@
----
+﻿---
 type: npc
 tags:
   - npc
@@ -27,8 +27,9 @@ Busca acaparar todos los objetos de valor de las Tierras del Este en su red. Cad
 
 ## Relaciones
 
-- [[Criaturas del Barro]] – Una de las siete manifestaciones principales
+- [[Criaturas Del Barro]] – Una de las siete manifestaciones principales
 - [[Yugata]] – Entidad primordial de la que nació
 - Mercaderes y viajeros – Víctimas preferidas, fuentes de botín
-- [[Cazadores de la noche]] – Han perdido reliquias en sus incursiones
+- [[Cazadores De La Noche]] – Han perdido reliquias en sus incursiones
 - Ladrones – Competencia odiada que debe ser eliminada
+

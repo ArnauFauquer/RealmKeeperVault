@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - location
   - wei
@@ -11,7 +11,7 @@ type: location
 
 ## Nombre y ubicación
 
-Gravilla Encantada, pueblo interior en el corazón de las [[Tierras del Norte]] – Tierra.
+Gravilla Encantada, pueblo interior en el corazón de las [[Tierras Del Norte]] – Tierra.
 
 ## Aspecto y ambiente
 
@@ -24,3 +24,4 @@ Pequeña comunidad de agricultores de subsistencia (cultivos resistentes), talla
 ## Importancia o rol
 
 Enclave seguro de descanso para rutas que atraviesan zonas áridas. Fuente de pequeñas cantidades de grava y minerales tamizados útiles para forja fina y rituales estabilizadores.
+

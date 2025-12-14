@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - location
   - wei
@@ -11,7 +11,7 @@ type: location
 
 ## Nombre y ubicación
 
-Emberlia es la capital y principal puerto de las [[Tierras del Este]], asentada en costa áspera donde un río de manantiales calientes desemboca en el mar. Conecta por rutas interiores con [[Puertas de obsidiana]] y caravanas hacia [[Chispa Rubí]].
+Emberlia es la capital y principal puerto de las [[Tierras del Este]], asentada en costa áspera donde un río de manantiales calientes desemboca en el mar. Conecta por rutas interiores con [[Puertas De Obsidiana]] y caravanas hacia [[Chispa Rubí]].
 
 ## Aspecto y ambiente
 
@@ -23,4 +23,5 @@ Marineros, mercaderes internacionales, destiladores de esencias ardientes, diplo
 
 ## Importancia o rol
 
-Centro económico y puerta marítima del Fuego. Regula exportación de metales raros, combustibles y artefactos térmicos. Hub diplomático con emisarios de las [[Tierras del Centro]] y comerciantes de las [[Tierras del Sud]].
+Centro económico y puerta marítima del Fuego. Regula exportación de metales raros, combustibles y artefactos térmicos. Hub diplomático con emisarios de las [[Tierras del Centro]] y comerciantes de las [[Tierras Del Sud]].
+

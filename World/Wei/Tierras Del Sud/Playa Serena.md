@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - location
   - wei
@@ -11,7 +11,7 @@ type: location
 
 ## Nombre y ubicación
 
-Playa Serena se extiende en un tramo escarpado de la costa suroriental, al sudeste de [[Coralia]] y más allá de rutas habituales de barcazas entre [[Puerto Sirenas]] y [[Badía Espejo]] dentro de las [[Tierras del Sud]].
+Playa Serena se extiende en un tramo escarpado de la costa suroriental, al sudeste de [[Coralia]] y más allá de rutas habituales de barcazas entre [[Puerto Sirenas]] y [[Badía Espejo]] dentro de las [[Tierras Del Sud]].
 
 ## Aspecto y ambiente
 
@@ -24,3 +24,4 @@ No hay asentamiento permanente; sólo campamentos temporales de observadores de 
 ## Importancia o rol
 
 Campo de entrenamiento extremo para capitanes ambiciosos de [[Puerto Sirenas]]. Fuente de conchas resonantes utilizadas en rituales de calibración en [[Marea Profunda]]. Sitio donde ocasionalmente encallan restos de navíos foráneos que traen artefactos y rumores lejanos.
+

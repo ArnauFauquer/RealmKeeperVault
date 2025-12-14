@@ -1,4 +1,4 @@
----
+﻿---
 type: session
 tags:
   - session
@@ -17,17 +17,17 @@ date: 2025-08-28
 
 Durante la parada en el **pueblo de la montaña arenisca**, los aventureros [[Anja]], [[Gustavo]], [[Adara]] y [[Olzman]] finalmente conocen al **líder [[Drunaris]]**, **[[Dani Guerra]]**.
 
-[[Dani Guerra]] y [[Drogar Martillo de Hierro]] han estado **todo el día hablando** sobre cuál será la **estrategia para cuando sea necesario luchar codo a codo** los [[Enanos de Rocanegra]] y el pueblo [[Drunaris]].
+[[Dani Guerra]] y [[Drogar Martillo De Hierro]] han estado **todo el día hablando** sobre cuál será la **estrategia para cuando sea necesario luchar codo a codo** los [[Enanos De Rocanegra]] y el pueblo [[Drunaris]].
 
 ### Desarrollo
 
 - **Alianza Estratégica**: El acuerdo establece que el **pueblo [[Drunaris]] cuidará y sanará** a [[Grider Comeconejos]] y estarán **listos para cuando sean necesarios** en la lucha contra las fuerzas enemigas.
 
-- **Informe de [[Drogar Martillo de Hierro]]**: [[Drogar Martillo de Hierro]] explica a los aventureros **sus hazañas al este** y les presenta dos opciones de viaje:
+- **Informe de [[Drogar Martillo De Hierro]]**: [[Drogar Martillo De Hierro]] explica a los aventureros **sus hazañas al este** y les presenta dos opciones de viaje:
   - **Regresar a [[Rocanegra]]** para reportar y reagruparse
   - **Ir directamente a [[Piedra Sólida]]** ya que es la zona más cercana a los poblados [[Orcos]]
 
-- **Situación en [[Piedra Sólida]]**: [[Drogar Martillo de Hierro]] revela detalles alarmantes:
+- **Situación en [[Piedra Sólida]]**: [[Drogar Martillo De Hierro]] revela detalles alarmantes:
   - Durante el último conflicto, **las afueras de la ciudad quedaron completamente destrozadas**
   - Los **lugareños se tuvieron que refugiar en las minas** subterráneas
   - La situación es crítica y necesita intervención inmediata
@@ -44,9 +44,10 @@ En ese momento dramático, una **risisa malévola se escucha a lo lejos**, mient
 
 ## 🎭 Momentos
 
-- **"Luchar codo a codo"** - *[[Dani Guerra]] y [[Drogar Martillo de Hierro]] planificando la alianza*
-- **"Las afueras están completamente destrozadas"** - *[[Drogar Martillo de Hierro]] describiendo la devastación de [[Piedra Sólida]]*
+- **"Luchar codo a codo"** - *[[Dani Guerra]] y [[Drogar Martillo De Hierro]] planificando la alianza*
+- **"Las afueras están completamente destrozadas"** - *[[Drogar Martillo De Hierro]] describiendo la devastación de [[Piedra Sólida]]*
 - **"Refugiados en las minas"** - *La situación desesperada de los lugareños*
 - **"El cielo se nubla"** - *Presagio ominoso durante el viaje*
 - **"¡Un rayo impacta el barco!"** - *Ataque desde las nubes*
 - **La risa malévola** y **la silueta gigante** - *Revelación del atacante*
+

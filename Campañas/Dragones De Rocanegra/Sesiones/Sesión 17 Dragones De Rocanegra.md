@@ -1,4 +1,4 @@
----
+﻿---
 type: session
 tags:
   - session
@@ -9,7 +9,7 @@ date: 2025-08-28
 ---
 # Sesión 17 Preparativos para la Guerra Final
 
-> **Resumen:** Los aventureros regresan a [[Rocanegra]] y encuentran todos los ejércitos aliados reunidos. [[Jarl Dragarthia Piedraforjada]] los consulta sobre la infiltración, se evalúa la situación estratégica, y los aventureros deben asumir roles de liderazgo para la batalla final contra [[Adrael Hoja de sangre]] y el [[Orthning]]
+> **Resumen:** Los aventureros regresan a [[Rocanegra]] y encuentran todos los ejércitos aliados reunidos. [[Jarl Dragarthia Piedraforjada]] los consulta sobre la infiltración, se evalúa la situación estratégica, y los aventureros deben asumir roles de liderazgo para la batalla final contra [[Adrael Hoja De Sangre]] y el [[Orthning]]
 
 ## 📖 Eventos
 
@@ -17,19 +17,19 @@ date: 2025-08-28
 
 Los aventureros de regreso a [[Rocanegra]] se encuentran con **todos los ejércitos aliados** reunidos para la guerra final:
 
-**Fuerzas [[Enanos de Rocanegra]]**:
+**Fuerzas [[Enanos De Rocanegra]]**:
 
 - **Batallón de infiltración enano** ([[Olzman]])
 - **Pequeña compañía de arqueros enanos** ([[Gustavo]])
 - **Grupo de guerreros enanos** ([[Capataz For-jon]])
 - **Multitud de magos enanos** ([[Maestro Kragg Piedraestrella]])
-- **Último regimiento de gladiadores enanos** ([[Drogar Martillo de Hierro]])
+- **Último regimiento de gladiadores enanos** ([[Drogar Martillo De Hierro]])
 
 **Fuerzas [[Drunaris]]** (llegando con temblores a la distancia):
 
 - **Batallón de infantería [[Drunaris]]** ([[Anja]])
 - **Compañía de espías [[Drunaris]]** ([[Jarl Dragarthia Piedraforjada]])
-- **Clérigos de la [[Palabra de la Suerte]]** ([[Espe]])
+- **Clérigos de la [[Palabra De La Suerte]]** ([[Espe]])
 - **Multitud de artilleros [[Drunaris]]** ([[Adara]])
 - **Jinetes de Zhephirs** (camellos) [[Drunaris]]
 - **El gigante gusano púrpura** ([[Dani Guerra]]]])
@@ -39,31 +39,31 @@ Los aventureros de regreso a [[Rocanegra]] se encuentran con **todos los ejérci
 
 - **Consulta Estratégica**: [[Jarl Dragarthia Piedraforjada]] se dirige hacia [[Gustavo]], [[Anja]], [[Adara]] y [[Olzman]] para **interesarse por la infiltración** a las minas de sal y obtener información crucial.
 
-- **Consejo de Guerra**: Ya en el **[[Salón de los Héroes]]** acuerdan los **preparativos de la guerra inminente** en los siguientes días.
+- **Consejo de Guerra**: Ya en el **[[Salón De Los Héroes]]** acuerdan los **preparativos de la guerra inminente** en los siguientes días.
 
 **Evaluación Estratégica**:
 
 **En el Oeste**:
 
 - ✅ **Armas para todo el regimiento enano** gracias al viaje a [[Tierrafértil]]
-- ✅ **Arma antigua contra gigantes** del [[Templo de la Sabiduría]]
-- ✅ **[[Drunaris]] del lado enano** gracias al viaje a [[Desierto de Dustoria]]
+- ✅ **Arma antigua contra gigantes** del [[Templo De La Sabiduría]]
+- ✅ **[[Drunaris]] del lado enano** gracias al viaje a [[Desierto De Dustoria]]
 - ⚠️ **[[Grider Comeconejos]] medio recuperado** - no llegaron a tiempo para evitar envenenamiento
 - ✅ **[[Strongmaus el Triste]] y [[Scoraeus El Sabio]] ya no viven** - amenazas eliminadas
 
 **En el Este**:
 
 - ❌ **Se acaba de perder [[Piedra Sólida]]** en las últimas horas
-- ✅ **Ubicación del [[Poblado de Azhrog]] conocida
-- ✅ **Minas de sal libres** de [[Hermanos de la Sangre]] gracias a los aventureros
+- ✅ **Ubicación del [[Poblado De Azhrog]] conocida
+- ✅ **Minas de sal libres** de [[Hermanos De La Sangre]] gracias a los aventureros
 - ⚠️ **[[Adrael]] es un semi-dios** que controla la cima del [[Orthning]] - conspirador principal
 - 💔 **Los enanos no han tratado bien a los [[Orcos]]** nunca - problema moral
 - ⚠️ **[[Trhrim el Guerrero]] y [[Surtur el Creador]] están vivos** - gigantes enemigos restantes
-- ❌ **[[Adrael Hoja de sangre]] controla a [[Nagisha]]** como su madre - dragón enemigo
+- ❌ **[[Adrael Hoja De Sangre]] controla a [[Nagisha]]** como su madre - dragón enemigo
 
 ### Final
 
-**Asignación de Roles de Liderazgo**: Los aventureros deben **asumir un rol en la guerra** ya que han demostrado ser **el aliado más poderoso** del reino de las [[Tierras del Norte]]:
+**Asignación de Roles de Liderazgo**: Los aventureros deben **asumir un rol en la guerra** ya que han demostrado ser **el aliado más poderoso** del reino de las [[Tierras Del Norte]]:
 
 - **Un Comandante Jefe** junto a [[Jarl Dragarthia Piedraforjada]] para **organizar las unidades durante la batalla**
 - **Los demás** deben escoger **liderar un escuadrón** específico
@@ -95,3 +95,4 @@ En la sala entran el **resto de líderes de escuadra** para acordar la **estrate
 - **"[[Adrael]] es un semi-dios"** - *Reconocimiento de la verdadera amenaza*
 - **"Los enanos no han tratado bien a los [[Orcos]]"** - *Admisión moral difícil*
 - **"El aliado más poderoso del reino"** - *Reconocimiento del estatus heroico*
+

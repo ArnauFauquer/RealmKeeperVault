@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - location
   - wei
@@ -12,7 +12,7 @@ type: location
 
 ## Nombre y ubicación
 
-Coralia, capital de la comarca del Sur en las [[Tierras del Sud]], se alza más allá del archipiélago central sobre islotes unidos por puentes arqueados de coral petrificado y madera lacada. Ejes fluviales y canales marcan rutas de acceso desde [[Puerto Sirenas]] y barcazas que vienen de [[Marisma Nácar]].
+Coralia, capital de la comarca del Sur en las [[Tierras Del Sud]], se alza más allá del archipiélago central sobre islotes unidos por puentes arqueados de coral petrificado y madera lacada. Ejes fluviales y canales marcan rutas de acceso desde [[Puerto Sirenas]] y barcazas que vienen de [[Marisma Nácar]].
 
 ## Aspecto y ambiente
 
@@ -25,3 +25,4 @@ Multitud cosmopolita: mercaderes fluviales, cartógrafos de corrientes, artesano
 ## Importancia o rol
 
 Centro político, comercial y cultural del Sur. Sede de consejos de precios regionales y arbitraje de rutas. Emite licencias de exploración hacia santuarios costeros y el templo de [[Marea Profunda]]. Exporta especias húmedas, perlas cultivadas y pergaminos de corriente (mapas dinámicos). Nodo diplomático que media disputas entre enclaves periféricos como [[Badía Espejo]].
+

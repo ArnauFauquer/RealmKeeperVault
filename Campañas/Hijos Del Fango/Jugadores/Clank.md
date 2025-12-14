@@ -1,4 +1,4 @@
----
+﻿---
 type: playerCharacter
 tags:
   - pc
@@ -26,7 +26,7 @@ Mucha gente podría decir que este ser no tiene sentimientos, pero cuando lo con
 
 ## Trasfondo
 
-Apagón de sistema... y después de esto lo único que recuerda es a [[Cantharella]] sacándolo de entre las raíces del [[Lodazal de Medianoche]].
+Apagón de sistema... y después de esto lo único que recuerda es a [[Cantharella]] sacándolo de entre las raíces del [[Lodazal De Medianoche]].
 Aun tenia funciones simples como andar, ver , escuchar y parece que alguna emoción tiene, miedo asombro, ira, tristeza.
 Llevan mese juntos aprendiendo de plantas, animales con [[Tortuardo]], a hablar y escribir con [[Amapola]].
 Tiene tacto con las abejas, desde aquel instante que una le intento picar sin éxito. Des de ese momento Clank se ve reflejado en ellas.
@@ -41,12 +41,13 @@ Tiene tacto con las abejas, desde aquel instante que una le intento picar sin é
 
 ## Preguntas
 
-**Sesión 2:** [[Ben Viejo Loco]] dice que el "espíritu del barro" te llamó a este lugar. Cuando observas el [[Lodazal de Medianoche]], ¿sientes alguna conexión? ¿Reconoces algo familiar en su oscuridad que podría ayudarte a recordar quién eras?
+**Sesión 2:** [[Ben Viejo Loco]] dice que el "espíritu del barro" te llamó a este lugar. Cuando observas el [[Lodazal De Medianoche]], ¿sientes alguna conexión? ¿Reconoces algo familiar en su oscuridad que podría ayudarte a recordar quién eras?
 
-> Tristeza, el [[Lodazal de Medianoche]] me trae trizteza.
+> Tristeza, el [[Lodazal De Medianoche]] me trae trizteza.
 
 **Sesión 3:** Si descubres que tenías un propósito anterior que no recuerdas, ¿Qué significaría eso para ti ahora?
 
 > Todo depende si es negativo o no. Pero no me preocupa.
 
 **Sesión 4:** Eres un ser que busca comprender sus propios sentimientos. Entre los que te rodean, ¿hay alguien cuya presencia te ayuda a entender mejor quién eres? ¿Quién te parece más fascinante o misteriosa entre la gente del pueblo de [[Fangoalto]]?
+

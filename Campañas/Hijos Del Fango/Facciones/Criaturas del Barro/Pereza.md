@@ -1,4 +1,4 @@
----
+﻿---
 type: npc
 tags:
   - npc
@@ -27,6 +27,7 @@ Busca observar el mundo hasta su final sin intervenir jamás. Registra patrones,
 
 ## Relaciones
 
-- [[Criaturas del Barro]] – Una de las siete manifestaciones principales
+- [[Criaturas Del Barro]] – Una de las siete manifestaciones principales
 - [[Yugata]] – Entidad primordial de la que nació
 - Ninguna relación activa – Observa pero no participa
+

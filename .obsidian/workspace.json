@@ -20,28 +20,6 @@
               "icon": "lucide-file",
               "title": "Sesión 14 Dragones De Rocanegra"
             }
-          },
-          {
-            "id": "0ac874b0153d50e1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
-            }
-          },
-          {
-            "id": "0939ab4665262e41",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "_assets/Viejo loco Ben.png"
-              },
-              "icon": "lucide-image",
-              "title": "Viejo loco Ben"
-            }
           }
         ]
       }
@@ -187,8 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 726.5,
-    "collapsed": true
+    "width": 766.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,8 +178,10 @@
       "graph:Abrir vista gráfica": false
     }
   },
-  "active": "4947274e7554e17c",
+  "active": "64bacc7762a406c7",
   "lastOpenFiles": [
+    "_assets/Viejo loco Ben.png",
+    "Campañas/Dragones De Rocanegra/Sesiones/Sesión 14 Dragones De Rocanegra.md",
     "Campañas/Dragones De Rocanegra/Sesiones/Sesión 1 Dragones De Rocanegra.md",
     "Campañas/Hijos Del Fango/Sesiones/Sesión 1 Hijos Del Fango.md",
     "Campañas/Hijos Del Fango/Sesiones/Sesión 0 Hijos Del Fango.md",
@@ -235,15 +214,12 @@
     "Oneshots/La Pocima De La Voluntad",
     "Campañas/Hijos Del Fango/Sesiones/Sesión 2 Hijos Del Fango.md",
     "Plantillas/region-template.md",
-    "Plantillas/player-character-template.md",
-    "Plantillas/session-template.md",
     "Plantillas",
     "_assets/Valkar el Purificador.png",
     "_assets/ze human.png",
     "_assets/Dorkan.png",
     "_assets/Sose y ovalis Carcolento.png",
     "_assets/Amapola.png",
-    "_assets/Viejo loco Ben.png",
     "_assets/Jacobo.png",
     "_assets/Abuela Fragopyro.png",
     "_assets/animated_0.mp4",

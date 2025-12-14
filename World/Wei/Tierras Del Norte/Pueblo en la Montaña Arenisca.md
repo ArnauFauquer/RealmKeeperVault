@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - location
   - wei
@@ -11,7 +11,7 @@ type: location
 
 ## Nombre y ubicación
 
-Ciudad en la Montaña Arenisca, enclavada en una cordillera limítrofe del [[Desierto de Dustoria]] – Tierra.
+Ciudad en la Montaña Arenisca, enclavada en una cordillera limítrofe del [[Desierto De Dustoria]] – Tierra.
 
 ## Aspecto y ambiente
 
@@ -23,4 +23,5 @@ Mineros, talladores de piedra, tejedores de cuerdas resistentes al polvo y comer
 
 ## Importancia o rol
 
-Principal enclave social estable dentro del [[Desierto de Dustoria]]. Núcleo de intercambio de agua, minerales y mapas de corrientes de arena. Punto de descanso y reorganización de expediciones.
+Principal enclave social estable dentro del [[Desierto De Dustoria]]. Núcleo de intercambio de agua, minerales y mapas de corrientes de arena. Punto de descanso y reorganización de expediciones.
+

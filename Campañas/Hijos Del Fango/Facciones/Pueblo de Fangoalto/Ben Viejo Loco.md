@@ -1,4 +1,4 @@
----
+﻿---
 type: npc
 tags:
   - npc
@@ -25,6 +25,7 @@ Desea que el pueblo "escuche" al barro: afirma que el barro guarda memorias y ad
 
 ## Relaciones
 
-[[Pueblo de Fangoalto]] – Lo toleran como parte del paisaje.
-[[Gremio de cazadores]] – Lo consideran inofensivo pero molesto.
+[[Pueblo De Fangoalto]] – Lo toleran como parte del paisaje.
+[[Gremio De Cazadores]] – Lo consideran inofensivo pero molesto.
 [[Dorkan el Herrero]] – A veces le da clavos viejos para sus talismanes.
+

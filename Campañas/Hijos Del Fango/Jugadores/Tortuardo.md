@@ -1,4 +1,4 @@
----
+﻿---
 type: playerCharacter
 tags:
   - pc
@@ -25,7 +25,7 @@ Amante de todo lo natural, especialmente la fauna, lleva consigo una gran moral 
 
 Nació de camino en [[Fangoalto]] donde ha vivido toda su vida. junto a su familia llevan una pequeña y sostenible curtiduría. No cazan, no matan, cuidan los animales en sus últimos momentos y ellos se encargan de aprovechar todo lo que la naturaleza les brinda.
 
-Como el [[Gremio de Cazadores]] representa todo lo contrario a los valores que Tortuardo representa en ocasiones han sido rivales en ocasiones.
+Como el [[Gremio De Cazadores]] representa todo lo contrario a los valores que Tortuardo representa en ocasiones han sido rivales en ocasiones.
 
 > Que significa la vida? Puede lo creado por el hombre estar vivo? Como acabar una vida puede ser posible? Quiero mas aventuras o debo quedarme en [[Fangoalto]]?
 
@@ -34,11 +34,11 @@ Como el [[Gremio de Cazadores]] representa todo lo contrario a los valores que T
 - [[Amapola]] vecinos amigos
 - [[Clank]] maestra
 - [[Cantharella]] comparten pasión por la naturaleza
-- [[Gremio de Cazadores]] rivales
+- [[Gremio De Cazadores]] rivales
 
 ## Preguntas
 
-**Sesión 2:** Tus padres [[Sose y Ovalis Charcolento]] han construido una vida respetando a la naturaleza en [[Fangoalto]]. Ahora el pantano se corrompe y las criaturas atacan. ¿Crees que quedarte para defenderlos es tu deber, o que adentrarte en el [[Lodazal de Medianoche]] para encontrar la fuente del problema es la verdadera manera de protegerlos?
+**Sesión 2:** Tus padres [[Sose Y Ovalis Charcolento]] han construido una vida respetando a la naturaleza en [[Fangoalto]]. Ahora el pantano se corrompe y las criaturas atacan. ¿Crees que quedarte para defenderlos es tu deber, o que adentrarte en el [[Lodazal De Medianoche]] para encontrar la fuente del problema es la verdadera manera de protegerlos?
 
 > Hay que encontrar el origen de la corrupción, es la verdadera manera de protegerlos.
 

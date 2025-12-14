@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - location
   - wei
@@ -11,7 +11,7 @@ type: location
 
 ## Nombre y ubicación
 
-Puerto Sirenas se enclava entre islotes del archipiélago central, actuando como paso intermedio para viajeros hacia [[Coralia]] y nodos periféricos como [[Badía Espejo]] en las [[Tierras del Sud]].
+Puerto Sirenas se enclava entre islotes del archipiélago central, actuando como paso intermedio para viajeros hacia [[Coralia]] y nodos periféricos como [[Badía Espejo]] en las [[Tierras Del Sud]].
 
 ## Aspecto y ambiente
 
@@ -24,3 +24,4 @@ Barqueros, corredoras de cargas, afinadores de boyas y cantoras que entonan patr
 ## Importancia o rol
 
 Nodo logístico que sincroniza horarios de llegada hacia la capital [[Coralia]]. Mercado secundario de repuestos navales y calibración de instrumentos de navegación. Difunde avisos oficiales recibidos desde los espejos de [[Badía Espejo]]. Lugar neutral para pactos comerciales menores.
+

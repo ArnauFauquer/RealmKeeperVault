@@ -1,4 +1,4 @@
----
+﻿---
 type: faction
 tags:
   - faction
@@ -22,7 +22,7 @@ Lema: "Equilibrio por el trueque justo".
 
 ## Origen e historia
 
-Surgió tras la estabilización post-[[Guerra de los 1000 Años]] para coordinar excedentes agrícolas de [[Tierrafértil]] con demanda mineral y artesanal de enclaves como [[Enanos de Rocanegra]]. Reunió comerciantes independientes bajo acuerdos de mutua defensa y arbitraje neutro. La incorporación del autómata rescatado For-jon como capataz consolidó su autoridad logística.
+Surgió tras la estabilización post-[[Guerra De Los 1000 Años]] para coordinar excedentes agrícolas de [[Tierrafértil]] con demanda mineral y artesanal de enclaves como [[Enanos De Rocanegra]]. Reunió comerciantes independientes bajo acuerdos de mutua defensa y arbitraje neutro. La incorporación del autómata rescatado For-jon como capataz consolidó su autoridad logística.
 
 ## Estructura y liderazgo
 
@@ -48,3 +48,4 @@ Ventajas: Capataz autómata polivalente, red de informantes de granos y clima.
 ## Operaciones y métodos
 
 Planificación modular de convoyes; uso de estandartes de color según nivel de riesgo. Negociación basada en tablas de equivalencias públicas. Protocolos de emergencia: formación de círculo defensivo y despliegue de barreras de grano humedecido contra fuego. Registro detallado de deudas en tablillas de arcilla lacradas.
+

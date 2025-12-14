@@ -1,4 +1,4 @@
----
+﻿---
 type: session
 tags:
   - session
@@ -9,13 +9,13 @@ date: 2025-08-28
 ---
 Sesión 1 Dragones De Rocanegra# Sesión 14 La Infiltración de la Mina de Sal
 
-> **Resumen:** Los aventureros son guiados por dos gemelos curiosos hacia la [[antigua mina de sal]]. Descubren que es tanto una mina como un templo con columnas doradas y runas enanas. Tras hacer ruido y atraer enemigos, llegan a las salas principales llenas de [[Hermanos de la Sangre]]
+> **Resumen:** Los aventureros son guiados por dos gemelos curiosos hacia la [[Antigua Mina De Sal]]. Descubren que es tanto una mina como un templo con columnas doradas y runas enanas. Tras hacer ruido y atraer enemigos, llegan a las salas principales llenas de [[Hermanos De La Sangre]]
 
 ## 📖 Eventos
 
 ### Inicio
 
-Los aventureros son **guiados por dos gemelos curiosos** hacia la **[[Antigua mina de sal]]** al este de [[Piedra Sólida]], siguiendo la información proporcionada por los exploradores enanos.
+Los aventureros son **guiados por dos gemelos curiosos** hacia la **[[Antigua Mina De Sal]]** al este de [[Piedra Sólida]], siguiendo la información proporcionada por los exploradores enanos.
 
 Se **infiltran dentro de las minas**, pero rápidamente descubren que este lugar no es una mina ordinaria.
 
@@ -27,15 +27,15 @@ Se **infiltran dentro de las minas**, pero rápidamente descubren que este lugar
 
 - **Los Gemelos como Guías Forzados**: Tras **forzar a los dos gemelos** a entrar en **lo profundo de las salas**, los aventureros continúan su infiltración usando a los locales como guías reluctantes.
 
-- **Error Táctico**: Los aventureros **hacen ruido** durante la infiltración y **sin querer atraen la atención** de un grupo de **pequeños [[Hermanos de la Sangre]]** que patrullaban la zona.
+- **Error Táctico**: Los aventureros **hacen ruido** durante la infiltración y **sin querer atraen la atención** de un grupo de **pequeños [[Hermanos De La Sangre]]** que patrullaban la zona.
 
 - **Primer Combate**: Tras **derrotar este pequeño grupo de enemigos** en las salas exteriores, los aventureros **terminan de entrar en las minas** dejando atrás a **los gemelos**, probablemente para su seguridad o porque ya no los necesitan como guías.
 
 ### Final
 
-Los aventureros finalmente **llegan a las salas principales** de las minas, el corazón del complejo donde esperaban encontrar respuestas sobre los [[Hermanos de la Sangre]].
+Los aventureros finalmente **llegan a las salas principales** de las minas, el corazón del complejo donde esperaban encontrar respuestas sobre los [[Hermanos De La Sangre]].
 
-Sin embargo, descubren que las **salas principales están llenas de [[Hermanos de la Sangre]]**, convirtiendo lo que debía ser una misión de reconocimiento en una situación de combate masivo inminente.
+Sin embargo, descubren que las **salas principales están llenas de [[Hermanos De La Sangre]]**, convirtiendo lo que debía ser una misión de reconocimiento en una situación de combate masivo inminente.
 
 ## 🎭 Momentos
 
@@ -46,3 +46,4 @@ Sin embargo, descubren que las **salas principales están llenas de [[Hermanos d
 - **"¡Hacemos ruido!"** - *Error táctico durante la infiltración*
 - **"Dejando atrás los gemelos"** - *Abandono de los guías*
 - **"¡Las salas están llenas de enemigos!"** - *Descubrimiento del alcance de la ocupación*
+

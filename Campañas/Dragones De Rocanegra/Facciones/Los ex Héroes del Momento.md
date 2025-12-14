@@ -1,4 +1,4 @@
----
+﻿---
 type: faction
 tags:
   - faction
@@ -20,11 +20,11 @@ Lema (no oficial): "Resolver hoy, pensar mañana".
 
 ## Origen e historia
 
-Se consolidaron durante crisis múltiples en Nexus (plagas arcanas menores, disputas de gremios) ganando fama por respuestas veloces más que planificación. Participación destacada en defensa previa al asedio a [[Rocanegra]]. La muerte de miembros clave (Elminster y Liriel) y la posterior traición de [[Adrael Hoja de sangre]] fracturó la cohesión. El enano sobreviviente [[Drogar Martillo de Hierro]] se replegó a asuntos de linaje.
+Se consolidaron durante crisis múltiples en Nexus (plagas arcanas menores, disputas de gremios) ganando fama por respuestas veloces más que planificación. Participación destacada en defensa previa al asedio a [[Rocanegra]]. La muerte de miembros clave (Elminster y Liriel) y la posterior traición de [[Adrael Hoja De Sangre]] fracturó la cohesión. El enano sobreviviente [[Drogar Martillo De Hierro]] se replegó a asuntos de linaje.
 
 ## Estructura y liderazgo
 
-Liderazgo rotaba según naturaleza del desafío: mágico ([[Elminster Manto de Plata]]), social / inspiración ([[Liriel Canción de Estrellas]]), infiltración ([[Adrael Hoja de sangre]]), choque frontal ([[Drogar Martillo de Hierro]]). Ausencia de estatutos escritos; decisiones por voto rápido o señal acordada.
+Liderazgo rotaba según naturaleza del desafío: mágico ([[Elminster Manto De Plata]]), social / inspiración ([[Liriel Canción De Estrellas]]), infiltración ([[Adrael Hoja De Sangre]]), choque frontal ([[Drogar Martillo De Hierro]]). Ausencia de estatutos escritos; decisiones por voto rápido o señal acordada.
 
 ## Objetivos y motivaciones
 
@@ -34,7 +34,7 @@ Motivaciones subyacentes: gloria efímera, protección comunitaria, redención p
 
 ## Recursos y capacidades
 
-Recursos pasados: Contactos en tablones de [[Gremio de Aventureros]], acceso a archivos parciales de [[Sabios Arcanos]], cachetas de equipo diverso.  
+Recursos pasados: Contactos en tablones de [[Gremio De Aventureros]], acceso a archivos parciales de [[Sabios Arcanos]], cachetas de equipo diverso.  
 Hoy: Reliquias dispersas, testimonios contradictorios, reputación fragmentada.
 
 ## Operaciones y métodos
@@ -43,3 +43,4 @@ Estilo reactivo de alta visibilidad: intervención rápida, resolución contunde
 Post disolución: Fragmentación de registros; rumores de bóveda sellada con contratos sin completar.
 
 Reputación actual: Héroes trágicos / grupo con secretos; narrativas divergentes según fuente.
+

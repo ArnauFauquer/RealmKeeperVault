@@ -1,4 +1,4 @@
----
+﻿---
 type: session
 tags:
   - session
@@ -17,13 +17,13 @@ date: 2025-08-28
 
 **[[Strongmaus el Triste]]** derriba el barco volador con su ataque de rayos. En el impacto y la caída, varios tripulantes resultan gravemente heridos, incluyendo a **[[Adara]]** y al chófer **[[Jofre Piedrafirme]]**, quien ahora había sido hecho **héroe del momento**.
 
-El gigante que mató a [[Liriel Canción de Estrellas]] durante el ataque a [[Rocanegra]] ha aparecido para terminar el trabajo, enfrentando directamente a [[Los nuevos Héroes del Momento]].
+El gigante que mató a [[Liriel Canción De Estrellas]] durante el ataque a [[Rocanegra]] ha aparecido para terminar el trabajo, enfrentando directamente a [[Los Nuevos Héroes Del Momento]].
 
 ### Desarrollo
 
 - **Reanimación de [[Adara]]**: Durante la dura batalla, [[Adara]] **consigue reanimarse** gracias a las **curaciones de [[Espe]]**, quien actúa rápidamente para estabilizar a su compañera caída.
 
-- **Batalla Épica**: [[Drogar Martillo de Hierro]], [[Olzman]], [[Gustavo]] y [[Anja]] **pelean a muerte** contra **[[Strongmaus el Triste]]** en una lucha desesperada por sus vidas y las de los tripulantes heridos.
+- **Batalla Épica**: [[Drogar Martillo De Hierro]], [[Olzman]], [[Gustavo]] y [[Anja]] **pelean a muerte** contra **[[Strongmaus el Triste]]** en una lucha desesperada por sus vidas y las de los tripulantes heridos.
 
 - **Combate Multielemental**: La batalla incluye:
   - **Bombas de humo** creando cobertura táctica
@@ -46,3 +46,4 @@ Sin embargo, [[Anja]] actúa rápidamente y **consigue cortarle un dedo** al gig
 - **"¡Pelear a muerte!"** - *Batalla sin cuartel contra [[Strongmaus el Triste]]*
 - **"¡Se disipa en niebla!"** - *Naturaleza sobrenatural del gigante revelada*
 - **[[Anja]] cortando el dedo** - *Trofeo obtenido en el último momento*
+

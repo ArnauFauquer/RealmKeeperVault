@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - location
   - wei
@@ -12,7 +12,7 @@ type: location
 
 ## Nombre y ubicación
 
-Desierto de Dustoria, centro de las [[Tierras del Norte]] – Tierra.
+Desierto de Dustoria, centro de las [[Tierras Del Norte]] – Tierra.
 
 ## Aspecto y ambiente
 
@@ -25,3 +25,4 @@ Escasos grupos [[Drunaris]] ermitaños, caravanas ocasionales y cazadores de rel
 ## Importancia o rol
 
 Zona de paso peligroso que segmenta rutas entre enclaves montañosos. Fuente de recursos raros (resinas fosilizadas, minerales superficiales expuestos por abrasión). Territorio simbólico de resistencia y memoria histórica.
+

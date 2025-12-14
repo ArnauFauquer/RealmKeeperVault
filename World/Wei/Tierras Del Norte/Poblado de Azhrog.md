@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - location
   - wei
@@ -11,7 +11,7 @@ type: location
 
 ## Nombre y ubicación
 
-Poblado de Azhrog, asentamiento orco oriental de las [[Tierras del Norte]] – Tierra.
+Poblado de Azhrog, asentamiento orco oriental de las [[Tierras Del Norte]] – Tierra.
 
 ## Aspecto y ambiente
 
@@ -24,3 +24,4 @@ Clanes orcos pobres pero disciplinados. Actividades: forja rudimentaria, caza me
 ## Importancia o rol
 
 Punto de resistencia orca y símbolo identitario frente a influencia enana. Sirve como puesto de vigilancia de rutas secundarias y refugio para grupos móviles.
+

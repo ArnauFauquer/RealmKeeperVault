@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - location
   - wei
@@ -11,7 +11,7 @@ type: location
 
 ## Nombre y ubicación
 
-Badía Espejo (a veces solo "La Espejo") es un bastión amurallado en una ensenada protegida al este de [[Marisma Nácar]] y al oeste del templo de [[Marea Profunda]] en las [[Tierras del Sud]]. Sus murallas abrazan una bahía de aguas tan quietas al amanecer que duplican torres y velas.
+Badía Espejo (a veces solo "La Espejo") es un bastión amurallado en una ensenada protegida al este de [[Marisma Nácar]] y al oeste del templo de [[Marea Profunda]] en las [[Tierras Del Sud]]. Sus murallas abrazan una bahía de aguas tan quietas al amanecer que duplican torres y velas.
 
 ## Aspecto y ambiente
 
@@ -24,3 +24,4 @@ Guarnición disciplinada (mezcla de marineros, arqueros de muralla y artilleros 
 ## Importancia o rol
 
 Clave defensiva que controla rutas hacia el corazón comercial del Sur. Estación de relés ópticos y acústicos: transmite avisos de tormentas, piratas o anomalías desde y hacia [[Marea Profunda]] y [[Puerto Sirenas]]. Sirve como punto de inspección aduanera y depósito de pertrechos navales.
+

@@ -1,4 +1,4 @@
----
+﻿---
 type: npc
 tags:
   - npc
@@ -25,8 +25,9 @@ Protege animales y poblaciones aledañas evitando que la maldición cause daño.
 
 ## Relaciones
 
-- [[Gremio de cazadores]] – liderazgo formal pero relación tensada por su postura compasiva.
+- [[Gremio De Cazadores]] – liderazgo formal pero relación tensada por su postura compasiva.
 - Animales bajo su cuidado – vínculo de confianza; responden a su voz incluso en fases previas a la luna.
 - Miembros jóvenes idealistas – ven en él un modelo silencioso.
 - Piedra de Blodstone – la trata como carga y herramienta; amplifica sentidos y, en luna llena, su impulso lupino.
 - Comunidades locales – respeto prudente; saben que se aísla voluntariamente para seguridad común.
+

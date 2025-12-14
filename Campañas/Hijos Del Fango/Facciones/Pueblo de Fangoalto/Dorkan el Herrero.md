@@ -1,4 +1,4 @@
----
+﻿---
 type: npc
 tags:
   - npc
@@ -26,6 +26,7 @@ Quiere mantener a Fangoalto autosuficiente y preparado sin levantar sospechas so
 
 ## Relaciones
 
-[[Pueblo de Fangoalto]] – Dependen de su forja.
-[[Gremio de cazadores]] – Pasado oculto, contacto tenso.
+[[Pueblo De Fangoalto]] – Dependen de su forja.
+[[Gremio De Cazadores]] – Pasado oculto, contacto tenso.
 [[Ben Viejo Loco]] – Le tolera y a veces escucha sus delirios en silencio.
+

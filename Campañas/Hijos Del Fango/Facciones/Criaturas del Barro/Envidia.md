@@ -1,4 +1,4 @@
----
+﻿---
 type: npc
 tags:
   - npc
@@ -27,6 +27,7 @@ Busca comprender qué le falta mirando reflejos ajenos, pero cada observación s
 
 ## Relaciones
 
-- [[Criaturas del Barro]] – Una de las siete manifestaciones principales
+- [[Criaturas Del Barro]] – Una de las siete manifestaciones principales
 - [[Yugata]] – Entidad primordial de la que nació
 - Viajeros que se miran en agua – Obsesión temporal, fuente de comparación tortuosa
+

@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - region
   - wei
@@ -10,7 +10,7 @@ type: region
 
 ## Nombre y Elemento
 
-El Centro, también llamado Corazón de Wei o Punto de Equilibrio, recibe su nombre por ser el lugar donde confluyen todos los caminos y energías. No se le asocia a un solo elemento, sino al equilibrio dinámico entre [[Tierras del Norte]], [[Tierras del Este]], [[Tierras del Oeste]] y [[Tierras del Sud]]. Para muchos filósofos es el “quinto estado”: la armonización de los cuatro.
+El Centro, también llamado Corazón de Wei o Punto de Equilibrio, recibe su nombre por ser el lugar donde confluyen todos los caminos y energías. No se le asocia a un solo elemento, sino al equilibrio dinámico entre [[Tierras Del Norte]], [[Tierras del Este]], [[Tierras del Oeste]] y [[Tierras Del Sud]]. Para muchos filósofos es el “quinto estado”: la armonización de los cuatro.
 
 ## Geografía y Clima
 
@@ -27,3 +27,4 @@ El gobierno es un consejo neutral con representantes de todas las regiones y fac
 ## Misterios o Leyendas
 
 Sabios y místicos creen que el Centro es un nudo espiritual donde los planos elementales se entrelazan. Se rumorea que bajo [[Nexus Ciudad Capital]] existe una cámara resonante que pulsa al ritmo del equilibrio mundial y que antiguos sellos mantienen estable la convergencia. Algunos peregrinos aseguran oír un coro de cuatro voces fusionadas cuando meditan al amanecer.
+

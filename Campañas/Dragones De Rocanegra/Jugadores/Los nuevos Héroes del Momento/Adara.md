@@ -1,4 +1,4 @@
----
+﻿---
 type: playerCharacter
 tags:
   - pc
@@ -19,4 +19,5 @@ Honesta hasta lo cortante; sus palabras son agujas que a menudo hieren. Sarcást
 
 ## Trasfondo
 
-Formada entre las rutas peligrosas de [[Wei]] y los encargos del [[Gremio de Aventureros]], afinó su vínculo con el Fuego elemental. Un incidente en las [[Tierras del Centro]] la empujó a abrazar la franqueza absoluta como escudo. Ahora canaliza esa llama para guiar a los [[Los nuevos Héroes del Momento]].
+Formada entre las rutas peligrosas de [[Wei]] y los encargos del [[Gremio De Aventureros]], afinó su vínculo con el Fuego elemental. Un incidente en las [[Tierras del Centro]] la empujó a abrazar la franqueza absoluta como escudo. Ahora canaliza esa llama para guiar a los [[Los Nuevos Héroes Del Momento]].
+

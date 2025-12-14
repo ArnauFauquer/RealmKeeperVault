@@ -1,4 +1,4 @@
----
+﻿---
 type: campain
 tags:
   - wei
@@ -9,13 +9,13 @@ tags:
 
 ## Entrada de los cazadores
 
-Los jugadores entran uno por uno a [[Mansión de los Blodstone]], en una sala llena de tesoros de, reliquias, monstruos disecados. Esta sala parece ser un salón, estanterías repletas de libros, sillones rojos, una chimenea encendía, destaca algo más en la habitación, un ataúd negro lleno de engranajes.
+Los jugadores entran uno por uno a [[Mansión De Los Blodstone]], en una sala llena de tesoros de, reliquias, monstruos disecados. Esta sala parece ser un salón, estanterías repletas de libros, sillones rojos, una chimenea encendía, destaca algo más en la habitación, un ataúd negro lleno de engranajes.
 
 ## Discurso y entrada al laberinto
 
 Se sientan y Verusa la amante de Ulyses Blodstone da un discurso, después de eso los cazadores se presentan. 
 
-El objetivo el juego para los jugadores es entrar el laberinto, encontrar la piedra y el monstruo para heredar el [[Gremio de cazadores]].
+El objetivo el juego para los jugadores es entrar el laberinto, encontrar la piedra y el monstruo para heredar el [[Gremio De Cazadores]].
 
 ## Laberinto
 
@@ -114,7 +114,7 @@ conseguir la piedra de sangre
 
 ### Esbirro
 
-eres el malvado y un sirviente más en el [[gremio de cazadores]] de monstruos
+eres el malvado y un sirviente más en el [[Gremio De Cazadores]] de monstruos
 
 tu objetivo es:
 
@@ -180,3 +180,4 @@ tu objetivo es:
 Conseguir la piedra de sangre
 no morir
 antes de entrar al laberinto tienes que robar un arma, sin que nadie se entere.
+

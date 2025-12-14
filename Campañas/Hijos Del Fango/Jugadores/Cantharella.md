@@ -1,4 +1,4 @@
----
+﻿---
 type: playerCharacter
 tags:
   - pc
@@ -26,29 +26,30 @@ Cantharella es una mujer echa y derecha aun que por su edad no lo dirías. Des d
 
 Vive en [[Fangoalto]], en las afueras, dentro del bosque pero no muy lejos, en una pequeña choza que construyeron ella y su madre de pequeñas.
 
-Una noche cualquiera el [[Gremio de Cazadores]] le dejo sin madre quedando huérfana.
+Una noche cualquiera el [[Gremio De Cazadores]] le dejo sin madre quedando huérfana.
 Des de entonces recolecta recursos para ella y para [[Amapola]] y [[Tortuardo]] que son sus únicos amigos en la aldea.
 
 Una tarde cualquiera volviendo a casa tras una larga colecta de raíces silvestres, encontró una raíz valiosa, por mucho que tiraba no salía, pero de desenterrar la raíz acabo encontrando a [[Clank]] que pese su mal estado cobro vida de nuevo, sin recordar nada.
 
-> Quien es [[Clank]]? Porque no les gusto en [[Fangoalto]]? Realmente deseo venganza del [[Gremio de Cazadores]]? porque los padres de [[Raik]] tuvieron que morir de la misma forma?
+> Quien es [[Clank]]? Porque no les gusto en [[Fangoalto]]? Realmente deseo venganza del [[Gremio De Cazadores]]? porque los padres de [[Raik]] tuvieron que morir de la misma forma?
 
 ## Relaciones
 
 - [[Amapola]] vecinos amigos
 - [[Tortuardo]] comparten pasión por la naturaleza
 - [[Clank]] maestra
-- [[Gremio de Cazadores]] enemigos
+- [[Gremio De Cazadores]] enemigos
 
 ## Preguntas
 
-**Sesión 2:** Has visto las casas abandonadas en el borde del pueblo, familias enteras desaparecidas igual que tu madre. ¿Crees que el [[Lodazal de Medianoche]] oculta las respuestas sobre lo que realmente pasó aquella noche con el [[Gremio de Cazadores]]?
+**Sesión 2:** Has visto las casas abandonadas en el borde del pueblo, familias enteras desaparecidas igual que tu madre. ¿Crees que el [[Lodazal De Medianoche]] oculta las respuestas sobre lo que realmente pasó aquella noche con el [[Gremio De Cazadores]]?
 
-> El [[Lodazal de Medianoche]] me trae pistas poco a poco
+> El [[Lodazal De Medianoche]] me trae pistas poco a poco
 
 **Sesión 3:** ¿Estas cerca de donde estas encontraste a [[Clank]] enterrado?
 
-> Si, el sitio en el [[Lodazal de Medianoche]] no tenia nada especial. Pero cuando vi a [[Clank]] me sorprendió.
+> Si, el sitio en el [[Lodazal De Medianoche]] no tenia nada especial. Pero cuando vi a [[Clank]] me sorprendió.
 
 **Sesión 4:** Aquí dentro del cuadro, donde la naturaleza misma parece distorsionada, ¿quién del grupo crees que realmente entiende lo que has vivido? ¿A quién le revelarías los secretos más oscuros que aún guardas sobre la noche que perdiste a tu madre?
+
 

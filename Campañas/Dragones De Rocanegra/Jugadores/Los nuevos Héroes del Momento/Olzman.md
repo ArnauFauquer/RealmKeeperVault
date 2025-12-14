@@ -1,4 +1,4 @@
----
+﻿---
 type: playerCharacter
 tags:
   - pc
@@ -19,10 +19,11 @@ Agudo, calculador, ingenioso. Humor seco oportuno. Instinto de supervivencia equ
 
 ## Trasfondo
 
-Creció rondando mercados de las [[Tierras del Centro]], perfeccionando manos ligeras para sobrevivir. La humildad de su pasado lo mantiene alerta ante la codicia. Halló en [[Los nuevos Héroes del Momento]] un espacio donde su táctica y sigilo son valorados
+Creció rondando mercados de las [[Tierras del Centro]], perfeccionando manos ligeras para sobrevivir. La humildad de su pasado lo mantiene alerta ante la codicia. Halló en [[Los Nuevos Héroes Del Momento]] un espacio donde su táctica y sigilo son valorados
 
 ## Relaciones
 
-- Grupo: [[Los nuevos Héroes del Momento]] (nido estratégico)
+- Grupo: [[Los Nuevos Héroes Del Momento]] (nido estratégico)
 - Complicidad táctica con [[Adara]].
 - Mentor ocasional de [[Gustavo]] sobre riesgo calculado.
+

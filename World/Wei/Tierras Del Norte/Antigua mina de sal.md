@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - location
   - wei
@@ -12,7 +12,7 @@ type: location
 
 ## Nombre y ubicación
 
-Antigua Mina de Sal, subsuelo sellado en las [[Tierras del Norte]] – Tierra.
+Antigua Mina de Sal, subsuelo sellado en las [[Tierras Del Norte]] – Tierra.
 
 ## Aspecto y ambiente
 
@@ -20,8 +20,9 @@ Red de galerías cristalizadas, pilares salinos iridiscentes y cámaras revestid
 
 ## Población y vida diaria
 
-Actualmente ocupada por los [[Hermanos de la Sangre]]. Actividades: saqueo metódico de reliquias, profanación de santuarios y vigilancia de accesos sellados. Presencia residual de trampas enanas inactivas o inestables.
+Actualmente ocupada por los [[Hermanos De La Sangre]]. Actividades: saqueo metódico de reliquias, profanación de santuarios y vigilancia de accesos sellados. Presencia residual de trampas enanas inactivas o inestables.
 
 ## Importancia
 
-Antiguo sitio funerario y mina estratégica abandonada. Custodia la tumba del gigante [[Grolantor el Cobarde de las Colinas]] (símbolo de advertencia histórica). Ahora sirve como base clandestina y depósito de artefactos sustraídos.
+Antiguo sitio funerario y mina estratégica abandonada. Custodia la tumba del gigante [[Grolantor El Cobarde De Las Colinas]] (símbolo de advertencia histórica). Ahora sirve como base clandestina y depósito de artefactos sustraídos.
+

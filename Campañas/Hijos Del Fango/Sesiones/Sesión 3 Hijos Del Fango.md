@@ -1,4 +1,4 @@
----
+﻿---
 type: session
 tags:
   - session
@@ -9,7 +9,7 @@ date: 2025-11-19
 ---
 # Sesión 3 Hijos del fango
 
-> En el corazón del [[Lodazal de Medianoche]], los [[Hijos Del Fango]] descubren que escapar de las sombras del pantano no es tan simple como caminar de vuelta a casa.
+> En el corazón del [[Lodazal De Medianoche]], los [[Hijos Del Fango]] descubren que escapar de las sombras del pantano no es tan simple como caminar de vuelta a casa.
 
 ## Eventos
 
@@ -25,7 +25,7 @@ date: 2025-11-19
 
 **Una pulsación** [[Amapola]] ni siquiera el croar de las ranas o el zumbido de los insectos nocturnos.
 
-**Una pulsación** Como si todo el [[Lodazal de Medianoche]] contuviera la respiración. ¿Verdad [[Cantharella]]?
+**Una pulsación** Como si todo el [[Lodazal De Medianoche]] contuviera la respiración. ¿Verdad [[Cantharella]]?
 
 **Una pulsación** La piedra canalizadora de [[Neftalí]] aún brilla débilmente en su mano.
 
@@ -41,7 +41,7 @@ El pantano no los está dejando ir, les ha hecho retroceder.
 
 ### Desarrollo
 
-La niebla se espesa mientras los [[Hijos Del Fango]] intentan encontrar el camino de vuelta a [[Fangoalto]]. Cada paso parece llevarlos más profundo en el [[Lodazal de Medianoche]], como si el propio pantano conspirara para mantenerlos perdidos.
+La niebla se espesa mientras los [[Hijos Del Fango]] intentan encontrar el camino de vuelta a [[Fangoalto]]. Cada paso parece llevarlos más profundo en el [[Lodazal De Medianoche]], como si el propio pantano conspirara para mantenerlos perdidos.
 
 [[Cornelius]] y [[Tortuardo]] encuentra el resto que aparentemente hizo es del excavador acido para llegar a ese lugar.
 
@@ -71,7 +71,7 @@ Su presencia es abrumadora pero seductora. [[Yugata]] o habla con palabras, sino
 
 **A [[Neftalí]]:** *"Protector leal... [[Fangoalto]] sufre... pero yo puedo hacerlo próspero... abundante... todos alimentados... solo necesito... una pequeña colaboración..."*
 
-**A [[Raik]]:** *"Cachorro vengativo... el [[Gremio de Cazadores]] te quitó todo... pero yo puedo devolverles el dolor... multiplicado... ¿no es eso lo que realmente quieres?"*
+**A [[Raik]]:** *"Cachorro vengativo... el [[Gremio De Cazadores]] te quitó todo... pero yo puedo devolverles el dolor... multiplicado... ¿no es eso lo que realmente quieres?"*
 
 **A [[Tortuardo]]:** *"Defensor de la naturaleza... mira cómo las criaturas corrompen MI pantano... juntos podemos purificarlo... restaurarlo... pero debes elegir... ¿el barro o los corruptores?"*
 
@@ -81,7 +81,7 @@ Sus palabras se desvanecen con la primera luz del amanecer, y la figura se disue
 
 La niebla comienza a disiparse conforme se alejan del corazón del pantano. Los sonidos normales del bosque regresan gradualmente: el croar de las ranas, el susurro del viento entre las hojas, el goteo constante de la humedad.
 
-Pero cuando finalmente llegan al borde del [[Lodazal de Medianoche]] y divisan [[Fangoalto]] a lo lejos, algo no está bien.
+Pero cuando finalmente llegan al borde del [[Lodazal De Medianoche]] y divisan [[Fangoalto]] a lo lejos, algo no está bien.
 
 Una columna de humo negro se eleva desde el pueblo. No es el humo blanco y acogedor de las chimeneas de siempre... es denso, oscuro, el humo de algo que se ha quemado por completo.
 
@@ -94,7 +94,7 @@ Las preguntas los acompañan mientras se apresuran hacia el pueblo, el peso del 
 [[Amapola]] al entrar al pueblo ve el panorama. Su casa y la tienda de la [[Abuela Fragopyro]] es la única incendiada hecha pedazos, destrozada, sus amigos [[Hijos Del Fango]] la arropan.
 
 [[Tortuardo]] visita a sus padres, están bien y le dicen que han raptado a la [[Abuela Fragopyro]].
-[[Cornelius]] y [[Neftalí]] observan el templo de [[Ben Viejo Loco]], esta tachando los murales de su antigua patrona [[Yugata]] el espíritu del barro. El fuego nos purificara, escribe [[Ben Viejo Loco]]. Los del [[Gremio de cazadores]] y [[Valkar el Purificador]] son los responsables. 
+[[Cornelius]] y [[Neftalí]] observan el templo de [[Ben Viejo Loco]], esta tachando los murales de su antigua patrona [[Yugata]] el espíritu del barro. El fuego nos purificara, escribe [[Ben Viejo Loco]]. Los del [[Gremio De Cazadores]] y [[Valkar el Purificador]] son los responsables. 
 
 [[Clank]] aparta los escombros de la tienda de la abuela, solo queda el sótano, la habitación de la abuela.
 

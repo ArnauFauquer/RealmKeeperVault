@@ -1,4 +1,4 @@
----
+﻿---
 type: npc
 tags:
   - npc
@@ -24,12 +24,13 @@ Carismático pero tiránico. Convicción absoluta en su visión divina y descend
 
 ## Motivación
 
-Busca purgar las Tierras del Este de toda corrupción oscura para "restaurar el orden divino del fuego". Su visión en el Lodazal de Medianoche le reveló que es el elegido para completar la obra de [[Potroneo]]. Necesita validar su supuesta descendencia divina mediante actos cada vez más extremos. Lo detendría perder el control sobre los [[Cazadores de la noche]] o que se demuestre la falsedad de su linaje.
+Busca purgar las Tierras del Este de toda corrupción oscura para "restaurar el orden divino del fuego". Su visión en el Lodazal de Medianoche le reveló que es el elegido para completar la obra de [[Potroneo]]. Necesita validar su supuesta descendencia divina mediante actos cada vez más extremos. Lo detendría perder el control sobre los [[Cazadores De La Noche]] o que se demuestre la falsedad de su linaje.
 
 ## Relaciones
 
-- [[Cazadores de la noche]] – Fundador y líder absoluto como Patriarca de la Llama
+- [[Cazadores De La Noche]] – Fundador y líder absoluto como Patriarca de la Llama
 - [[Potroneo]] – Ancestro mítico al que venera y del cual afirma descender
 - [[Llamaforja]] – Estableció aquí su base de poder y templo
 - Gremio de Cazadores – Antiguos compañeros, ahora enemigos por considerarlos débiles
 - Círculo de Brasas – Sus cinco tenientes más leales que ejecutan su voluntad
+

@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - location
   - wei
@@ -12,7 +12,7 @@ type: location
 
 ## Nombre y ubicación
 
-Horno Ascúas es un poblado ganadero al norte de las [[Tierras del Este]], en praderas cálidas alimentadas por corrientes subterráneas. Conecta con rutas hacia [[Puertas de obsidiana]] y caravanas que se dirigen a [[Chispa Rubí]].
+Horno Ascúas es un poblado ganadero al norte de las [[Tierras del Este]], en praderas cálidas alimentadas por corrientes subterráneas. Conecta con rutas hacia [[Puertas De Obsidiana]] y caravanas que se dirigen a [[Chispa Rubí]].
 
 ## Aspecto y ambiente
 
@@ -25,3 +25,4 @@ Ganaderos, curtidores, artesanos de monturas térmicas y tratadores de bestias a
 ## Importancia o rol
 
 Suministra carne resistente, cueros reforzados y grasa usada como combustible secundario. Proveedor logístico crucial para ciudades como [[Emberlia]]. Fuente de bestias de carga adaptadas a altas temperaturas.
+

@@ -1,4 +1,4 @@
----
+﻿---
 type: playerCharacter
 tags:
   - pc
@@ -30,10 +30,10 @@ Cornelius es un hijo de nobles en la [[Nexus Ciudad Capital]] en el cual es prof
 
 Siempre va bien acompañado de [[Neftalí]] su cocinero, protector, familia, etc.. quien, por motivos que solo Cornelius sabe, cuando esta con el, su personalidad se relaja y en pocos instantes consigue mostrar su verdadero ser.
 
-Su ultimo trabajo le llevo al estudio de la [[Llama Sagrada]] un poder descomunal oculto en las [[Tierras Del Este]]. La tesis fue financiada por el [[Gremio de Cazadores]] de la [[Mansión de los Blodstone]], pero tras la revisión de la ilustre [[Amapola]] se encuentra en paradero desconocido.
+Su ultimo trabajo le llevo al estudio de la [[Llama Sagrada]] un poder descomunal oculto en las [[Tierras Del Este]]. La tesis fue financiada por el [[Gremio De Cazadores]] de la [[Mansión De Los Blodstone]], pero tras la revisión de la ilustre [[Amapola]] se encuentra en paradero desconocido.
 Sin el, Cornelius no puede acceder al puesto como profesor de la UOC (Universidad Onírica del Conjuro).
 
-> En [[Fangoalto]] encontrara honor y [[la tesis perdida]]? o quizás conocimiento de campo de la llama sagrada? Que relación tiene el [[Gremio de Cazadores]] ?
+> En [[Fangoalto]] encontrara honor y [[la tesis perdida]]? o quizás conocimiento de campo de la llama sagrada? Que relación tiene el [[Gremio De Cazadores]] ?
 
 ## Relaciones
 
@@ -43,12 +43,13 @@ Sin el, Cornelius no puede acceder al puesto como profesor de la UOC (Universida
 
 ## Preguntas
 
-**Sesión 2:** El [[Gremio de Cazadores]] financió tu investigación sobre la [[Llama Sagrada]] y tiene presencia en [[Fangoalto]]. ¿Qué sospechas tienen sobre la conexión entre tu tesis perdida, el Gremio y la corrupción del [[Lodazal de Medianoche]]?
+**Sesión 2:** El [[Gremio De Cazadores]] financió tu investigación sobre la [[Llama Sagrada]] y tiene presencia en [[Fangoalto]]. ¿Qué sospechas tienen sobre la conexión entre tu tesis perdida, el Gremio y la corrupción del [[Lodazal De Medianoche]]?
 
-> Es innegable que el [[Gremio de cazadores]] es el próximo indicio que debo investigar.
+> Es innegable que el [[Gremio De Cazadores]] es el próximo indicio que debo investigar.
 
 **Sesión 3:** Después de todo lo que has visto en [[Fangoalto]], ¿Qué es más importante para ti ahora: su gente, tu carrera académica o entender estos misterios?
 
 > Por supuesto mi carrera.
 
 **Sesión 4:** Tu ego te ha llevado a buscar la gloria académica, pero ahora estás rodeado de personas genuinas. ¿Cuál de tus compañeros de aventura te ha impresionado más con su carácter? ¿Hay alguien cuya forma de ver el mundo te está haciendo reconsiderar tus prioridades?
+

@@ -1,4 +1,4 @@
----
+﻿---
 type: oneshot
 tags:
   - wei
@@ -14,7 +14,7 @@ Cae la tarde, el grupo de compañeros viajan hacia su destino, todos recuerdan q
 Justo recordáis las últimas palabras de Katherine “Pasad unas felices vacaciones”
 
 Os dirigís a ese destino, no por nada más que por la tan agradable descripción del pueblo en boca de los representantes del gremio de aventuras de [[Draleth]], Katherine, [[bell end]] es uno de los pueblos más al norte de e de vuestro continente que os ha criado.
-Un carruaje llevado por un chofer del [[Gremio de Aventureros]] os está llevando.
+Un carruaje llevado por un chofer del [[Gremio De Aventureros]] os está llevando.
 
 Entráis entre las primeras casas de fondo campana, el hedor a cerveza rancia y abandono cuelga en el aire, interrumpido por el graznido de cuervos posados en los tejados helados.
 Incluso el sol parece titubear, proyectando largas sombras que se filtran por las calles abandonadas.
@@ -77,3 +77,4 @@ Los Manjares Indómitos de Stan. Por alguna confusa coincidencia, ha habido rumo
 El Gronch. Rumores que parecen aparecer cada invierno hablan de un monstruo peludo y verde que vive en la cima de la montaña cercana. La teoría es que el monstruo se molesta por las luces y la alegría que acompañan las festividades de invierno y bajará para erradicar cualquier cosa alegre.
 
 - (Sorprendentemente verdadero; Hay una criatura en las montañas que siente un gran malestar por las luces intermitentes que se reflejan en la superficie del hielo y la nieve, y ocasionalmente baja por la noche para apagarlas. Se desconoce si el monstruo realmente tiene un perro como mascota o no).
+

@@ -1,4 +1,4 @@
----
+﻿---
 type: deity
 tags:
   - npc
@@ -18,7 +18,7 @@ Mujer corvida de presencia colosal y antinatural. Plumaje negro azabache que abs
 
 ## Personalidad
 
-Primordial, inhumana, incomprensible. No piensa como mortales; existe como fuerza natural opuesta a la vida y el calor. Paciente hasta el fin de los tiempos. No siente odio, solo rechazo existencial hacia el fuego y todo lo que este hizo posible. Melancólica en su soledad eterna. Las [[Criaturas del Barro]] son fragmentos de su esencia, no hijos amados sino extensiones automáticas de su naturaleza. Indiferente al sufrimiento individual; solo percibe el desequilibrio cósmico.
+Primordial, inhumana, incomprensible. No piensa como mortales; existe como fuerza natural opuesta a la vida y el calor. Paciente hasta el fin de los tiempos. No siente odio, solo rechazo existencial hacia el fuego y todo lo que este hizo posible. Melancólica en su soledad eterna. Las [[Criaturas Del Barro]] son fragmentos de su esencia, no hijos amados sino extensiones automáticas de su naturaleza. Indiferente al sufrimiento individual; solo percibe el desequilibrio cósmico.
 
 ## Motivación
 
@@ -27,7 +27,8 @@ Busca restaurar el estado primordial anterior al robo del fuego por [[Potroneo]]
 ## Relaciones
 
 - [[Potroneo]] – Némesis cósmico, el centauro que robó el fuego y rompió el equilibrio
-- [[Criaturas del Barro]] – Manifestaciones fragmentadas de su esencia ([[Ira]], [[Gula]], [[Soberbia]], [[Pereza]], [[Envidia]], [[Avaricia]], [[Lujuria]])
-- [[Cazadores de la noche]] – Enemigos que portan el fuego robado, especialmente odiosos por su fanatismo
-- [[Lodazal de Medianoche]] – Territorio donde su presencia es más fuerte
+- [[Criaturas Del Barro]] – Manifestaciones fragmentadas de su esencia ([[Ira]], [[Gula]], [[Soberbia]], [[Pereza]], [[Envidia]], [[Avaricia]], [[Lujuria]])
+- [[Cazadores De La Noche]] – Enemigos que portan el fuego robado, especialmente odiosos por su fanatismo
+- [[Lodazal De Medianoche]] – Territorio donde su presencia es más fuerte
 - [[Tierras del Oeste]] (pre-fuego) – Territorio que reclama como suyo por derecho primordial
+

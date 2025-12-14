@@ -1,4 +1,4 @@
----
+﻿---
 type: session
 tags:
   - session
@@ -9,7 +9,7 @@ date: 2025-08-28
 ---
 # Sesión 9 La Traición de Grider Come Conejos
 
-> **Resumen:** Los aventureros finalmente encuentran a [[Grider Comeconejos]], pero un orco anciano lo envenena con una gota de sangre misteriosa, causando que el dragón se vuelva loco y ataque. Tras una batalla épica, [[Drogar Martillo de Hierro]] aparece dramáticamente para detener al dragón
+> **Resumen:** Los aventureros finalmente encuentran a [[Grider Comeconejos]], pero un orco anciano lo envenena con una gota de sangre misteriosa, causando que el dragón se vuelva loco y ataque. Tras una batalla épica, [[Drogar Martillo De Hierro]] aparece dramáticamente para detener al dragón
 
 ## 📖 Eventos
 
@@ -37,7 +37,7 @@ Los aventureros reaccionan rápidamente y **disparan una flecha al orco anciano*
 
 En el clímax de la batalla, **a lo lejos**, justo haciendo sombra a la misma luna, un **Spelljammer** se acerca en el horizonte nocturno.
 
-Es **[[Drogar Martillo de Hierro]]**, el líder superviviente de [[Los ex Héroes del Momento]], quien aparece en el momento más crítico. Con un **salto épico** desde lo alto del barco volador, [[Drogar Martillo de Hierro]] aterriza y **deja K.O. e inmóvil** al dragón enloquecido en el suelo.
+Es **[[Drogar Martillo De Hierro]]**, el líder superviviente de [[Los Ex Héroes Del Momento]], quien aparece en el momento más crítico. Con un **salto épico** desde lo alto del barco volador, [[Drogar Martillo De Hierro]] aterriza y **deja K.O. e inmóvil** al dragón enloquecido en el suelo.
 
 ## 🎭 Momentos
 
@@ -46,4 +46,5 @@ Es **[[Drogar Martillo de Hierro]]**, el líder superviviente de [[Los ex Héroe
 - **"¡Destroza todo con las alas!"** - *Destrucción masiva del templo*
 - **"¡Le hemos cegado un ojo!"** - *Daño crítico al dragón aliado*
 - **"¡Un Spelljammer hace sombra a la luna!"** - *Aparición dramática*
-- **El salto épico de [[Drogar Martillo de Hierro]]** desde las alturas para salvar la situación
+- **El salto épico de [[Drogar Martillo De Hierro]]** desde las alturas para salvar la situación
+

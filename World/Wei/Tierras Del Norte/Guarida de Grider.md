@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - location
   - wei
@@ -11,7 +11,7 @@ type: location
 
 ## Nombre y ubicación
 
-Guarida de Grider, tumba oculta en el [[Desierto de Dustoria]] – Tierra.
+Guarida de Grider, tumba oculta en el [[Desierto De Dustoria]] – Tierra.
 
 ## Aspecto y ambiente
 
@@ -24,3 +24,4 @@ No hay población estable. Custodia eventual por iniciados Drunaris o explorador
 ## Importancia o rol
 
 Prisión/arma contenida: lugar diseñado para albergar y restringir al dragón de bronce nacido con propósito bélico. Fuente potencial de conocimiento sobre ingeniería mágica Drunaris y sellado de entidades.
+

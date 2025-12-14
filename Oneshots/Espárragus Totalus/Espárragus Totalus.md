@@ -1,4 +1,4 @@
----
+﻿---
 type: campain
 tags:
   - wei
@@ -25,7 +25,7 @@ El resto de jóvenes acude cuando se enteran también que va venir el gran mago.
 
 El mago llega al embarcadero y el primero en recibirle es el ultimo joven que esta al cargo del muelle.
 
-Se dirigen hacia la casa de [[Doña Petra Cebolla]] la matriarca del [[Pueblo de Arcilla Verde]]
+Se dirigen hacia la casa de [[Doña Petra Cebolla]] la matriarca del [[Pueblo De Arcilla Verde]]
 
  [[Doña Petra Cebolla]] le da un lugar para dormir, porque la noche esta al caer.
 
@@ -36,7 +36,7 @@ La noche cae y como es el solsticio de la época seca, la gente cuenta historias
 [[Hermana Tomasa Guisante]] se encarga de contar la historia del [Huésped Perfecto]
 
 > [[Hermana Tomasa Guisante]]  -  Durante siglos estábamos desprotegidos del resto del mundo.
-> Durante las batallas de la [[Guerra de los 1000 Años]] el [[Pueblo de Arcilla Verde]] sufrimos asedios, asesinatos, hurtos y penurias.
+> Durante las batallas de la [[Guerra De Los 1000 Años]] el [[Pueblo De Arcilla Verde]] sufrimos asedios, asesinatos, hurtos y penurias.
 > Pero entre nuestras reservas de comida encontramos la fuente de protección que tanto necesitábamos.
 > El espárrago mágico.
 >
@@ -81,10 +81,11 @@ Han encontrado el ser que protege la isla.
 
 ## Facciones
 
-- [[Pueblo de Arcilla Verde]]
+- [[Pueblo De Arcilla Verde]]
 
 ## Lugares
 
 - Mundo [[Wei]]
-- Región: [[Tierras del Norte]]
+- Región: [[Tierras Del Norte]]
 - Pueblo: [[Arcilla Verde]]
+

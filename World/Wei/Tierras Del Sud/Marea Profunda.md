@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - location
   - wei
@@ -11,7 +11,7 @@ type: location
 
 ## Nombre y ubicación
 
-Marea Profunda es un gigantesco templo insular al este de [[Badía Espejo]] y al sudeste de [[Coralia]] en las [[Tierras del Sud]]. Se asienta en una isla remota rodeada de fosas circulares y arrecifes sumergidos.
+Marea Profunda es un gigantesco templo insular al este de [[Badía Espejo]] y al sudeste de [[Coralia]] en las [[Tierras Del Sud]]. Se asienta en una isla remota rodeada de fosas circulares y arrecifes sumergidos.
 
 ## Aspecto y ambiente
 
@@ -24,3 +24,4 @@ Sacerdotes de la Corriente Silenciosa, iniciados en lectura de patrones de espum
 ## Importancia o rol
 
 Centro espiritual de la región acuática y archivo vivo de fenómenos mareales extremos. Custodia reliquias que, según se cree, estabilizan ciclos de inundación en deltas cercanos a [[Marisma Nácar]]. Emite augurios que influyen tarifas y calendarios de botadura en [[Puerto Sirenas]] y protocolos defensivos en [[Badía Espejo]].
+

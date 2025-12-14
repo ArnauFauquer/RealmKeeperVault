@@ -1,4 +1,4 @@
----
+﻿---
 type: faction
 tags:
   - faction
@@ -29,12 +29,12 @@ Asentados alrededor de la fortaleza de Rocanegra tras descubrir vetas férreas i
 
 Líder supremo: Jarl / Jarla (actual: [[Jarl Dragarthia Piedraforjada]]).  
 Consejo reducido de: Maestro de la Forja ([[Maestro Kragg Piedraestrella]]), Intendente Comercial ([[Señora Hilda Piedrafirme]]), Capitán de Guerra ([[Capitán Grimnir Barbaviento]]).  
-Antiguo Líder de Guardia (difunto): [[Lord Thorgar Martillo de Hierro]].  
+Antiguo Líder de Guardia (difunto): [[Lord Thorgar Martillo De Hierro]].  
 Órdenes / células: Guardia de Basalto (defensa), Hermanos del Fuego (forja), Circulo de Comercio, Cocina Real y Destilerías (dirigidas por [[Chef Peretril]]).
 
 ## Objetivos y motivaciones
 
-- Corto plazo: Reforzar defensas tras la muerte de [[Lord Thorgar Martillo de Hierro]]; asegurar rutas de suministro.  
+- Corto plazo: Reforzar defensas tras la muerte de [[Lord Thorgar Martillo De Hierro]]; asegurar rutas de suministro.  
 - Medio plazo: Expandir influencia comercial de forjas y destilerías; atraer artesanos itinerantes.  
 - Largo plazo: Establecer [[Rocanegra]] como centro cultural y militar incontestable del norte de [[Wei]].
 
@@ -50,3 +50,4 @@ Ventajas especiales: Aleaciones templadas en calor geotérmico; reputación hosp
 ## Operaciones y métodos
 
 Defensa activa con patrullas escalonadas y uso de posiciones elevadas. Diplomacia franca: acuerdos sellados con juramentos públicos. Negociación combinando generosidad inicial (banquetes) y firmeza contractual. Preferencia por martillos, escudos anchos y maquinaria defensiva (ballestas pesadas). Transparencia pública de logros; ocultación selectiva de rutas mineras.
+

@@ -1,4 +1,4 @@
----
+﻿---
 type: session
 tags:
   - session
@@ -15,6 +15,8 @@ En general definiendo como serán los siguientes sesiones de la campaña como ju
 
 Explicamos la historia inicial del Acto 1 de la campaña y un poco de worldbuilding.
 
-Creamos los personajes todos juntos siguiendo el manual [[DH Creaccion de personaje]]
+Creamos los personajes todos juntos siguiendo el manual [[DH Creación De Personaje]]
 
 El resumen de todo esta escrito en [[Hijos Del Fango]].
+
+

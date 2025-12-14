@@ -1,4 +1,4 @@
----
+﻿---
 type: campain
 tags:
   - wei
@@ -22,14 +22,15 @@ Durante las sesiones de la campaña estará prohibido:
 
 ## Acto 1
 
-> Los jóvenes de [[Fangoalto]] un pequeño pueblo en la frontera del [[Lodazal de Medianoche]] discuten como salir de la rutina par ayudar el pueblo a salir de la podredumbre que cada día se escapa del lodazal y el bosque que les envuelve.
+> Los jóvenes de [[Fangoalto]] un pequeño pueblo en la frontera del [[Lodazal De Medianoche]] discuten como salir de la rutina par ayudar el pueblo a salir de la podredumbre que cada día se escapa del lodazal y el bosque que les envuelve.
 
 La flora de la zona esta cambiando, la gente desaparece y en el pueblo no parece que cambie nada.
 Una magia oscura atrapa a los viajeros que van hacia las tierras del fuego, mientras los que quieren volver pocos lo consiguen.
 
-Los mas jóvenes de una humilde y pequeña aldea llamada [[Fangoalto]] saben que no quieren vivir bajo la sombra que proyecta el [[Lodazal de Medianoche]].
+Los mas jóvenes de una humilde y pequeña aldea llamada [[Fangoalto]] saben que no quieren vivir bajo la sombra que proyecta el [[Lodazal De Medianoche]].
 
-El [[Lodazal de Medianoche]] es un antiguo bosque inundado de origen pre-dragónico, donde la flora, poblados druidas y fauna autóctona convivían en el pasado.
+El [[Lodazal De Medianoche]] es un antiguo bosque inundado de origen pre-dragónico, donde la flora, poblados druidas y fauna autóctona convivían en el pasado.
 Ahora todo ha sido devorado por el paso del tiempo y solo queda la huella de lo que antes fue.
 
 Los llamados Hijos del fango encontraran Amigos, Secretos, Enigmas y por supuesto adversarios.
+

@@ -1,4 +1,4 @@
----
+﻿---
 type: faction
 tags:
   - faction
@@ -9,7 +9,7 @@ tags:
 # Sabios Arcanos
 
 > "Registrar para preservar, preservar para iluminar."  
-> Custodios itinerantes de saber que centralizan en el [[Templo de la sabiduría]].
+> Custodios itinerantes de saber que centralizan en el [[Templo De La Sabiduría]].
 
 ## Identidad
 
@@ -22,7 +22,7 @@ Lema: "Memoria antes que poder".
 
 ## Origen e historia
 
-Formados tras fracturas de tradición mágica provocadas por la [[Guerra de los 1000 Años]]. Agruparon fragmentos de bibliotecas dispersas en cámaras de eco rúnico del [[Templo de la sabiduría]]. El liderazgo dracónico de [[Aspiro]] aportó neutralidad externa y longevidad estratégica. Castigos ejemplares (como la maldición de [[Tiphilt]]) fijaron protocolos éticos.
+Formados tras fracturas de tradición mágica provocadas por la [[Guerra De Los 1000 Años]]. Agruparon fragmentos de bibliotecas dispersas en cámaras de eco rúnico del [[Templo De La Sabiduría]]. El liderazgo dracónico de [[Aspiro]] aportó neutralidad externa y longevidad estratégica. Castigos ejemplares (como la maldición de [[Tiphilt]]) fijaron protocolos éticos.
 
 ## Estructura y liderazgo
 
@@ -51,9 +51,10 @@ Criterio de adquisición: relevancia, singularidad, riesgo de pérdida. Expedici
 
 ## Relaciones
 
-- [[Enanos de Rocanegra]]: Intercambio de tratados metalúrgicos por glosas rúnicas.  
+- [[Enanos De Rocanegra]]: Intercambio de tratados metalúrgicos por glosas rúnicas.  
 - [[Drunaris]]: Intentos de documentar Palabra de la Suerte (resistencia cultural).  
 - Caravanas de [[Tierrafértil]]: Acceso a rutas de distribución de copias certificadas.  
 - Aventureros: Fuentes de hallazgos, sujetos de pruebas de integridad.
 
 Reputación: Eruditos abiertos pero firmes; sanciones creativas generan mezcla de respeto y cautela.
+

@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - wei
 type: world
@@ -9,15 +9,15 @@ type: world
 
 El mundo está tejido a partir de los elementos, y su geografía refleja con claridad esa esencia.  
 
-En las **[[Tierras del Norte]]**, la **Tierra** se manifiesta en cordilleras imponentes y mesetas fértiles que transmiten fuerza, desiertos y estabilidad.  
+En las **[[Tierras Del Norte]]**, la **Tierra** se manifiesta en cordilleras imponentes y mesetas fértiles que transmiten fuerza, desiertos y estabilidad.  
 
-En las En las **[[Tierras del Sud]]**, el reino del **Agua** se extiende en costas brumosas, selvas húmedas y ríos caudalosos que fluyen sin descanso.  
+En las En las **[[Tierras Del Sud]]**, el reino del **Agua** se extiende en costas brumosas, selvas húmedas y ríos caudalosos que fluyen sin descanso.  
 
-En las **[[Tierras del Este]]** arde bajo el dominio del **Fuego**, con desiertos abrasadores, volcanes activos y paisajes donde la destrucción y la creación se entrelazan.  
+En las **[[Tierras Del Este]]** arde bajo el dominio del **Fuego**, con desiertos abrasadores, volcanes activos y paisajes donde la destrucción y la creación se entrelazan.  
 
-En las **[[Tierras del Oeste]]**, el **Aire** se convierte en protagonista: cielos abiertos, cañones azotados por el viento y mesetas infinitas donde lo ligero y lo cambiante gobiernan.  
+En las **[[Tierras Del Oeste]]**, el **Aire** se convierte en protagonista: cielos abiertos, cañones azotados por el viento y mesetas infinitas donde lo ligero y lo cambiante gobiernan.  
 
-En las **[[Tierras del Centro]]**, todas esas fuerzas convergen en un espacio de equilibrio, una tierra diversa que actúa como corazón del mundo y punto de unión entre los demás reinos.
+En las **[[Tierras Del Centro]]**, todas esas fuerzas convergen en un espacio de equilibrio, una tierra diversa que actúa como corazón del mundo y punto de unión entre los demás reinos.
 
 ## Sociedad y Cultura
 
@@ -33,12 +33,13 @@ Así, entre la diversidad de razas y culturas, la vida en Wei se sostiene en un 
 
 El equilibrio político de Wei se sostiene gracias a las relaciones entre las regiones elementales, cada una marcada por su carácter y recursos.
 
-- **[[Tierras del Norte]]** y **[[Tierras del Este]]** mantienen una alianza sólida, sustentada en el intercambio de cosechas, minerales y rutas costeras. Su relación es práctica y estable, construida sobre la necesidad mutua.
+- **[[Tierras Del Norte]]** y **[[Tierras Del Este]]** mantienen una alianza sólida, sustentada en el intercambio de cosechas, minerales y rutas costeras. Su relación es práctica y estable, construida sobre la necesidad mutua.
 
-- **[[Tierras del Sud]]** y **[[Tierras del Oeste]]* viven en constante tensión. Sus disputas por recursos energéticos y territorios son antiguas, aunque moderadas por tratados de no agresión y acuerdos frágiles que evitan que los conflictos escalen.
+- **[[Tierras Del Sud]]** y **[[Tierras Del Oeste]]** viven en constante tensión. Sus disputas por recursos energéticos y territorios son antiguas, aunque moderadas por tratados de no agresión y acuerdos frágiles que evitan que los conflictos escalen.
 
-- **[[Tierras del Centro]]** actúa como mediador. No solo es un territorio de equilibrio elemental, sino también el punto donde convergen embajadores, comerciantes y líderes que buscan resolver disputas sin recurrir a la guerra.
+- **[[Tierras Del Centro]]** actúa como mediador. No solo es un territorio de equilibrio elemental, sino también el punto donde convergen embajadores, comerciantes y líderes que buscan resolver disputas sin recurrir a la guerra.
 
 Aunque las guerras abiertas son raras, la política no está exenta de intrigas. Las facciones, [[Gremios]] y órdenes religiosas compiten por influencia, tejiendo alianzas ocultas y rivalidades que pueden alterar la estabilidad general. En este mundo, el poder no siempre se decide en el campo de batalla, sino en los pasillos de los consejos, los acuerdos secretos y las maniobras diplomáticas.
 
 ![[Wei-Summer.jpg]]
+

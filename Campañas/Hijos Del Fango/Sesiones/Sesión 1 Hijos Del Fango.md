@@ -1,4 +1,4 @@
----
+﻿---
 type: session
 tags:
   - session
@@ -19,7 +19,7 @@ Una historia de barro, de misterio… y de aquellos que no se rinden cuando todo
 Ahora, nos toca escucharla… o quizás… vivirla.
 
 Porque el viento nos arrastra un hedor… de pantano.  
-Entre la niebla espesa, las aguas negras del **[[Lodazal de Medianoche]]** respiran como una bestia dormida… y algo, en sus profundidades, ha despertado.
+Entre la niebla espesa, las aguas negras del **[[Lodazal De Medianoche]]** respiran como una bestia dormida… y algo, en sus profundidades, ha despertado.
 
 La podredumbre avanza. Infecta los ríos… marchita los cultivos… y corrompe los corazones de quienes se atreven a permanecer cerca.
 
@@ -32,7 +32,7 @@ Porque cuando la oscuridad se alza desde el barro…
 
 Pero del fango también nacen criaturas horrorosas quienes se dedican al estudio de ellas conocerán al excavador acido, un insecto del tamaño de un caballo con garras excavadoras y sangre ácida. [[Raik]] un niño explorador por desgracia esta huyendo del gran peligro que tienen  esta criaturas.
 
-[[Tortuardo]] y [[Cantharella]] están recolectando tranquilamente en el borde del [[Lodazal de Medianoche]] cuando escuchan entre temblores y arboles cayendo, los gritos de [[Raik]].
+[[Tortuardo]] y [[Cantharella]] están recolectando tranquilamente en el borde del [[Lodazal De Medianoche]] cuando escuchan entre temblores y arboles cayendo, los gritos de [[Raik]].
 
 Llegan donde se escuchaban los gritos del pequeño felino pero se encuentran también con la criatura monstruosa.
 
@@ -69,7 +69,7 @@ Y rápido todo el grupo juntos realizan unas vendas para [[Tortuardo]] y [[Raik]
 ### Final
 
 El grupo se divide entre la casa de [[Amapola]] y [[Tortuardo]] para dormir.
-[[Neftalí]] es el primero en levantarse y en preparar el desayuno a [[Sose y Ovalis Charcolento]] los padres de [[Tortuardo]] y [[Cornelius]].
+[[Neftalí]] es el primero en levantarse y en preparar el desayuno a [[Sose Y Ovalis Charcolento]] los padres de [[Tortuardo]] y [[Cornelius]].
 
 El extraño grupo se reúne de nuevo en el alba, escuchando las ideas locas del  [[Ben Viejo Loco]]
 
@@ -83,5 +83,6 @@ El extraño grupo se reúne de nuevo en el alba, escuchando las ideas locas del 
 - [[Abuela Fragopyro]] no le gustan las setas especialmente [[Cantharella]] motivo? ninguno.
 - [[Abuela Fragopyro]] cuenta como ella y elk abuelo hacian bollos calentitos en el horno de leña juntos
 - [[Amapola]] acoge al niño [[Raik]]
-- [[Sose y Ovalis Charcolento]] Padres molones de [[Tortuardo]]
+- [[Sose Y Ovalis Charcolento]] Padres molones de [[Tortuardo]]
 - [[Ben Viejo Loco]] sois [[Hijos Del Fango]]!
+

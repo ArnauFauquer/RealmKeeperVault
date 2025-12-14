@@ -1,4 +1,4 @@
----
+﻿---
 type: session
 tags:
   - session
@@ -9,7 +9,7 @@ date: 2025-11-12
 ---
 # Sesión 2 Hijos del fango
 
-> Los [[Hijos del Fango]] comienzan su primer día en [[Fangoalto]], donde el viejo loco les muestra los secretos del pueblo mientras la oscuridad del pantano acecha cada vez más cerca.
+> Los [[Hijos Del Fango]] comienzan su primer día en [[Fangoalto]], donde el viejo loco les muestra los secretos del pueblo mientras la oscuridad del pantano acecha cada vez más cerca.
 
 ## Eventos
 
@@ -28,13 +28,13 @@ Sin esperar respuesta, el anciano comienza a caminar por las calles embarradas d
 **1. La Plaza del Mercado**
 El centro del pueblo, donde unos pocos comerciantes intentan vender sus mercancías. La mayoría son productos básicos: pan duro, verduras marchitas, algunos peces del río cercano (cada vez más escasos).
 
-> Antes esto rebosaba vida... Ahora, mirad. La gente tiene miedo. El [[Lodazal de Medianoche]] se extiende... los cultivos mueren... y los que quedan apenas se atreven a salir de sus casas.
+> Antes esto rebosaba vida... Ahora, mirad. La gente tiene miedo. El [[Lodazal De Medianoche]] se extiende... los cultivos mueren... y los que quedan apenas se atreven a salir de sus casas.
 
 **2. La Tienda de [[Abuela Fragopyro]]**
 El aroma a pan recién horneado y hierbas secas se mezcla con el olor del pantano. [[Abuela Fragopyro]] está tras el mostrador, organizando frascos de mermeladas y especias con precisión militar. Su cuchara de madera ahumada reposa contra el mostrador como un cetro.
 
-**3. La Curtiduría de [[Sose y Ovalis Charcolento]]**
-Un taller abierto donde pieles curtidas cuelgan de estructuras de madera. El aroma es diferente aquí: no a muerte ni químicos agresivos, sino a cortezas, aceites herbales y humo frío. [[Sose y Ovalis Charcolento]] trabajan con paciencia característica, sus manos expertas tratando fibras vegetales.
+**3. La Curtiduría de [[Sose Y Ovalis Charcolento]]**
+Un taller abierto donde pieles curtidas cuelgan de estructuras de madera. El aroma es diferente aquí: no a muerte ni químicos agresivos, sino a cortezas, aceites herbales y humo frío. [[Sose Y Ovalis Charcolento]] trabajan con paciencia característica, sus manos expertas tratando fibras vegetales.
 
 **4. La Herrería de [[Dorkan el Herrero]]**
 El calor golpea antes de ver la forja. [[Dorkan el Herrero]], imponente con sus escamas rojizas brillando con el reflejo de las brasas, martillea una pieza de metal con precisión militar. Cuernos limados, músculos tensos, ojos ámbar que evalúan al grupo en un instante.
@@ -59,7 +59,7 @@ Un pequeño templo dedicado a los dioses antiguos. Las puertas están cerradas c
 > Los curas huyeron hace 546 lunas atrás. Dijeron que los dioses no escuchaban... ¡Pero yo sé la verdad! ¡El espíritu del barro [[Yugata]] SÍ escucha! ¡Ella os ha llamado!
 
 **7. Las Casas del Borde**
-Varias viviendas en el límite sur del pueblo, las más cercanas al [[Lodazal de Medianoche]]. Están vacías, con las puertas abiertas balanceándose con el viento. Marcas de garras en algunas paredes.
+Varias viviendas en el límite sur del pueblo, las más cercanas al [[Lodazal De Medianoche]]. Están vacías, con las puertas abiertas balanceándose con el viento. Marcas de garras en algunas paredes.
 
 > Aquí vivían los Brichwood... los Sprucewood... los OakWood... Todos desaparecidos. Algunos huyeron. Otros... otros algo se los llevó en la noche.
 
@@ -69,7 +69,7 @@ Ben se detiene y mira fijamente al grupo.
 
 ### Desarrollo
 
-Los [[hijos del fango]] deciden investigar las casas intrigados por que les sucedió a las familias Brichwood, los Sprucewood, los OakWood.
+Los [[Hijos Del Fango]] deciden investigar las casas intrigados por que les sucedió a las familias Brichwood, los Sprucewood, los OakWood.
 La primera de las casas que investigan es la de los OakWood, aunque tiene visible arañazos y los escupitajos de acido es la ultima de las desapariciones en el pueblo.
 ¿El excavador acido que [[Tortuardo]] [[Cantharella]] [[Raik]] encontraron había llegado a [[Fangoalto]]?
 
@@ -85,7 +85,7 @@ Al volver a por [[Neftalí]] y [[Cornelius]] la casa parece haberse transformado
 
 Los [[Hijos Del Fango]] empiezan a andar siguiendo las indicaciones de la piedra canalizadora y [[Cornelius]].
 
-Entran en el [[Lodazal de Medianoche]] y cada paso que dan la niebla el frio y la oscuridad les atrapa mas al bosque. La piedra esta cada vez mas cerca y los [[Hijos Del Fango]] se preparan.
+Entran en el [[Lodazal De Medianoche]] y cada paso que dan la niebla el frio y la oscuridad les atrapa mas al bosque. La piedra esta cada vez mas cerca y los [[Hijos Del Fango]] se preparan.
 
 A lo lejos gritos de socorro, que poco a poco se van disipando entre ruido de zarpazos. han encontrado un OakWood aun que ahora ya muerto. Un excavador acido esta devorando las entrañas del pobre hombre en una escena de lo mas gore.
 
@@ -121,3 +121,4 @@ Un ruido de gente... procedente del pueblo... [[Raik]] lanza a Corax, su cuervo.
 - [[Clank]] se lanza directamente contra el excavador sin dudarlo
 - [[Cornelius]] desenvaina la varita del paraguas y lanza carámbanos de hielo
 - [[Cornelius]] se posa encima del excavador y desata un hechizo devastador que provoca un temblor
+

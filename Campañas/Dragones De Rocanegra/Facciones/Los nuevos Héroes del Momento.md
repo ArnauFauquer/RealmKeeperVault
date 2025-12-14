@@ -1,4 +1,4 @@
----
+﻿---
 type: faction
 tags:
   - faccion
@@ -27,10 +27,11 @@ El grupo se formó durante incidentes iniciales de la campaña [[Dragones De Roc
 
 1. Investigar anomalías elementales en regiones de [[Wei]].
 2. Asegurar reliquias y conocimientos antes de facciones rivales.
-3. Forjar reputación legítima dentro del [[Gremio de Aventureros]].
+3. Forjar reputación legítima dentro del [[Gremio De Aventureros]].
 
 ## Recursos y Rasgos
 
 - Base móvil: campamentos temporales en rutas de las [[Tierras del Centro]].
 - Sin jerarquía rígida; liderazgo situacional.
 - Reputación naciente: vistos como prometedores pero impredecibles.
+

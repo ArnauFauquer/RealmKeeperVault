@@ -1,4 +1,4 @@
----
+﻿---
 tags:
   - location
   - wei
@@ -11,7 +11,7 @@ type: location
 
 ## Nombre y ubicación
 
-Arcilla Verde, asentamiento isleño costero de las [[Tierras del Norte]] – Tierra / influencia marina.
+Arcilla Verde, asentamiento isleño costero de las [[Tierras Del Norte]] – Tierra / influencia marina.
 
 ## Aspecto y ambiente
 
@@ -19,8 +19,9 @@ Isla con acantilados escarpados, canteras de arcilla verdosa expuestas y embarca
 
 ## Población y vida diaria
 
-La gente del [[Pueblo de Arcilla Verde]] son Alfareros, pescadores, extractores de arcilla pero sobre todo agricultores. Jornadas divididas entre mareas favorables y secado de piezas cerámicas en hornos semienterrados. Fuerte sentido comunitario y autosuficiencia.
+La gente del [[Pueblo De Arcilla Verde]] son Alfareros, pescadores, extractores de arcilla pero sobre todo agricultores. Jornadas divididas entre mareas favorables y secado de piezas cerámicas en hornos semienterrados. Fuerte sentido comunitario y autosuficiencia.
 
 ## Importancia o rol
 
 Principal fuente regional de arcillas especiales usadas en sellos, vasijas de conservación y pigmentación ritual. Tienen su propia cosmovisión en dioses que muchos considerarían paganos.
+

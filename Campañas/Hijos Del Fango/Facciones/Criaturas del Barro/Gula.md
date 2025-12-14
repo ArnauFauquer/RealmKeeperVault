@@ -1,4 +1,4 @@
----
+﻿---
 type: npc
 tags:
   - npc
@@ -27,7 +27,8 @@ Acumular sustento para perpetuar su existencia y crear más enjambres. Busca ald
 
 ## Relaciones
 
-- [[Criaturas del Barro]] – Una de las siete manifestaciones principales
+- [[Criaturas Del Barro]] – Una de las siete manifestaciones principales
 - [[Yugata]] – Entidad primordial de la que nació
 - Aldeas fronterizas – Fuente de alimento, víctimas recurrentes
-- [[Cazadores de la noche]] – Exterminadores de sus enjambres
+- [[Cazadores De La Noche]] – Exterminadores de sus enjambres
+

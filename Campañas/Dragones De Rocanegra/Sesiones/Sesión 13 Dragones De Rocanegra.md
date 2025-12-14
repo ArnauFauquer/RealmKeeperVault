@@ -1,4 +1,4 @@
----
+﻿---
 type: session
 tags:
   - session
@@ -9,7 +9,7 @@ date: 2025-08-28
 ---
 # Sesión 13 Regreso a Rocanegra y Consejo de Guerra
 
-> **Resumen:** Tras derrotar a [[Strongmaus el Triste]], los aventureros reparan el Spelljammer y regresan a [[Rocanegra]]. Dan el pésame a [[Señora Hilda Piedrafirme]] por la muerte de [[Jofre Piedrafirme]], reciben actualizaciones sobre la situación en las [[Tierras del Norte]], y descubren que los [[Hermanos de la Sangre]] usan la [[antigua mina de sal]] como guarida
+> **Resumen:** Tras derrotar a [[Strongmaus el Triste]], los aventureros reparan el Spelljammer y regresan a [[Rocanegra]]. Dan el pésame a [[Señora Hilda Piedrafirme]] por la muerte de [[Jofre Piedrafirme]], reciben actualizaciones sobre la situación en las [[Tierras Del Norte]], y descubren que los [[Hermanos De La Sangre]] usan la [[Antigua Mina De Sal]] como guarida
 
 ## 📖 Eventos
 
@@ -21,7 +21,7 @@ Tras la gran batalla con **[[Strongmaus el Triste]]**, los aventureros deciden *
 
 - **[[Adara]] y [[Espe]]** sanan a **dos tripulantes heridos** en la cubierta del navío volador
 - **[[Gustavo]]** arregla el barco **colocando correctamente el prisma cristalino** en su lugar ubicado debajo del camarote del capitán, entrando por las bodegas
-- **[[Anja]] junto a [[Drogar Martillo de Hierro]]** entierran los **cadáveres de los fallecidos**, entre ellos [[Jofre Piedrafirme]] el chófer
+- **[[Anja]] junto a [[Drogar Martillo De Hierro]]** entierran los **cadáveres de los fallecidos**, entre ellos [[Jofre Piedrafirme]] el chófer
 - **[[Olzman]]** se encarga de **capitanear todo el Spelljammer** y navegar hasta su destino
 
 ### Desarrollo
@@ -34,13 +34,13 @@ Tras la gran batalla con **[[Strongmaus el Triste]]**, los aventureros deciden *
   - Todo entregado al **[[Maestro Kragg Piedraestrella]]** y al **[[Capitán Grimnir Barbaviento]]**
   - Mercancías llegan de la misma mano que de **[[Capataz For-jon]]** y **[[Mako]]**, a quienes ayudaron en [[Tierrafértil]]
 
-- **El Pésame**: [[Drogar Martillo de Hierro]] y [[Anja]] dan el **pésame a la [[Señora Hilda Piedrafirme]]**, puesto que era la **amante de [[Jofre Piedrafirme]]**, el héroe caído en combate y chófer.
+- **El Pésame**: [[Drogar Martillo De Hierro]] y [[Anja]] dan el **pésame a la [[Señora Hilda Piedrafirme]]**, puesto que era la **amante de [[Jofre Piedrafirme]]**, el héroe caído en combate y chófer.
 
-- **Consejo de Guerra**: Se juntan los aventureros, los **visitantes de [[Tierrafértil]]** y la **corte de [[Rocanegra]]** en el **[[Salón de los Héroes]]** para resumir la información que todos han recogido durante las últimas semanas.
+- **Consejo de Guerra**: Se juntan los aventureros, los **visitantes de [[Tierrafértil]]** y la **corte de [[Rocanegra]]** en el **[[Salón De Los Héroes]]** para resumir la información que todos han recogido durante las últimas semanas.
 
 ### Final
 
-**Situación Actualizada de las [[Tierras del Norte]]**:
+**Situación Actualizada de las [[Tierras Del Norte]]**:
 
 **[[Tierrafértil]]**:
 
@@ -51,17 +51,17 @@ Tras la gran batalla con **[[Strongmaus el Triste]]**, los aventureros deciden *
 
 **[[Dustoria]]**:
 
-- El desierto **sigue siendo un misterio** para muchos, incluidos los de [[Rocanegra]], por eso mandaron a [[Drogar Martillo de Hierro]]
+- El desierto **sigue siendo un misterio** para muchos, incluidos los de [[Rocanegra]], por eso mandaron a [[Drogar Martillo De Hierro]]
 - La **gente [[Drunaris]] estará lista** para la guerra junto a [[Grider Comeconejos]] cuando se los avise
 - **Tardarán un día en llegar** cuando sean convocados
 
 **Frente Oriental**:
 
 - **El único frente abierto**, por suerte, es el **este**
-- Justo a **unos pocos kilómetros de [[Piedra Sólida]]** y a la **ladera de la [[antigua mina de sal]]**
+- Justo a **unos pocos kilómetros de [[Piedra Sólida]]** y a la **ladera de la [[Antigua Mina De Sal]]**
 - Un grupo de **exploradores enanos de las cavernas** pudo llegar antes que los aventureros anoche con **información valiosa**
 
-**Descubrimiento Crucial**: Creen que la **vieja mina de sal al este de [[Piedra Sólida]]**, que lleva desde la **Guerra de los Mil Años** abandonada, está sirviendo de **guarida a los [[Hermanos de la Sangre]]**.
+**Descubrimiento Crucial**: Creen que la **vieja mina de sal al este de [[Piedra Sólida]]**, que lleva desde la **Guerra de los Mil Años** abandonada, está sirviendo de **guarida a los [[Hermanos De La Sangre]]**.
 
 ## 🎭 Momentos
 
@@ -70,3 +70,4 @@ Tras la gran batalla con **[[Strongmaus el Triste]]**, los aventureros deciden *
 - **"Pocos recuerdan que matasteis al niño"** - *Recordatorio de consecuencias pasadas*
 - **"Un día en llegar"** - *[[Drunaris]] y [[Grider Comeconejos]] como refuerzos*
 - **"Desde la Guerra de los Mil Años abandonada"** - *Conexión histórica con la mina de sal*
+

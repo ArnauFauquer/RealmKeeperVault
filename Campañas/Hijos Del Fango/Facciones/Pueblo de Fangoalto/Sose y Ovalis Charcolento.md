@@ -1,4 +1,4 @@
----
+﻿---
 type: npc
 tags:
   - npc
@@ -25,11 +25,12 @@ Afables, pacientes y hospitalarios. Calma ética que rechaza la prisa. Sose usa 
 
 ## Motivación
 
-Validar su curtiduría sin sacrificar animales y proteger la filosofía familiar mientras permiten a [[Tortuardo]] explorar. Obstáculos: escasez de plantas, presión o desprestigio del [[Gremio de Cazadores]], dudas del hijo.
+Validar su curtiduría sin sacrificar animales y proteger la filosofía familiar mientras permiten a [[Tortuardo]] explorar. Obstáculos: escasez de plantas, presión o desprestigio del [[Gremio De Cazadores]], dudas del hijo.
 
 ## Relaciones
 
 - [[Tortuardo]] – Hijo y aprendiz.
-- [[Gremio de Cazadores]] – Rival ideológico.
+- [[Gremio De Cazadores]] – Rival ideológico.
 - [[Fangoalto]] – Comunidad a la que sirven.
 - Comerciantes ambulantes – Intercambio de fibras.
+

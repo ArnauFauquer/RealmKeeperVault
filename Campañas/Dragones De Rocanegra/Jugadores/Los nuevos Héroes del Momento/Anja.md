@@ -1,4 +1,4 @@
----
+﻿---
 type: playerCharacter
 tags:
   - pc
@@ -18,4 +18,5 @@ Tozudo, tenaz, explosivo ante la provocación. Oscila entre la quietud meditativ
 
 ## Trasfondo
 
-Criado en las comunidades de las [[Tierras del Sud]] aprendió técnicas marciales para canalizar su fuego interior. La tensión entre serenidad monástica y rabia contenida lo llevó a un peregrinaje que terminó al unirse a [[Los nuevos Héroes del Momento]]. Busca equilibrio sin sofocar su chispa.
+Criado en las comunidades de las [[Tierras Del Sud]] aprendió técnicas marciales para canalizar su fuego interior. La tensión entre serenidad monástica y rabia contenida lo llevó a un peregrinaje que terminó al unirse a [[Los Nuevos Héroes Del Momento]]. Busca equilibrio sin sofocar su chispa.
+

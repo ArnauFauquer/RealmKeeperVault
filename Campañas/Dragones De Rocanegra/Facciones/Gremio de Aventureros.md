@@ -1,4 +1,4 @@
----
+﻿---
 type: faction
 tags:
   - faction
@@ -21,7 +21,7 @@ Lema: "Registra, cumple, cobra y cuenta".
 
 ## Origen e historia
 
-Surgió para unificar tablones dispersos de encargos en un sistema de rangos y validación post-[[Guerra de los 1000 Años]]. La llegada los humanoides elementales de fuego [[Fénix]] aportó liderazgo carismático y un código informal de camaradería. La inclusión de una colonia de ratones mensajeros profesionalizó la logística interna.
+Surgió para unificar tablones dispersos de encargos en un sistema de rangos y validación post-[[Guerra De Los 1000 Años]]. La llegada los humanoides elementales de fuego [[Fénix]] aportó liderazgo carismático y un código informal de camaradería. La inclusión de una colonia de ratones mensajeros profesionalizó la logística interna.
 
 ## Estructura y liderazgo
 
@@ -46,3 +46,4 @@ Ventajas: Reputación neutral, red de informantes roedores casi invisible.
 ## Operaciones y métodos
 
 Recepción diaria de encargos con clasificación de riesgo (I–V). Distribución de misiones mediante sorteo ponderado por rango y reputación. Seguimiento de progreso vía marcas rúnicas en tablillas. Mensajeros roedores circulan por respiraderos transportando mini-scrolls. Auditorías semanales de integridad de informes.
+

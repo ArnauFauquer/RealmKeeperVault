@@ -1,4 +1,4 @@
----
+﻿---
 type: playerCharacter
 tags:
   - pc
@@ -19,4 +19,5 @@ Ingenuo, afortunado, entusiasta. Saltos asociativos extraños que a veces resuel
 
 ## Trasfondo
 
-Emergió de áreas pantanosas de las [[Tierras del Sud]] donde ensambló chatarra hasta crear su primer artilugio explosivo accidental. Vagó hasta cruzarse con [[Los nuevos Héroes del Momento]] que canalizan su caos hacia objetivos útiles. Sueña con un dispositivo que estabilice la puntería de su revólver.
+Emergió de áreas pantanosas de las [[Tierras Del Sud]] donde ensambló chatarra hasta crear su primer artilugio explosivo accidental. Vagó hasta cruzarse con [[Los Nuevos Héroes Del Momento]] que canalizan su caos hacia objetivos útiles. Sueña con un dispositivo que estabilice la puntería de su revólver.
+

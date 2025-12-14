@@ -1,4 +1,4 @@
----
+﻿---
 type: mechanic
 system: daggerheart
 ---
@@ -9,7 +9,7 @@ system: daggerheart
 
 Normalmente cada clase tiene un rol y habilidades asociado como el personaje interactuara dentro del mundo. La subclase profundiza mas en las habilidades siendo mas especificas según el gusto del jugador o del personaje.
 
-Selecciona clase y subclase de la lista [[DH Clases y subclases]].
+Selecciona clase y subclase de la lista [[DH Clases Y Subclases]].
 
 Recoge o imprime la hoja de personajes acorde a la clase y cartas de fundación de subclases
 
@@ -66,3 +66,4 @@ Rellenaremos las conexiones, y el GM os hará preguntas.
 ## Paso 8: Cartas de dominio
 
 Cada jugador a nivel 1 recibirá 2 cartas de [[DH Dominios]] a elección, como puede ser que algún dominio se comparta, los jugadores se tendrán que poner de acuerdo que carta coge cada uno. Se puede escoger dos cartas del mismo dominio o una de cada, es a elección del personaje.
+

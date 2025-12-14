@@ -1,4 +1,4 @@
----
+﻿---
 type: index
 ---
 
@@ -12,15 +12,15 @@ Aquí convergen las historias épicas, los personajes memorables y los lugares q
 
 ## Explorando el Mundo
 
-En las profundidades del mundo de [[Wei]] descubrirás toda la información fundamental que da forma a este universo. Aquí yacen los cimientos inmutables de la realidad: eventos trascendentales como la legendaria [[Guerra de los 1000 Años]], que forjó el destino de naciones enteras.
+En las profundidades del mundo de [[Wei]] descubrirás toda la información fundamental que da forma a este universo. Aquí yacen los cimientos inmutables de la realidad: eventos trascendentales como la legendaria [[Guerra De Los 1000 Años]], que forjó el destino de naciones enteras.
 
 Esta sección alberga el conocimiento eterno que trasciende campañas individuales, oneshots y sesiones particulares. Son las verdades universales que permanecen constantes sin importar qué aventuras emprendáis.
 **Las Grandes Regiones del Mundo:**
 
-- [[Tierras del Norte]] - Dominios helados donde los vientos susurran secretos ancestrales
+- [[Tierras Del Norte]] - Dominios helados donde los vientos susurran secretos ancestrales
 - [[Tierras del Este]] - Vastas extensiones bañadas por el sol del amanecer
 - [[Tierras del Oeste]] - Confines occidentales donde se ocultan misterios por descubrir
-- [[Tierras del Sud]] - Territorios meridionales de clima cálido y culturas exóticas
+- [[Tierras Del Sud]] - Territorios meridionales de clima cálido y culturas exóticas
 - [[Tierras del Centro]] - El corazón palpitante del mundo conocido
 
 **Lugares de Leyenda:**
@@ -38,12 +38,12 @@ En esta sección se despliegan las sagas que han definido vuestro paso por estos
 
 **Diarios de Sesiones - Los Anales de Vuestras Hazañas:**
 
-- [[Sesión 0 Hijos del fango]] - Donde todo comenzó
+- [[Sesión 0 Hijos Del Fango]] - Donde todo comenzó
 - [[Sesión 6 Dragones De Rocanegra]] - El momento que cambió el curso de la historia
 
 **Facciones y Organizaciones:**
 
-- [[Enanos de Rocanegra]] - Los guardianes de la montaña sagrada
+- [[Enanos De Rocanegra]] - Los guardianes de la montaña sagrada
 - [[Drunaris]] - Una hermandad cuyas intenciones permanecen envueltas en misterio
 
 **Personajes que Han Marcado Vuestro Camino:**
@@ -52,7 +52,7 @@ En esta sección se despliegan las sagas que han definido vuestro paso por estos
 
 - [[Chef Peretril]] - El maestro culinario cuyos guisos alimentan tanto el cuerpo como el alma
 - [[Capataz For-jon]] - El supervisor cuya dedicación es tan sólida como la piedra que trabaja
-- [[Drogar Martillo de Hierro]] - El herrero cuyo nombre resuena en cada golpe de su yunque
+- [[Drogar Martillo De Hierro]] - El herrero cuyo nombre resuena en cada golpe de su yunque
 
 **Los Héroes de Vuestra Historia:**
 
@@ -62,3 +62,4 @@ En esta sección se despliegan las sagas que han definido vuestro paso por estos
 ## Explora los sistemas de Juego
 
 - [[Daggerheart]]
+
