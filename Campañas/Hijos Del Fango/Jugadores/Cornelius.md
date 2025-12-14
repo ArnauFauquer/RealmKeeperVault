@@ -10,7 +10,7 @@ jugador: Carles
 
 > Cornelius Octavius Aurelius Severian, Doctor en las Artes Arcanas, Gran Portador del Conocimiento Insondable, Vencedor de las Sombras del Olvido y Depositario de la Verdadera Llama del Saber.
 
-![[Carles-Portrait.png]]
+![[Cornelius.png]]
 
 ## Apariencia
 

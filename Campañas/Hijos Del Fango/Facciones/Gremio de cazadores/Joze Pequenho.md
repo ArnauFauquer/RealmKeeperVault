@@ -10,6 +10,7 @@ tags:
 
 > Líder cazador de corazón compasivo que se encierra para proteger a otros de su propia luna.
 
+![[ze human.png]]
 ## Apariencia
 
 Hombre de mediana edad de complexión fibrosa más propia de alguien que trabaja con animales que de un cazador de trofeos. Cabello oscuro desordenado con mechones más claros que insinúan el pelaje de su forma lunar. Ojos castaños suaves que en penumbra muestran un reflejo ámbar. Lleva ropa funcional limpia, reforzada en codos y antebrazos, y un colgante que alberga la Piedra de Blodstone: gema rojiza con vetas internas que pulsan cuando la luna asciende.

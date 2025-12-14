@@ -11,6 +11,7 @@ tags:
 
 > Único herrero de Fangoalto, dragón humanoide que oculta un pasado con el Gremio de Cazadores.
 
+![[Dorkan.png]]
 ## Apariencia
 
 Alto, robusto y de torso ancho. Escamas opacas rojizas con vetas oscuras de hollín permanente. Cuernos cortos limados para caber bajo una capucha de cuero. Brazos musculosos marcados por quemaduras antiguas. Mandíbula cuadrada y ojos ámbar vigilantes.

@@ -13,6 +13,7 @@ tags:
 
 > Patriarca fanático que transformó la caza en cruzada divina.
 
+![[Valkar el Purificador.png]]
 ## Apariencia
 
 Centauro imponente de torso musculoso marcado con cicatrices rituales de quemaduras. Pelaje equino negro azabache con crines trenzadas que incorporan brasas perpetuas mediante alquimia. Porta armadura parcial de placas oxidadas decoradas con motivos solares y lleva un báculo coronado con un brasero siempre encendido. Ojos ámbar intensos que parecen reflejar llamas. Voz profunda y autoritaria.

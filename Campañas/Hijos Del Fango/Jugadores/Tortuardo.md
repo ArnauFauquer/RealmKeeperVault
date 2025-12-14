@@ -10,7 +10,7 @@ jugador: Nacho
 
 > Lo que la naturaleza nos da es una bendición para todos.
 
-![[Nacho-Portrait.png]]
+![[Tortuardo.png]]
 
 ## Apariencia
 

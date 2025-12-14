@@ -11,7 +11,7 @@ jugador: Elio
 > Te has atragantado con un brócoli? no te preocupes yo te ayudo!
 > (procede a hacerle la maniobra de Heimlich y romperle dos costillas por no saborear la comida)
 
-![[Elio-Portrait.png]]
+![[Neftali.png]]
 
 ## Apariencia
 

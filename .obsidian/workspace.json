@@ -13,12 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campañas/Hijos Del Fango/Sesiones/Sesión 3 Hijos del fango.md",
+                "file": "Campañas/Hijos Del Fango/Facciones/Cazadores de la noche/Valkar el Purificador.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sesión 3 Hijos del fango"
+              "title": "Valkar el Purificador"
+            }
+          },
+          {
+            "id": "0ac874b0153d50e1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "0939ab4665262e41",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "_assets/Viejo loco Ben.png"
+              },
+              "icon": "lucide-image",
+              "title": "Viejo loco Ben"
             }
           }
         ]
@@ -165,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1156.5
+    "width": 726.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,14 +201,31 @@
       "graph:Abrir vista gráfica": false
     }
   },
-  "active": "64bacc7762a406c7",
+  "active": "01324514712d2fc2",
   "lastOpenFiles": [
+    "_assets/Valkar el Purificador.png",
+    "Campañas/Hijos Del Fango/Facciones/Cazadores de la noche/Valkar el Purificador.md",
+    "Campañas/Hijos Del Fango/Facciones/Gremio de cazadores/Joze Pequenho.md",
+    "_assets/ze human.png",
+    "Campañas/Hijos Del Fango/Facciones/Pueblo de Fangoalto/Dorkan el Herrero.md",
+    "Campañas/Hijos Del Fango/Facciones/Pueblo de Fangoalto/Sose y Ovalis Charcolento.md",
+    "_assets/Dorkan.png",
+    "_assets/Sose y ovalis Carcolento.png",
+    "Campañas/Hijos Del Fango/Facciones/Pueblo de Fangoalto/Ben Viejo Loco.md",
+    "Campañas/Hijos Del Fango/Facciones/Pueblo de Fangoalto/Abuela Fragopyro.md",
+    "_assets/Amapola.png",
+    "_assets/Viejo loco Ben.png",
+    "_assets/Jacobo.png",
+    "_assets/Abuela Fragopyro.png",
+    "_assets/animated_0.mp4",
+    "_assets/magic_rivals_poster.png",
+    "_assets/magic_rivals_poster-1.png",
+    "Campañas/Hijos Del Fango/Jugadores/Cantharella.md",
+    "Campañas/Hijos Del Fango/Jugadores/Clank.md",
+    "Campañas/Hijos Del Fango/Jugadores/Amapola.md",
     "Campañas/Hijos Del Fango/Sesiones/Sesión 4 Hijos del fango.md",
     "Campañas/Hijos Del Fango/Sesiones/Sesión 3 Hijos del fango copy.md",
     "Campañas/Hijos Del Fango/Sesiones/Sesión 3 Hijos del fango.md",
-    "Campañas/Hijos Del Fango/Jugadores/Amapola.md",
-    "Campañas/Hijos Del Fango/Jugadores/Cantharella.md",
-    "Campañas/Hijos Del Fango/Jugadores/Clank.md",
     "Campañas/Hijos Del Fango/Jugadores/Cornelius.md",
     "Campañas/Hijos Del Fango/Jugadores/Neftalí.md",
     "Campañas/Hijos Del Fango/Jugadores/Raik.md",
@@ -199,33 +239,15 @@
     "RealmKeeper.md",
     "World/Wei.md",
     "World/Wei/Tierras Del Este/Llamaforja.md",
-    "Templates/session-template.md",
-    "Templates/region-template.md",
-    "Templates/player-character-template.md",
-    "Templates/npc-template.md",
-    "Templates/history-template.md",
-    "Templates/location-template.md",
-    "Templates/faction-template.md",
     "Templates",
     "Sin título.base",
     "_templates",
-    "_assets/magic_rivals_poster.png",
-    "_assets/magic_rivals_poster-1.png",
     "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro",
     "Campañas/Hijos Del Fango/Facciones/_Criaturas del Barro",
     "Campañas/Hijos Del Fango/Facciones/Cazadores de la noche",
     "Draft.base",
-    "_assets/Fangoalto.png",
-    "_assets/scene (1).png",
-    "_assets/Wei-Winter.jpg",
-    "_assets/Wei-Summer.jpg",
-    "_assets/Wei-Spring.jpg",
-    "_assets/Wei-Autumn.jpg",
     "Campañas/Hijos Del Fango/Facciones/Cazadores de la noche",
     "World/Wei/Deidades",
-    "Campañas/Hijos Del Fango/Sesiones",
-    "Assets/Wei-Autumn.jpg",
-    "Assets/Wei-Summer.jpg",
     "Sin título.canvas"
   ]
 }

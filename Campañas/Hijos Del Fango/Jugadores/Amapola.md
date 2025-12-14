@@ -10,7 +10,7 @@ jugador: Paula
 
 > Uala! voy a escribir que con un poco de miel y lo junto extracto de las hojas de tomillo mezcladas con hiedra se le va a quitar la tos.
 
-![[Paula-Portrait.png]]
+![[Amapola.png]]
 
 ## Apariencia
 

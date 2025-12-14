@@ -10,7 +10,7 @@ jugador: Pol
 
 > Analizando árbol de manzanas, manzana encontrada, entrada manzano guardada en mi base de datos.
 
-![[Pol-Portrait.png]]
+![[Clank.png]]
 
 ## Apariencia
 

@@ -14,6 +14,7 @@ campaign: hijos del fango
 ---
 # Sose y Ovalis Charcolento
 
+![[Sose y ovalis Carcolento.png]]
 ## Apariencia
 
 Pareja tortuga: Sose con caparazón oscuro vetas carbón y líquenes verdes; Ovalis con caparazón ámbar claro pulido. Prendas de fibras vegetales teñidas con cortezas y flores, manos con aceites herbales y aroma a humo frío.

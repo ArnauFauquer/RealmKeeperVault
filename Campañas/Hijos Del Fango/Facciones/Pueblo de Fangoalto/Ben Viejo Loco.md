@@ -10,6 +10,7 @@ tags:
 
 > Viejo profeta callejero que predica sobre el "Espíritu del Barro".
 
+![[Viejo loco Ben.png]]
 ## Apariencia
 
 Humano anciano, piel curtida y llena de manchas, barba y cejas canosas desgreñadas, casi sin pelo en la coronilla. Lleva capas de ropa remendada y húmeda de barro seco y fresco. Siempre descalzo o con sandalias improvisadas de cuerda y madera.

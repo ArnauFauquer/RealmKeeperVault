@@ -10,7 +10,7 @@ jugador: Sara
 
 > Si cojo un poco de miel y lo junto extracto de las hojas de tomillo mezcladas con hiedra se le va a quitar la tos.
 
-![[Sara-Portrait.png]]
+![[Cantharella.png]]
 
 ## Apariencia
 

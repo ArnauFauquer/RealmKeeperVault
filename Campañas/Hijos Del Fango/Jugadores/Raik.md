@@ -10,7 +10,7 @@ jugador: Albert
 
 > Crees que debería disparar Corax? están muy lejos no?
 
-![[Albert-Portrait.png]]
+![[Raik.png]]
 
 ## Apariencia
 
