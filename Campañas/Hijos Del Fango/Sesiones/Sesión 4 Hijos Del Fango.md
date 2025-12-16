@@ -9,7 +9,7 @@ date: 2025-12-10
 ---
 # Sesión 4: Dentro del Cuadro
 
-> **Resumen:** Los jugadores son absorbidos dentro del misterioso cuadro del sótano de la Abuela Fragopyro y se encuentran en un mundo surrealista donde conviven el fuego, el hielo y un baile eterno. El narrador abre la sesión contando el mito de la Llama Sagrada y Potroneo, un relato que cobra vida de formas inesperadas.
+> Los [[Hijos Del Fango]] son absorbidos dentro del misterioso cuadro del sótano de la [[Abuela Fragopyro]] y se encuentran en un mundo surrealista donde conviven el fuego, el hielo y un baile eterno.
 
 ## Eventos
 

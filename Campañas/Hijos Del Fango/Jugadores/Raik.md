@@ -46,3 +46,7 @@ El recién huérfano escapa en hacia el [[Lodazal De Medianoche]] donde encuentr
 > Salve a Corax en el [[Lodazal De Medianoche]] de la muerte. Fui muy valiente.
 
 **Sesión 4:** Eres el más joven, pero también el que ha experimentado la mayor pérdida. ¿Hay alguien en el grupo a quien consideres más interesante que los demás? ¿Alguien que te haga sentir menos solo en tu sed de venganza?
+
+> [[Amapola]] es agradable, me da galletas
+
+**Sesión 5:** Explica como fue ese día, el día que mataron a tus padres ¿Quiénes fueron los dos asesinos? ¿Qué aspecto tenían? ¿Cómo mataste a uno de ellos?

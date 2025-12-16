@@ -47,3 +47,7 @@ Quien mejor que el para elaborar los mejores platos, simples pero elaborados, hu
 > Es Un negocio de proximidad y prospero.
 
 **Sesión 4:** Proteges pero también sientes el llamado de ayudar a esta comunidad sirviendo kebabs. ¿Hay algún miembro del grupo al que sientas especial conexión por su vulnerabilidad o fortaleza? ¿A quién te gustaría conocer mejor fuera de tu rol de protector?
+
+> [[Tortuardo]] tenemos que hablar de negocios
+
+**Sesión 5:** ese portakebaps que estas haciendo que funciones tiene? porque lo estas desarrollando en solitario?

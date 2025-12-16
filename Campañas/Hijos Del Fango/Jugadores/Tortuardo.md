@@ -46,4 +46,8 @@ Como el [[Gremio De Cazadores]] representa todo lo contrario a los valores que T
 
 > No me paralice, accione con distancia y miedo. me preocupa no tener el valor para tirar a adelante en estas situaciones.
 
-**Sesión 4:** Tu pregunta fundamental es sobre la vida y la muerte. Observando a cada uno de tus compañeros en este espacio mágico, ¿cuál es la historia más dolorosa que has escuchado? ¿Cuál de ellos crees que necesita más ayuda para sanar?
+**Sesión 4:** Tu pregunta fundamental es sobre la vida y la muerte. Observando a cada uno de tus compañeros en este espacio mágico, ¿Cuál es la historia más dolorosa que has escuchado? ¿Cuál de ellos crees que necesita más ayuda para sanar?
+
+> [[Raik]] es quien mas sufrió
+
+**Sesión 5:** Como el  [[Gremio De Cazadores]] ha estado molestando el pueblo de fango alto estos últimos tiempos?

@@ -52,3 +52,7 @@ Sin el, Cornelius no puede acceder al puesto como profesor de la UOC (Universida
 > Por supuesto mi carrera.
 
 **Sesión 4:** Tu ego te ha llevado a buscar la gloria académica, pero ahora estás rodeado de personas genuinas. ¿Cuál de tus compañeros de aventura te ha impresionado más con su carácter? ¿Hay alguien cuya forma de ver el mundo te está haciendo reconsiderar tus prioridades?
+
+> [[Clank]]
+
+**Sesión 5:** ¿Demasiadas coincidencias no? ¿Cuál es tu hipótesis actual de los hechos del robo de la [[La Tesis Perdida]] y [[Fangoalto]]? 

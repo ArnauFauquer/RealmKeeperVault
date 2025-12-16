@@ -49,4 +49,6 @@ Por suerte tiene amigos como [[Tortuardo]], [[Cantharella]] y [[Clank]] que hace
 
 > Un señor (el cual mi abuelo i el mantenían relaciones), cuando era pequeña, le trajo un cuadro firmado de una mujer. El cuadro tiene una figura de una mujer en el centro de color negro, mientras esta bailando. A la izquierda del cuadro hay formas de agua y figuras azules i a la derecha un fuego y llamas.
 
+**Sesión 5:** ¿Qué guardaban los dioses en las Tierras del Este?
+
 **Sesión 4:** En este mundo donde conviven el fuego de la pasión y el hielo del dolor, rodeada de tus compañeros más cercanos, ¿hay alguien del grupo con quien sientes que tienes una conexión especial? ¿Alguien cuyas historias te interesan más que las otras, alguien que te gustaría entender mejor?

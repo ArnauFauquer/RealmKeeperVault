@@ -9,7 +9,7 @@ tags:
 ---
 # Potroneo
 
-> Milenio de sangre entre gigantes y dragones sellado por el rugido divino de Garix.
+> Trajo la luz donde solo había oscuridad.
 
 ## Apariencia
 
