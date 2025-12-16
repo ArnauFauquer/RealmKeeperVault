@@ -9,6 +9,7 @@ type: location
 
 > Antigua mansión-gremio de cazadores: laberinto de secretos y disciplina marcial.
 
+![[Mansion de los Blodstone.png]]
 ## Nombre y ubicación
 
 La Mansión de los Blodstone se erige en una meseta rocosa protegida por coladas antiguas en las [[Tierras del Este]], con acceso por una calzada fortificada que conecta rutas hacia [[Chispa Rubí]] y suministros desde [[Emberlia]].

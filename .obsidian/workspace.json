@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campañas/Hijos Del Fango/Sesiones/Sesión 5 Hijos Del Fango.md",
+                "file": "World/Wei/Tierras Del Este/Mansión De Los Blodstone.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sesión 5 Hijos Del Fango"
+              "title": "Mansión De Los Blodstone"
             }
           }
         ],
@@ -193,15 +193,16 @@
       "graph:Abrir vista gráfica": false
     }
   },
-  "active": "bf51be808282490a",
+  "active": "01324514712d2fc2",
   "lastOpenFiles": [
+    "_assets/locations",
+    "Campañas/Hijos Del Fango/Sesiones/Sesión 5 Hijos Del Fango.md",
     "Campañas/Hijos Del Fango/Jugadores/Tortuardo.md",
     "Campañas/Hijos Del Fango/Jugadores/Raik.md",
     "Campañas/Hijos Del Fango/Jugadores/Neftalí.md",
     "Campañas/Hijos Del Fango/Jugadores/Cornelius.md",
     "Campañas/Hijos Del Fango/Jugadores/Clank.md",
     "World/Wei/Historia/Llama Sagrada.md",
-    "Campañas/Hijos Del Fango/Sesiones/Sesión 5 Hijos Del Fango.md",
     "Deidades/Potroneo.md",
     "World/Wei/Tierras Del Este/Puertas De Obsidiana.md",
     "Campañas/Hijos Del Fango/Jugadores/Cantharella.md",
@@ -218,7 +219,7 @@
     "Campañas/Hijos Del Fango/Sesiones/Sesión 1 Hijos Del Fango.md",
     "Jacobo Pernildins.md",
     "_assets/folleto rivales mágicos.png",
-    "_assets/Mansion de los Blodstone.png",
+    "_assets/locations/Mansion de los Blodstone.png",
     "Campañas/Hijos Del Fango/Facciones/Gremio De Cazadores.md",
     "Campañas/Hijos Del Fango/Facciones/Gremio de cazadores/Joze Pequeño.md",
     "Campañas/Hijos Del Fango/Facciones/Cazadores de la noche/Valkar El Purificador.md",
@@ -226,7 +227,6 @@
     "Oneshots/Ratas Y Zorros/Ratas y Zorros.md",
     "_assets/Viejo loco Ben.png",
     "Campañas/Dragones De Rocanegra/Sesiones/Sesión 14 Dragones De Rocanegra.md",
-    "Campañas/Dragones De Rocanegra/Sesiones/Sesión 1 Dragones De Rocanegra.md",
     "Campañas/Hijos Del Fango/Facciones/Gremio De Cazadores",
     "Oneshots/Vacaciones En BellEnd/Facciones/Pueblo de Bellend",
     "Oneshots/Vacaciones En BellEnd/Facciones",
