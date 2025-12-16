@@ -4,7 +4,6 @@ tags:
   - npc
   - wei
   - hijosDelFango
-  - draft
 ---
 # Joze Pequenho
 

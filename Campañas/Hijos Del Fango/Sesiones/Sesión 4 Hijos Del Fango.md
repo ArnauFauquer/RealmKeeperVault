@@ -17,42 +17,75 @@ date: 2025-12-10
 
 ### Narración de la Llama Sagrada
 
-La historia de [[La Llama Sagrada]] - cómo Potroneo, el centauro héroe, robó el fuego de los dioses para entregarlo a la humanidad, y cómo el Tiempo lo castigó quitándole el fuego de su corazón, condenándolo a existir sin amor.
+El cuadro que [[Amapola]] en el sótano de [[Abuela Fragopyro]] se abre como un portal mientras los [[Hijos Del Fango]] caen hacia adentro empujados por el tropiezo de [[Tortuardo]].  Son absorbidos dentro del lienzo, cayendo en un mundo onírico donde el tiempo no fluye como debería.
 
-El cuadro que [[Amapola]] describió en la sesión anterior se abre mientras los jugadores caen hacia adentro. Los personajes son absorbidos dentro del lienzo, cayendo en un mundo onírico donde el tiempo no fluye como debería.
-
+![[El Mundo dentro del Cuadro.png]]
 ## **El Mundo dentro del Cuadro**
 
 ### El Lado del Fuego
 
 Llamas de color rojo y naranja danzan en un paisaje árido de colinas de arena negra. El calor es sofocante e intenso, casi insoportable. En esta zona, las formas de fuego parecen cobrar vida propia: figuras humanoides hechas de llamas que se retuercen, giran y danzan. El suelo es caliente bajo los pies, y el aire crepita con energía ardiente. Aquí el tiempo se acelera: los eventos suceden rápidamente, las emociones son intensas y apasionadas.
 
-En el horizonte del fuego, se puede vislumbrar una estructura antigua semejante a un templo en ruinas, sus piedras resplandecen con calor residual.
+[[Tortuardo]] y [[Neftalí]] llegan a este lugar sin sus compañeros y tras encontrar las figuras danzantes empiezan un baile que llega a las criaturas del lado del fuego brindándoles un elemental.
+
+[[Tortuardo]], [[Neftalí]] y el elemental se encuentran y presentan con unas reverencias muy cordiales. No parece que puedan comunicarse con el ser, pero en unas les deja un mensaje gravado a fuego.
+
+> Mensaje: Amigos
 
 ### El Lado del Frío
 
 Aguas de color azul profundo, casi negras, fluyen en corrientes silenciosas. Figuras azules translúcidas nadan, flotan y se deslizan a través del agua - humanoides hechos de hielo y agua que se mueven con gracia serena. El frío es penetrante, paralizante, adormecedor. El aire aquí es denso y calmo, casi sofocante por su quietud.
 
-En esta zona, el tiempo se ralentiza: los movimientos son lentos, las palabras parecen llevar más peso, los pensamientos son profundos y melancólicos. Las formas azules parecen observar a los intrusos con curiosidad antigua y distante.
+[[Raik]] y [[Clank]] aterrizan en este lado de l cuadro, investigan la zona sin hablar mucho. Entre tanto frio [[Clank]] enciende una antorcha para que el pequeño [[Raik]] pueda estar mas caliente.
+En estas un pingüino sale de los limites del cuadro, se dirige con expresión neutra a apagar la antorcha encendida. Tras ello el pingüino marcha dejando a los dos boquiabiertos. 
 
-Sumergido parcialmente en las aguas heladas, hay un monumento de piedra grabada con símbolos indescifrables.
+[[Raik]] y [[Clank]] traman un plan encender la antorcha y capturar el pingüino, con un objetivo poco claro.
+Su plan funciona pero el enfado del pingüino lo hace transformarse en un elemental de agua.
+La batalla en el lado frio termina con el fallecimiento del elemental frio.
 
 ### El Baile Eterno
 
-Entre el fuego y el hielo, en el espacio central, la figura negra de la mujer continúa su danza. No está congelada en una sola pose, sino que se mueve en ciclos elegantes, sus formas sinuosas y hypnóticas. Alrededor de ella, el aire es templado y respirable. Esta es la única zona donde el tiempo parece "normal", aunque distorsionado de maneras sutiles.
+[[Cantharella]] y [[Cornelius]] vestidos de fiesta de baile de mascaras, aterrizan en una sala gigante de espejos, en ella multitud de personas, pero no distinguen rostros.
+La música suena, la gente baila y disfruta del baile, [[Cantharella]] y [[Cornelius]] se animan también al baile.
+El baile de los dos amigos es memorable tanto que la sala les cierra en circulo y ovacionan mientras terminan el baile. El espectáculo termina y las personas sin rostro escapan plácidamente dentro de los espejos como si fueran reflejos del pasado. 
+[[Cantharella]] y [[Cornelius]] observando encuentran la figura negra del cuadro. Sensual, sugerente y cautivadora es como la podríamos describir a pesar de ser una sombra. Los movimientos cautivan a [[Cantharella]] y [[Cornelius]] por unos instantes aunque ambos consiguen recordar que están en un cuadro.
 
-La danza de la figura es tan cautivadora que los personajes pueden pasar horas observándola sin darse cuenta. Hay algo de tristeza infinita en sus movimientos, como si bailara para llenar un vacío eterno. Ocasionalmente, la figura parece "mirar" hacia los personajes, aunque no tiene ojos visibles.
-
+En ese momento es cuando lo escuchan, escuchan una risa soberbia y todos los [[Hijos Del Fango]] salen del cuadro, es la risa inconfundible de [[Jacobo Pernildins]] que corrobora la firma del cuadro de la [[Abuela Fragopyro]].
+[[Amapola]] se quedo fuera leyendo tan atenta la carta y el anillo que le dejo su abuela.
 ### Desarrollo
 
-Este apartado es para las decisiones y acciones de los jugadores
+Arriba en el pueblo de [[Fangoalto]] se escucha el martillear de [[Dorkan El Herrero]], inquieto, nervioso y esquivo a preguntas, devuelve a [[Neftalí]] su juego de cuchillos.
 
+Hay muchas incógnitas y el que parece que sabe mas aun que despista es [[Ben Viejo Loco]] que se encuentra aun limpiando viejos grafitis de [[Yugata]] e incluso esta preparando para colgar folletos nuevos.
+
+Los [[Hijos Del Fango]] les es imposible no ver el rostro destrozado y confundido de [[Ben Viejo Loco]] que mientras les confiesa que es un cobarde. Entre estas el folleto llega a las manos de [[Cornelius]].
+
+![[folleto rivales mágicos.png]]
+
+[[Jacobo Pernildins]] no solo sabe que [[Cornelius]] esta en [[Fangoalto]] si no que también esta con el [[Gremio De Cazadores]] que a la vez son los mecenas de [[La Tesis Perdida]]. Que a la vez [[Jacobo Pernildins]] fue amante de la [[Abuela Fragopyro]] y su presente raptor.
+
+[[Hijos Del Fango]] deciden partir en búsqueda de la [[Abuela Fragopyro]], en búsqueda de [[La Tesis Perdida]] y venganza.
 ### Final
 
-Los jugadores determinarán cómo y cuándo saldrán de este mundo. El narrador esperará sus movimientos.
+Antes de partir y seguir el rastro del ejercito del [[Gremio De Cazadores]], se preparan para el viaje.
+
+- [[Tortuardo]] se despide de su familia.
+- [[Neftalí]] prepara esperando a los demás su portakebaps.
+- [[Cornelius]] ensaya un truco nuevo de hielo que le permitirá resbalar controladamente en su hielo.
+- [[Clank]] destroza el cuadro para llevárselo al viaje, enfadando a [[Amapola]].
+- [[Amapola]] recoge sus pocas cosas que quedan de dentro de la casa, entre ellas una foto con su abuela.
+- [[Cantharella]] sigue sus pasos y recoge sus pocas pertenencias y se viste discretamente para ocultar su distinguido rostro.
+- Mientras [[Raik]] cuida de Corax
 
 ## Momentos
 
-Este apartado es para los momentos memorables que los jugadores creen durante la sesión
-
-- **Quote memorable** - *Quién lo dijo*
+- [[Tortuardo]] se tropieza empujando dentro del cuadro a los [[Hijos Del Fango]].
+- [[Neftalí]] pero tienes la piedra canalizadora ? [[Tortuardo]] Si! quien tiene la otra? [[Neftalí]] yo! vaya... (no les sirve de mucho)
+- El plato preferido de [[Tortuardo]] es el revuelto de setas, que pensaría [[Cantharella]]?
+- [[Raik]] vellaco!
+- [[Clank]] Tus padres estarían orgullosos [[Raik]].
+- Empieza un baile super elegante [[Cantharella]] y [[Cornelius]]
+- [[Cornelius]]: mhhh ... [[Cornelius]] no había pensado eso
+- [[Tortuardo]]: eres demasiado joven para ser una revisora [[Amapola]]:  claro, gracias.
+- [[Amapola]]: siempre hay que traer un cebo (Refiriéndose a [[Ben Viejo Loco]])
+- [[Clank]]: Yo tengo un sombrero de paja!

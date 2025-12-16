@@ -98,8 +98,9 @@ Las preguntas los acompañan mientras se apresuran hacia el pueblo, el peso del 
 
 [[Clank]] aparta los escombros de la tienda de la abuela, solo queda el sótano, la habitación de la abuela.
 
-[[Amapola]] abre la puerta, un sobre y un cuadro tienen un aura peculiar.
+[[Amapola]] abre la puerta, un sobre y un cuadro tienen un aura peculiar. Un sobre que pone para Amapola y dentro un anillo.
 
+![[El anillo de la abuela.png]]
 ## Momentos
 
 - Sigamos el rastro del excavador acido.
