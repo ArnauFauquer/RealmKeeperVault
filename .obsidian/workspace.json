@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World/Wei/Tierras Del Este/Mansión De Los Blodstone.md",
+                "file": "World/Wei/Tierras Del Este/Puertas De Obsidiana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mansión De Los Blodstone"
+              "title": "Puertas De Obsidiana"
             }
           }
         ],
@@ -193,10 +193,12 @@
       "graph:Abrir vista gráfica": false
     }
   },
-  "active": "01324514712d2fc2",
+  "active": "bf51be808282490a",
   "lastOpenFiles": [
-    "_assets/locations",
     "Campañas/Hijos Del Fango/Sesiones/Sesión 5 Hijos Del Fango.md",
+    "_assets/Puertas De Obsidiana.png",
+    "World/Wei/Tierras Del Este/Mansión De Los Blodstone.md",
+    "_assets/locations",
     "Campañas/Hijos Del Fango/Jugadores/Tortuardo.md",
     "Campañas/Hijos Del Fango/Jugadores/Raik.md",
     "Campañas/Hijos Del Fango/Jugadores/Neftalí.md",
@@ -226,7 +228,6 @@
     "Campañas/Hijos Del Fango/La Tesis Perdida.md",
     "Oneshots/Ratas Y Zorros/Ratas y Zorros.md",
     "_assets/Viejo loco Ben.png",
-    "Campañas/Dragones De Rocanegra/Sesiones/Sesión 14 Dragones De Rocanegra.md",
     "Campañas/Hijos Del Fango/Facciones/Gremio De Cazadores",
     "Oneshots/Vacaciones En BellEnd/Facciones/Pueblo de Bellend",
     "Oneshots/Vacaciones En BellEnd/Facciones",
@@ -235,12 +236,10 @@
     "Oneshots/Ratas Y Zorros",
     "Oneshots/La Maldicion Del Hombre Lobo",
     "Oneshots/La Pocima De La Voluntad",
-    "Plantillas",
     "_assets/Valkar el Purificador.png",
     "_assets/ze human.png",
     "_assets/Dorkan.png",
     "_assets/Sose y ovalis Carcolento.png",
-    "_assets/Amapola.png",
     "Sin título.canvas"
   ]
 }

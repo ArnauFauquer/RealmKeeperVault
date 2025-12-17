@@ -9,13 +9,13 @@ date: 2025-12-17
 ---
 # Sesión 4: Dentro del Cuadro
 
-> **Resumen:** ..............
+> **Resumen:** 
 
 ## Eventos
 
 ### Inicio
 
-El viaje empieza, por la tarde el rastro del ejercito es claro, [[Raik]] no pierde la pista. Pero le es imposible pensar en su padre y en su madre asesinados por el [[Gremio De Cazadores]].
+El viaje empieza, por la tarde, el rastro del ejercito es claro, [[Raik]] no pierde la pista. Pero le es imposible pensar en su padre y en su madre asesinados por el [[Gremio De Cazadores]].
 
 Recuerda como su madre le contaba historias de legendarios héroes en el carro mientras travesaban las [[Puertas De Obsidiana]].
 
