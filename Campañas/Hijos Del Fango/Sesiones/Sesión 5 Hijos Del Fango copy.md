@@ -7,9 +7,9 @@ campaign: hijos del fango
 session_number: "5"
 date: 2025-12-17
 ---
-# Sesión 4: Dentro del Cuadro
+# Sesión 5 Hijos del fango
 
-> **Resumen:** 
+> **Resumen:**
 
 ## Eventos
 
@@ -59,14 +59,35 @@ Al caer la tarde, el rastro del ejército se vuelve más irregular. [[Raik]] det
 
 En medio del camino dos árboles caídos, y dos cadáveres. Soldados del [[Gremio De Cazadores]], muertos hace horas. Junto a ellos, una figura encapuchada de piel micelida los examina meticulosamente, tomando notas en un pequeño cuaderno de corteza.
 
-El ser seta los percibe y levanta la vista, sin mostrar miedo ni hostilidad aun que la criatura intimida.
+El ser seta los percibe y levanta la vista, sin mostrar miedo ni hostilidad aun que la criatura intimida aun que muestra miedo en su mirada.
+Este ser es [[Renuard]], [[Tortuardo]] con sus dotes de habla consigue traduccir lo poco que habla el ser.
 
-Al anochecer, tras seguir el rastro, la calzada fortificada los conduce a una meseta rocosa. Ahí se alza la [[Mansión De Los Blodstone]]: una imponente estructura de piedra oscura con tejados de teja roja, vitrales carmesí que brillan como brasas encendidas, y torres coronadas por chapiteles naranjos.
+[[Renuard]] va vestido con prendas rotas del gremio de cazadores, eso hace dudar a los [[hijos del fango]] por un momento.
+Pero luego se dan cuenta que no son los mismos ropajes que los que llevan los dos cadaberes del suelo.
+
+[[Renuard]] les dice que ellos, el y su maestro [[Joze Pequeño]] son cazadores "buenos", los otros son los "malos".
+Tras que las cosas se calman y los [[Hijos Del Fango]] no detectan maldad en [[renuard]] y sus palabras deciden seguirlo hacia el [[Mansión De Los Blodstone]], el gremio de cazadores.
+
+Al anochecer, tras seguir a [[renuard]], los conduce a una meseta rocosa y boscosa. En un claro se alza la [[Mansión De Los Blodstone]]: una imponente estructura de piedra oscura con tejados de teja roja, vitrales carmesí que brillan como brasas encendidas, y torres coronadas por chapiteles naranjos.
 
 El edificio principal, rodeado de ruinas antiguas cubiertas de musgo y árboles centenarios, emerge del paisaje como una fortaleza entre jardines salvajes. El patio central revela su laberinto de setos carbonizados y estatuas de bestias abatidas. Todo huele a cuero, aceite y antigüedad.
 
-Las puertas están entreabiertas. ¿El ejército ha llegado antes que ellos?
+Las puertas están entreabiertas. [[Renuard]] entra y desaparece entré los largos pasillos.
 
 ### Final
 
+Los [[Hijos Del Fango]] empiezan a explorar, en la biblioteca pierden a [[Cornelius]], el la cocina pierden a [[Neftalí]], mientras los demás siguen pasillo arriba hasta llegar a una gran sala lujosa de espejos, [[Cantharella]] se da cuenta que es la misma sala que cuando estuvieron dentro del cuadro.
+
+[[Joze Pequeño]] aparece para dar la bienvenida a los [[Hijos Del Fango]]. Hombre humano de mediana edad, pelirrojo medio calvo y estatura media.
+
+De camino a la cocina a preparar la cena para los recién llegados responde a las dudas.
+
+El [[Gremio De Cazadores]] ya no es lo que era, ahora [[Joze Pequeño]] es el heredero de la familia Blodstone, pero los diferentes clanes no aprueban esta decisión. Por eso están separados, "los malos" que decía [[Renuard]] son el [[Cazadores De La Noche]] el clan que protege la llama sagrada del mundo, el clan mas despiadado de todos, el clan que mato a los padres de [[Raik]] y [[Cantharella]]. El clan que tiene a la [[Abuela Fragopyro]] y el que [[Jacobo Pernildins]] esta.
+
+[[Valkar El Purificador]] es su líder.
+
+Mientras en la biblioteca, [[Cornelius]] rebusca entre todas las estanterías, sin encontrar mucha cosa.
+Pero al final de la sala en el escritorio hay un libro abierto, un libro de cuentas, [[Cornelius]] encuentra la financiación de su tesis en la ultima pagina, confirmando que esta en el lugar indicado.
+
+Antes de salir de la bibliotecas un libro llama la atención al simio, el titulo "Para Cornelius", pero ese libro pesa y suena algo raro. Dentro el libro hueco [[Cornelius]] encuentra una llave decorada. 
 ## Momentos

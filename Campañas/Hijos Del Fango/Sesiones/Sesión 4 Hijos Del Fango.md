@@ -7,7 +7,7 @@ campaign: hijos del fango
 session_number: "4"
 date: 2025-12-10
 ---
-# Sesión 4: Dentro del Cuadro
+# Sesión 4 Hijos del fango
 
 > Los [[Hijos Del Fango]] son absorbidos dentro del misterioso cuadro del sótano de la [[Abuela Fragopyro]] y se encuentran en un mundo surrealista donde conviven el fuego, el hielo y un baile eterno.
 
@@ -20,6 +20,7 @@ date: 2025-12-10
 El cuadro que [[Amapola]] en el sótano de [[Abuela Fragopyro]] se abre como un portal mientras los [[Hijos Del Fango]] caen hacia adentro empujados por el tropiezo de [[Tortuardo]].  Son absorbidos dentro del lienzo, cayendo en un mundo onírico donde el tiempo no fluye como debería.
 
 ![[El Mundo dentro del Cuadro.png]]
+
 ## **El Mundo dentro del Cuadro**
 
 ### El Lado del Fuego

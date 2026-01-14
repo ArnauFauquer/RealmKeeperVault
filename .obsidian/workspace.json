@@ -11,10 +11,14 @@
             "id": "b2f0095c594de37b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Campañas/Hijos Del Fango/Sesiones/Sesión 5 Hijos Del Fango copy.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Sesión 5 Hijos Del Fango copy"
             }
           }
         ]
@@ -174,8 +178,12 @@
       "graph:Abrir vista gráfica": false
     }
   },
-  "active": "64bacc7762a406c7",
+  "active": "b2f0095c594de37b",
   "lastOpenFiles": [
+    "[Hijos Del Fango.md",
+    "Campañas/Hijos Del Fango/Sesiones/Sesión 5 Hijos Del Fango copy.md",
+    "Campañas/Hijos Del Fango/Sesiones/Sesión 6 Hijos Del Fango.md",
+    "Campañas/Hijos Del Fango/Facciones/Gremio de cazadores/Joze Pequeño.md",
     "Deidades/Potroneo.md",
     "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro/Avaricia.md",
     "Campañas/Hijos Del Fango/Facciones/Cazadores de la noche/Valkar el Purificador.md",
@@ -205,10 +213,6 @@
     "Jacobo Pernildins.md",
     "_assets/folleto rivales mágicos.png",
     "_assets/Mansion de los Blodstone.png",
-    "Campañas/Hijos Del Fango/Facciones/Gremio De Cazadores.md",
-    "Campañas/Hijos Del Fango/Facciones/Gremio de cazadores/Joze Pequeño.md",
-    "Campañas/Hijos Del Fango/Facciones/Cazadores de la noche/Valkar El Purificador.md",
-    "Campañas/Hijos Del Fango/La Tesis Perdida.md",
     "_assets/Viejo loco Ben.png",
     "Campañas/Hijos Del Fango/Facciones/Gremio De Cazadores",
     "Oneshots/Vacaciones En BellEnd/Facciones/Pueblo de Bellend",
