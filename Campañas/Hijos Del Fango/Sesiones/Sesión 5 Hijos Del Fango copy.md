@@ -9,7 +9,7 @@ date: 2025-12-17
 ---
 # Sesión 5 Hijos del fango
 
-> **Resumen:**
+> **Resumen:** Los [[Hijos del Fango]] rastrean al ejército del Gremio de Cazadores mientras Raik recuerda historias de su madre sobre Potroneo y el fuego sagrado. En el camino encuentran a Renuard, un ser micelida que los guía hasta la [[Mansión de los Blodstone]]. Allí conocen a Joze Pequeño, heredero legítimo del Gremio, quien revela la división entre los clanes y que los Cazadores de la Noche, liderados por Valkar el Purificador, son quienes mataron a los padres de Raik y Cantharella. Mientras tanto, Cornelius descubre en la biblioteca que su tesis fue financiada por el Gremio y encuentra una misteriosa llave con su nombre.
 
 ## Eventos
 
