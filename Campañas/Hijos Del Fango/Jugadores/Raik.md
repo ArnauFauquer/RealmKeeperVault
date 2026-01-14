@@ -50,3 +50,5 @@ El recién huérfano escapa en hacia el [[Lodazal De Medianoche]] donde encuentr
 > [[Amapola]] es agradable, me da galletas
 
 **Sesión 5:** Explica como fue ese día, el día que mataron a tus padres ¿Quiénes fueron los dos asesinos? ¿Qué aspecto tenían? ¿Cómo mataste a uno de ellos?
+
+**Sesión 6:** ¿Es de Fiar [[jozxe peqeño]]?

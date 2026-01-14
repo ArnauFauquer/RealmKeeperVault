@@ -55,4 +55,6 @@ Sin el, Cornelius no puede acceder al puesto como profesor de la UOC (Universida
 
 > [[Clank]]
 
-**Sesión 5:** ¿Demasiadas coincidencias no? ¿Cuál es tu hipótesis actual de los hechos del robo de la [[La Tesis Perdida]] y [[Fangoalto]]? 
+**Sesión 5:** ¿Demasiadas coincidencias no? ¿Cuál es tu hipótesis actual de los hechos del robo de la [[La Tesis Perdida]] y [[Fangoalto]]?
+
+**Sesión 5:** ¿Que abre esta llave? ¿Es una coincidiencia que estubiera en un libro para cornelius?

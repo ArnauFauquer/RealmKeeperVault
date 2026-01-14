@@ -55,3 +55,5 @@ Una tarde cualquiera volviendo a casa tras una larga colecta de raíces silvestr
 > [[Raik]] tiene un pasado doloroso como el mío.
 
 **Sesión 5:** ¿Hay mas de tu especie conoces a alguien mas?
+
+**Sesión 6:** ¿Cual es tu comida favorita?

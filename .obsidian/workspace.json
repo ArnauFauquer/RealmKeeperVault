@@ -11,14 +11,12 @@
             "id": "b2f0095c594de37b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Campañas/Hijos Del Fango/Sesiones/Sesión 5 Hijos Del Fango copy.md",
-                "mode": "source",
-                "source": false
+                "file": "_assets/Gula-Portrait.png"
               },
-              "icon": "lucide-file",
-              "title": "Sesión 5 Hijos Del Fango copy"
+              "icon": "lucide-image",
+              "title": "Gula-Portrait"
             }
           }
         ]
@@ -180,14 +178,15 @@
   },
   "active": "b2f0095c594de37b",
   "lastOpenFiles": [
-    "[Hijos Del Fango.md",
-    "Campañas/Hijos Del Fango/Sesiones/Sesión 5 Hijos Del Fango copy.md",
     "Campañas/Hijos Del Fango/Sesiones/Sesión 6 Hijos Del Fango.md",
+    "_assets/Gula-Portrait.png",
+    "Campañas/Hijos Del Fango/Sesiones/Sesión 5 Hijos Del Fango copy.md",
+    "Campañas/Hijos Del Fango/Sesiones/Sesión 5 Hijos Del Fango.md",
+    "[Hijos Del Fango.md",
     "Campañas/Hijos Del Fango/Facciones/Gremio de cazadores/Joze Pequeño.md",
     "Deidades/Potroneo.md",
     "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro/Avaricia.md",
     "Campañas/Hijos Del Fango/Facciones/Cazadores de la noche/Valkar el Purificador.md",
-    "Campañas/Hijos Del Fango/Sesiones/Sesión 5 Hijos Del Fango.md",
     "_assets/Puertas De Obsidiana.png",
     "World/Wei/Tierras Del Este/Mansión De Los Blodstone.md",
     "_assets/locations",
@@ -210,7 +209,6 @@
     "_assets/El Mundo dentro del Cuadro.png",
     "_assets/El anillo de la abuela.png",
     "Campañas/Hijos Del Fango/Sesiones/Sesión 1 Hijos Del Fango.md",
-    "Jacobo Pernildins.md",
     "_assets/folleto rivales mágicos.png",
     "_assets/Mansion de los Blodstone.png",
     "_assets/Viejo loco Ben.png",
@@ -225,7 +223,6 @@
     "_assets/Valkar el Purificador.png",
     "_assets/ze human.png",
     "_assets/Dorkan.png",
-    "_assets/Sose y ovalis Carcolento.png",
     "Sin título.canvas"
   ]
 }

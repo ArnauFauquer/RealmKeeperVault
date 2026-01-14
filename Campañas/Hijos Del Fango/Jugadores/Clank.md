@@ -54,3 +54,5 @@ Tiene tacto con las abejas, desde aquel instante que una le intento picar sin é
 > [[Raik]] sabemos muy poco del niño perdido.
 
 **Sesión 5:** ¿Porque te es familar el rubio de [[Jacobo Pernildins]] ? ¿Crees que lo podrías conocer?
+
+**Sesión 6:** ¿A que te recuerda el birllo del anillo de la abuela de Amapola?
