@@ -12,6 +12,7 @@ date: 2026-01-28
 > **Resumen:**
 
 ## Eventos
+
 Dicen… que en cada taberna donde arde el fuego y corren las historias… alguien ha susurrado esta que os voy a contar.
 La historia iba de barro, de misterio… y de aquellos que no se rinden cuando todo se hunde.
 Pero en esta ocasión todo parece caer hacia un precipicio.
@@ -29,11 +30,12 @@ Las agujas del reloj poco a poco se van moviendo y [[Joze Pequeño]] se están e
 Cada uno en su mundo, pero los [[Hijos Del Fango]] ayudan a eliminar alguno de los excavadores ácidos y moscas parpadeantes que quedan.
 
 Todo termina con el poder de [[Joze Pequeño]] con la piedra de sangre, una luz roja que ilumina todo el laberinto, termina por ahuyentar al resto de insectos y [[Criaturas Del Barro]].
+
 ### Desarrollo
 
 ### Final
 
-[[Hijos Del Fango]] han estado una semana en compañía de [[Joze Pequeño]] en la [[Mansión De Los Blodstone]] arreglando el laberinto, quemando los cuerpos pestilentes de los insectos, entre otras cosas. 
+[[Hijos Del Fango]] han estado una semana en compañía de [[Joze Pequeño]] en la [[Mansión De Los Blodstone]] arreglando el laberinto, quemando los cuerpos pestilentes de los insectos, entre otras cosas.
 
 [[Raik]] esta en la biblioteca sacando polvo.
 [[Cantharella]] esta fregando el gran comedor.

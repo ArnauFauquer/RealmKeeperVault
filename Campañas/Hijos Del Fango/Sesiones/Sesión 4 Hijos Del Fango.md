@@ -38,7 +38,7 @@ Llamas de color rojo y naranja danzan en un paisaje árido de colinas de arena n
 Aguas de color azul profundo, casi negras, fluyen en corrientes silenciosas. Figuras azules translúcidas nadan, flotan y se deslizan a través del agua - humanoides hechos de hielo y agua que se mueven con gracia serena. El frío es penetrante, paralizante, adormecedor. El aire aquí es denso y calmo, casi sofocante por su quietud.
 
 [[Raik]] y [[Clank]] aterrizan en este lado de l cuadro, investigan la zona sin hablar mucho. Entre tanto frio [[Clank]] enciende una antorcha para que el pequeño [[Raik]] pueda estar mas caliente.
-En estas un pingüino sale de los limites del cuadro, se dirige con expresión neutra a apagar la antorcha encendida. Tras ello el pingüino marcha dejando a los dos boquiabiertos. 
+En estas un pingüino sale de los limites del cuadro, se dirige con expresión neutra a apagar la antorcha encendida. Tras ello el pingüino marcha dejando a los dos boquiabiertos.
 
 [[Raik]] y [[Clank]] traman un plan encender la antorcha y capturar el pingüino, con un objetivo poco claro.
 Su plan funciona pero el enfado del pingüino lo hace transformarse en un elemental de agua.
@@ -48,7 +48,7 @@ La batalla en el lado frio termina con el fallecimiento del elemental frio.
 
 [[Cantharella]] y [[Cornelius]] vestidos de fiesta de baile de mascaras, aterrizan en una sala gigante de espejos, en ella multitud de personas, pero no distinguen rostros.
 La música suena, la gente baila y disfruta del baile, [[Cantharella]] y [[Cornelius]] se animan también al baile.
-El baile de los dos amigos es memorable tanto que la sala les cierra en circulo y ovacionan mientras terminan el baile. El espectáculo termina y las personas sin rostro escapan plácidamente dentro de los espejos como si fueran reflejos del pasado. 
+El baile de los dos amigos es memorable tanto que la sala les cierra en circulo y ovacionan mientras terminan el baile. El espectáculo termina y las personas sin rostro escapan plácidamente dentro de los espejos como si fueran reflejos del pasado.
 [[Cantharella]] y [[Cornelius]] observando encuentran la figura negra del cuadro. Sensual, sugerente y cautivadora es como la podríamos describir a pesar de ser una sombra. Los movimientos cautivan a [[Cantharella]] y [[Cornelius]] por unos instantes aunque ambos consiguen recordar que están en un cuadro.
 
 En ese momento es cuando lo escuchan, escuchan una risa soberbia y todos los [[Hijos Del Fango]] salen del cuadro, es la risa inconfundible de [[Jacobo Pernildins]] que corrobora la firma del cuadro de la [[Abuela Fragopyro]].

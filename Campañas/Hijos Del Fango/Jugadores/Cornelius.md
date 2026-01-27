@@ -59,4 +59,4 @@ Sin el, Cornelius no puede acceder al puesto como profesor de la UOC (Universida
 
 **Sesión 6:** ¿Qué abre esta llave? ¿Es una coincidencia que estuviera en un libro para [[Cornelius]]?
 
-**Sesión 7:** Nadie mas en este mundo se ha **esforzado** tanto por conseguir su sueño, como es posible caer en tantas desgracias, perder a un amigo como [[Neftalí]] y seguir adelante? 
+**Sesión 7:** Nadie mas en este mundo se ha **esforzado** tanto por conseguir su sueño, como es posible caer en tantas desgracias, perder a un amigo como [[Neftalí]] y seguir adelante?

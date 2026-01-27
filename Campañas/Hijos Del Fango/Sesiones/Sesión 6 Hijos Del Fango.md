@@ -9,7 +9,7 @@ date: 2026-01-14
 ---
 # Sesión 6 Hijos del fango
 
-> **Resumen:**
+> **Resumen:** Los Hijos del Fango defienden la tumba de los Blodstone de excavadores ácidos y moscas parpadeantes enviadas por Gula, pero Neftalí cae mortalmente herido y su alma es salvada por el sacrificio de Amapola, quien destruye su anillo y desaparece.
 
 ## Eventos
 
@@ -78,7 +78,7 @@ Su aguijón, largo como una espada y afilado como una lanza, atraviesa el pecho 
 
 [[Neftalí]] tose, sangre brotando de sus labios. Sus manos temblorosas se aferran débilmente al aguijón que lo atraviesa. Con su última fuerza, levanta la vista al cielo, a la oscuridad más allá, y susurra con voz quebrada pero firme:
 
-[[Neftalí]] ruega: 
+[[Neftalí]] ruega:
 
 > [[Yugata]]... todo buen plato... se tiene que acabar... Ayuda... a mis amigos...
 
@@ -97,7 +97,6 @@ Sin decir palabra, [[Yugata]] extiende su mano pálida hacia el pecho de [[Nefta
 [[Amapola]] en ese momento entiende algo valioso. Ella no es real del todo, algo la atrapa en este cuerpo, el anillo.
 
 > [[Amapola]]: [[Yugata]] contigo el alma de [[Neftalí]] estará a salvo?
-
 > [[Yugata]]: Lo mas probable es que no.
 
 [[Amapola]] rompe el anillo, el alma de [[Neftalí]] se para y es acompañado, no por [[Yugata]] si no por el brillo resiliente del anillo roto.

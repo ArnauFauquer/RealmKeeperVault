@@ -57,4 +57,4 @@ Tiene tacto con las abejas, desde aquel instante que una le intento picar sin é
 
 **Sesión 6:** ¿A que te recuerda el brillo del anillo de la abuela de Amapola?
 
-**Sesión 7:** [[Gula]] y [[Amapola]] tus hermanas… ? hay algo en los ojos de [[Gula]] que si te es familiar, pero porque no esta [[Amapola]] en tu bases de datos anterior ?
+**Sesión 7:** [[Gula]] y [[Amapola]] tus hermanas… ? hay algo en los ojos de [[Gula]] que si te es familiar, pero porque no esta [[Amapola]] en tu bases de datos anterior?

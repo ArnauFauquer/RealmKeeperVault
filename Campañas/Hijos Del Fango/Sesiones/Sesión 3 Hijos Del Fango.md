@@ -101,6 +101,7 @@ Las preguntas los acompañan mientras se apresuran hacia el pueblo, el peso del 
 [[Amapola]] abre la puerta, un sobre y un cuadro tienen un aura peculiar. Un sobre que pone para Amapola y dentro un anillo.
 
 ![[El anillo de la abuela.png]]
+
 ## Momentos
 
 - Sigamos el rastro del excavador acido.
