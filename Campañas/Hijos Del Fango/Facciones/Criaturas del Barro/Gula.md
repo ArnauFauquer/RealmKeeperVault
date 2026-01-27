@@ -7,11 +7,12 @@ tags:
   - criaturaBarro
   - insectoide
   - hambre
-  - draft
+
 ---
 # Gula
 
 > Hambre infinita que crea enjambres insectoides para recopilar sustento humano.
+> —*La sangre de los antiguos alimentará el enjambre... y vosotros seréis mi aperitivo.*
 
 ## Apariencia
 

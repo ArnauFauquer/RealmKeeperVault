@@ -56,4 +56,6 @@ Una tarde cualquiera volviendo a casa tras una larga colecta de raíces silvestr
 
 **Sesión 5:** ¿Hay mas de tu especie conoces a alguien mas?
 
-**Sesión 6:** ¿Cual es tu comida favorita?
+**Sesión 6:** ¿Cuál es tu comida favorita?
+
+**Sesión 7:** Cual es secreto para tener tanta Templanza [[Cantharella]]?

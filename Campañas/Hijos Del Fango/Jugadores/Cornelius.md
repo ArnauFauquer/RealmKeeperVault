@@ -57,4 +57,6 @@ Sin el, Cornelius no puede acceder al puesto como profesor de la UOC (Universida
 
 **Sesión 5:** ¿Demasiadas coincidencias no? ¿Cuál es tu hipótesis actual de los hechos del robo de la [[La Tesis Perdida]] y [[Fangoalto]]?
 
-**Sesión 5:** ¿Que abre esta llave? ¿Es una coincidiencia que estubiera en un libro para cornelius?
+**Sesión 6:** ¿Qué abre esta llave? ¿Es una coincidencia que estuviera en un libro para [[Cornelius]]?
+
+**Sesión 7:** Nadie mas en este mundo se ha **esforzado** tanto por conseguir su sueño, como es posible caer en tantas desgracias, perder a un amigo como [[Neftalí]] y seguir adelante? 

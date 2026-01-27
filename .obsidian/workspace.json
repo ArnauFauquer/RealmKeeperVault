@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b2f0095c594de37b",
+            "id": "f280b137add4bb25",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "_assets/Gula-Portrait.png"
+                "file": "Campañas/Hijos Del Fango/Sesiones/Sesión 7 Hijos Del Fango.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Gula-Portrait"
+              "icon": "lucide-file",
+              "title": "Sesión 7 Hijos Del Fango"
             }
           }
         ]
@@ -163,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 793.5
+    "width": 1392.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,39 +178,40 @@
       "graph:Abrir vista gráfica": false
     }
   },
-  "active": "b2f0095c594de37b",
+  "active": "f280b137add4bb25",
   "lastOpenFiles": [
     "Campañas/Hijos Del Fango/Sesiones/Sesión 6 Hijos Del Fango.md",
-    "_assets/Gula-Portrait.png",
-    "Campañas/Hijos Del Fango/Sesiones/Sesión 5 Hijos Del Fango copy.md",
+    "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro/Gula.md",
     "Campañas/Hijos Del Fango/Sesiones/Sesión 5 Hijos Del Fango.md",
+    "Campañas/Hijos Del Fango/Sesiones/Sesión 7 Hijos Del Fango.md",
+    "Campañas/Hijos Del Fango/La Tesis Perdida.md",
+    "Campañas/Hijos Del Fango/Jugadores/Tortuardo.md",
+    "Campañas/Hijos Del Fango/Jugadores/Cornelius.md",
+    "Campañas/Hijos Del Fango/Jugadores/Raik.md",
+    "Campañas/Hijos Del Fango/Jugadores/Neftalí.md",
+    "Campañas/Hijos Del Fango/Jugadores/Clank.md",
+    "Campañas/Hijos Del Fango/Jugadores/Cantharella.md",
+    "Deidades/Potroneo.md",
+    "Deidades/Yugata.md",
+    "Campañas/Hijos Del Fango/Facciones/Criaturas Del Barro.md",
+    "_assets/Gula-Portrait.png",
+    "Campañas/Hijos Del Fango/Sesiones/Sesión 1 Hijos Del Fango.md",
+    "Campañas/Hijos Del Fango/Sesiones/Sesión 0 Hijos Del Fango.md",
+    "Campañas/Hijos Del Fango/Sesiones/Sesión 5 Hijos Del Fango copy.md",
     "[Hijos Del Fango.md",
     "Campañas/Hijos Del Fango/Facciones/Gremio de cazadores/Joze Pequeño.md",
-    "Deidades/Potroneo.md",
     "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro/Avaricia.md",
     "Campañas/Hijos Del Fango/Facciones/Cazadores de la noche/Valkar el Purificador.md",
     "_assets/Puertas De Obsidiana.png",
     "World/Wei/Tierras Del Este/Mansión De Los Blodstone.md",
     "_assets/locations",
-    "Campañas/Hijos Del Fango/Jugadores/Tortuardo.md",
-    "Campañas/Hijos Del Fango/Jugadores/Raik.md",
-    "Campañas/Hijos Del Fango/Jugadores/Neftalí.md",
-    "Campañas/Hijos Del Fango/Jugadores/Cornelius.md",
-    "Campañas/Hijos Del Fango/Jugadores/Clank.md",
     "World/Wei/Historia/Llama Sagrada.md",
     "World/Wei/Tierras Del Este/Puertas De Obsidiana.md",
-    "Campañas/Hijos Del Fango/Jugadores/Cantharella.md",
     "Campañas/Hijos Del Fango/Jugadores/Amapola.md",
     "Campañas/Hijos Del Fango/Sesiones/Sesión 4 Hijos Del Fango.md",
-    "Campañas/Hijos Del Fango/Facciones/Pueblo De Fangoalto/Abuela Fragopyro.md",
-    "Campañas/Hijos Del Fango/Sesiones/Sesión 3 Hijos Del Fango.md",
-    "Campañas/Hijos Del Fango/Sesiones/Sesión 2 Hijos Del Fango.md",
-    "Campañas/Hijos Del Fango/Sesiones/Sesión 0 Hijos Del Fango.md",
-    "Campañas/Hijos Del Fango/Hijos Del Fango.md",
     "_assets/animated_0.mp4",
     "_assets/El Mundo dentro del Cuadro.png",
     "_assets/El anillo de la abuela.png",
-    "Campañas/Hijos Del Fango/Sesiones/Sesión 1 Hijos Del Fango.md",
     "_assets/folleto rivales mágicos.png",
     "_assets/Mansion de los Blodstone.png",
     "_assets/Viejo loco Ben.png",

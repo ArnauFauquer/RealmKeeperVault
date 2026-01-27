@@ -41,7 +41,7 @@ El recién huérfano escapa en hacia el [[Lodazal De Medianoche]] donde encuentr
 
 > Quiero venganza pero ayudar a quienes me ofrecen hogar.
 
-**Sesión 3:** ¿Como encontrase a Corax o como el te encontro a ti?
+**Sesión 3:** ¿Cómo encontrase a Corax o como el te encontró a ti?
 
 > Salve a Corax en el [[Lodazal De Medianoche]] de la muerte. Fui muy valiente.
 
@@ -52,3 +52,5 @@ El recién huérfano escapa en hacia el [[Lodazal De Medianoche]] donde encuentr
 **Sesión 5:** Explica como fue ese día, el día que mataron a tus padres ¿Quiénes fueron los dos asesinos? ¿Qué aspecto tenían? ¿Cómo mataste a uno de ellos?
 
 **Sesión 6:** ¿Es de Fiar [[jozxe peqeño]]?
+
+**Sesión 7:** Que libro te leía tu madre cuando quería reconfortarte?

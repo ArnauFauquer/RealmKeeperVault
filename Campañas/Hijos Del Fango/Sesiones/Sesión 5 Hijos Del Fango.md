@@ -89,5 +89,6 @@ El [[Gremio De Cazadores]] ya no es lo que era, ahora [[Joze Pequeño]] es el he
 Mientras en la biblioteca, [[Cornelius]] rebusca entre todas las estanterías, sin encontrar mucha cosa.
 Pero al final de la sala en el escritorio hay un libro abierto, un libro de cuentas, [[Cornelius]] encuentra la financiación de su tesis en la ultima pagina, confirmando que esta en el lugar indicado.
 
-Antes de salir de la bibliotecas un libro llama la atención al simio, el titulo "Para Cornelius", pero ese libro pesa y suena algo raro. Dentro el libro hueco [[Cornelius]] encuentra una llave decorada. 
+Antes de salir de la bibliotecas un libro llama la atención al simio, el titulo "Para Cornelius", pero ese libro pesa y suena algo raro. Dentro el libro hueco [[Cornelius]] encuentra una llave decorada.
+
 ## Momentos

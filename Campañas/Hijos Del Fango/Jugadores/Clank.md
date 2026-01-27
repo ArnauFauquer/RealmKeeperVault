@@ -55,4 +55,6 @@ Tiene tacto con las abejas, desde aquel instante que una le intento picar sin é
 
 **Sesión 5:** ¿Porque te es familar el rubio de [[Jacobo Pernildins]] ? ¿Crees que lo podrías conocer?
 
-**Sesión 6:** ¿A que te recuerda el birllo del anillo de la abuela de Amapola?
+**Sesión 6:** ¿A que te recuerda el brillo del anillo de la abuela de Amapola?
+
+**Sesión 7:** [[Gula]] y [[Amapola]] tus hermanas… ? hay algo en los ojos de [[Gula]] que si te es familiar, pero porque no esta [[Amapola]] en tu bases de datos anterior ?
