@@ -51,6 +51,12 @@ El recién huérfano escapa en hacia el [[Lodazal De Medianoche]] donde encuentr
 
 **Sesión 5:** Explica como fue ese día, el día que mataron a tus padres ¿Quiénes fueron los dos asesinos? ¿Qué aspecto tenían? ¿Cómo mataste a uno de ellos?
 
-**Sesión 6:** ¿Es de Fiar [[jozxe peqeño]]?
+>Triste, nos tendieron una emboscada, fui valiente a uno le tire una flecha en la rodilla.
+
+**Sesión 6:** ¿Es de Fiar [[Joze Pequeño]]?
+
+> Nos da comida e historias, si es de fiar,
 
 **Sesión 7:** Que libro te leía tu madre cuando quería reconfortarte?
+
+> Me contaba las historias de muchos héroes, pero la que mas me gustaba era la de [[Potroneo]].

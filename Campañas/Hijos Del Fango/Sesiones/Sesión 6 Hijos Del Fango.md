@@ -104,3 +104,8 @@ Sin decir palabra, [[Yugata]] extiende su mano pálida hacia el pecho de [[Nefta
 [[Yugata]] se desvanece y con ella poco a poco el cuerpo de [[Amapola]] desasiéndose mientras se despide de sus amigos, compañeros y vecinos.
 
 ## Momentos
+
+- [[Raik]] hace una cara adorable a [[Cornelius]]: que había dentro del libro?
+- Las [[Criaturas Del Barro]] invaden el laberinto.
+- [[Neftalí]] muere insertado por una mosca parpadeante.
+- [[Amapola]] salva el alma de [[Neftali]] la protege de [[Yugata]]

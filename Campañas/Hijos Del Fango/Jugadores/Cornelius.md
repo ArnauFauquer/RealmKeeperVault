@@ -57,6 +57,12 @@ Sin el, Cornelius no puede acceder al puesto como profesor de la UOC (Universida
 
 **Sesión 5:** ¿Demasiadas coincidencias no? ¿Cuál es tu hipótesis actual de los hechos del robo de la [[La Tesis Perdida]] y [[Fangoalto]]?
 
+> Todo esta siendo orquestado por [[Jacobo Pernildins]] !!
+
 **Sesión 6:** ¿Qué abre esta llave? ¿Es una coincidencia que estuviera en un libro para [[Cornelius]]?
 
+> Obviamente no es una coincidencia, tiene que abrir algo sumamente importante, algo igual de importante que Cornelius.
+
 **Sesión 7:** Nadie mas en este mundo se ha **esforzado** tanto por conseguir su sueño, como es posible caer en tantas desgracias, perder a un amigo como [[Neftalí]] y seguir adelante?
+
+> Aunque el mundo me ponga trampas, sigo siendo el mejor, nadie me supera.

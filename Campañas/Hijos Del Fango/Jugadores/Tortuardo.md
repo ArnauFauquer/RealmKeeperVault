@@ -52,6 +52,12 @@ Como el [[Gremio De Cazadores]] representa todo lo contrario a los valores que T
 
 **Sesión 5:** Como el  [[Gremio De Cazadores]] ha estado molestando el pueblo de fango alto estos últimos tiempos?
 
+> El pueblo de [[Fangoalto]] ha estado afectado directamente, han matado animales gente incluso.
+
 **Sesión 6:** ¿Cómo ha sido tu infancia en el pueblo de [[fangoalto]] junto a amapola?
 
+> Llegue a [[Fangoalto]] a los 9 años, pero [[Amapola]] durante mucho tiempo fue mi primera amiga.
+
 **Sesión 7:** Como vas a contar en tu pueblo [[Fangoalto]] que [[Amapola]] ya no esta?
+
+> Sigo conmocionado por la situación, es que no me creo que no este! Además el pueblo sigue sufriendo!

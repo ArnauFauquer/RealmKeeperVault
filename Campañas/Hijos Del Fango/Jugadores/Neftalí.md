@@ -51,3 +51,5 @@ Quien mejor que el para elaborar los mejores platos, simples pero elaborados, hu
 > [[Tortuardo]] tenemos que hablar de negocios
 
 **Sesión 5:** ese portakebaps que estas haciendo que funciones tiene? porque lo estas desarrollando en solitario?
+
+> Para que lo voy hacer? pues para portar comida...

@@ -9,7 +9,8 @@ date: 2026-01-28
 ---
 # Sesión 7 Hijos del fango
 
-> **Resumen:**
+> Empieza el cato 2
+> 
 
 ## Eventos
 
@@ -33,11 +34,31 @@ Todo termina con el poder de [[Joze Pequeño]] con la piedra de sangre, una luz 
 
 ### Desarrollo
 
+[[Hijos Del Fango]] han estado una semana en compañía de [[Joze Pequeño]] en la [[Mansión De Los Blodstone]] arreglando el laberinto, quemando los cuerpos pestilentes de los insectos, ordenando la biblioteca, entre otras cosas y cada uno de los [[Hijos Del Fango]] esta a su aire.
+
+[[Cornelius]] esta enseñado a [[Renuard]] a jugar a billes catalanes, deporte exquisito de la nobleza de [[Nexus Ciudad Capital]].
+
+[[Raik]] esta practicando con el arco [[Clank]] le da indicaciones como ganar. 
+
+[[Tortuardo]] y [[Cantharella]] debaten como sobrellevar la situación de [[Amapola]], [[Neftalí]] y [[Clank]] ya que aparentemente es hermana de [[Gula]].
+
 ### Final
 
-[[Hijos Del Fango]] han estado una semana en compañía de [[Joze Pequeño]] en la [[Mansión De Los Blodstone]] arreglando el laberinto, quemando los cuerpos pestilentes de los insectos, entre otras cosas.
+[[Raik]] y [[Clank]] van a buscar al gran mago, [[Cornelius]], a la biblioteca, pero encuentra a [[Joze Pequeño]] que esta ordenando la biblioteca, en una que estas [[Raik]] encuentra el libro que su madre le leía, la historia de la [[Llama Sagrada]] y [[Potroneo]], el libro es muy antiguo y la historia es diferente, [[Potroneo]] roba la llama por amor, no para la humanidad.
 
-[[Raik]] esta en la biblioteca sacando polvo.
-[[Cantharella]] esta fregando el gran comedor.
+Esta historia es leída por [[Clank]] y sorprende a todos.
 
+[[Cantharella]] de camino a la biblioteca a hablar con [[Joze Pequeño]], en la sala de espejos en un parpadeo, ve la sombra del cuadro, es la [[Abuela Fragopyro]] de joven.
+
+Juntos de nuevo [[Hijos Del Fango]], necesitan llegar a donde están los [[Cazadores De La Noche]], quieren llegar a [[Llamaforja]], pero nadie ni nada lo sabe como llegar. Solo un verdadero miembro de los [[Cazadores De La Noche]] sabe llegar, [[Cazadores De La Noche]] como el que [[Renuard]] apachurro en la carretera de camino a la [[Mansión De Los Blodstone]].
+
+[[Tortuardo]] y [[Renuard]] van a recoger el cadáver mientras que [[Joze Pequeño]] le entrega dos pergaminos de hablar con los muertos a [[Cantharella]].
+
+> Con la piedra de sangre, durante luna llena y estos pergaminos podréis hablar con el muerto, por desgracia sufro una aflicción durante esa noche, tendréis que ser vosotros los que hagáis el ritual.
 ## Momentos
+
+- [[Cornelius]]: aquí yace el mejor cocinero de todos los tiempos, [[Neftalí]] poniendo el wok como lapida.
+- Los [[Hijos Del Fango]] escriben una carta a la familia de [[Neftalí]] en [[Nexus Ciudad Capital]]
+- [[Raik]] se aísla del resto un poco con su cuervo Corax.
+- Juegan a billes catalanes.
+- [[Tortuardo]] y [[Renuard]] compiten. [[Tortuardo]] pierde a ojos de [[Renuard]]

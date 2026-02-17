@@ -56,6 +56,12 @@ Una tarde cualquiera volviendo a casa tras una larga colecta de raíces silvestr
 
 **Sesión 5:** ¿Hay mas de tu especie conoces a alguien mas?
 
+> Hay mas, me decía mi madre... nunca he visto a nadie.
+
 **Sesión 6:** ¿Cuál es tu comida favorita?
 
+> Zooplancton con patata, delicioso.
+
 **Sesión 7:** Cual es secreto para tener tanta Templanza [[Cantharella]]?
+
+> No es un secreto, mi madre me lo enseño así, la mayor virtud de un hongo es la paciencia y observar.

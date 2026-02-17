@@ -92,3 +92,11 @@ Pero al final de la sala en el escritorio hay un libro abierto, un libro de cuen
 Antes de salir de la bibliotecas un libro llama la atención al simio, el titulo "Para Cornelius", pero ese libro pesa y suena algo raro. Dentro el libro hueco [[Cornelius]] encuentra una llave decorada.
 
 ## Momentos
+
+- [[Cantharella]] Esporádica..? (de esporas)
+- [[Raik]] es el aprendiz numero uno de [[Cornelius]] que esta vivo, claro.
+- Los [[Hijos Del Fango]] trazan un plan infalible.
+- [[Raik]] pierde el rastro, pero encuentra unos cadáveres
+- [[Cantharella]] huele los cadáveres, ira e soberbia.
+- La maniobra 13/17 significa correr.
+- [[Cornelius]] roba un libro de la biblioteca, autor del libro, "nostra mamus".

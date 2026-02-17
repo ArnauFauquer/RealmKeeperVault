@@ -53,4 +53,8 @@ Por suerte tiene amigos como [[Tortuardo]], [[Cantharella]] y [[Clank]] que hace
 
 **Sesión 5:** ¿Qué guardaban los dioses en las Tierras del Este?
 
-**Sesión 6:** ¿Porque sigues sintiendote vacia?
+> La [[Llama Sagrada]]
+
+**Sesión 6:** ¿Por qué sigues sintiéndote vacía?
+
+> la [[Abuela Fragopyro]] no me lo ha contado todo
