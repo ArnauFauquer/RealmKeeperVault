@@ -9,8 +9,7 @@ date: 2026-01-28
 ---
 # Sesión 7 Hijos del fango
 
-> Empieza el cato 2
-> 
+> Empieza el Acto 2, intentando descubrir donde están los [[Cazadores De La Noche]]
 
 ## Eventos
 

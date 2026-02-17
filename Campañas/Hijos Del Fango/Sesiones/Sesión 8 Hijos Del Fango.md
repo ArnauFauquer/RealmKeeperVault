@@ -4,8 +4,8 @@ tags:
   - session
   - campaña
 campaign: hijos del fango
-session_number: "7"
-date: 2026-01-28
+session_number: "8"
+date: 2026-02-17
 ---
 # Sesión 8 Hijos del fango
 
