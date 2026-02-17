@@ -2,7 +2,7 @@
 type: mechanic
 system: daggerheart
 ---
-
+En [[Daggerheart]] existen características de personaje.
 # Características
 
 ## Agilidad

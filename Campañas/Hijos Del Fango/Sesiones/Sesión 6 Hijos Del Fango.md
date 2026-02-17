@@ -15,7 +15,7 @@ date: 2026-01-14
 
 ### Inicio
 
-La cocina de la [[Mansión De Los Blodstone]] es un espacio amplio y cálido, iluminado por el fuego de la chimenea y lámparas de aceite colgadas de las vigas. [[Joze Pequeño]] prepara la cena con eficiencia junto a [[Neftali]], sirviendo pan recién horneado, estofado de setas y vegetales, y vino especiado de las bodegas del gremio.
+La cocina de la [[Mansión De Los Blodstone]] es un espacio amplio y cálido, iluminado por el fuego de la chimenea y lámparas de aceite colgadas de las vigas. [[Joze Pequeño]] prepara la cena con eficiencia junto a [[Neftalí]], sirviendo pan recién horneado, estofado de setas y vegetales, y vino especiado de las bodegas del gremio.
 
 Mientras los [[Hijos Del Fango]] comen, [[Joze Pequeño]] se sienta con ellos.
 
@@ -108,4 +108,4 @@ Sin decir palabra, [[Yugata]] extiende su mano pálida hacia el pecho de [[Nefta
 - [[Raik]] hace una cara adorable a [[Cornelius]]: que había dentro del libro?
 - Las [[Criaturas Del Barro]] invaden el laberinto.
 - [[Neftalí]] muere insertado por una mosca parpadeante.
-- [[Amapola]] salva el alma de [[Neftali]] la protege de [[Yugata]]
+- [[Amapola]] salva el alma de [[Neftalí]] la protege de [[Yugata]]

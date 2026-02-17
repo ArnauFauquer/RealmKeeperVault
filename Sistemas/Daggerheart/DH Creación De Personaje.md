@@ -2,7 +2,7 @@
 type: mechanic
 system: daggerheart
 ---
-
+Como crear personajes en [[Daggerheart]] 
 # Creación de personajes
 
 ## Paso 1: Clase y subclase

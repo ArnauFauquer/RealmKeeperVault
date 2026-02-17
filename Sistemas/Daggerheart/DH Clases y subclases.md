@@ -2,7 +2,7 @@
 type: mechanic
 system: daggerheart
 ---
-
+En [[Daggerheart]] existen clases y subclases de personaje.
 # Clases y subclases
 
 ## Bardo

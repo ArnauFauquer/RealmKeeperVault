@@ -9,7 +9,7 @@ date: 2025-12-17
 ---
 # Sesión 5 Hijos del fango
 
-> **Resumen:** Los [[Hijos del Fango]] rastrean al ejército del Gremio de Cazadores mientras Raik recuerda historias de su madre sobre Potroneo y el fuego sagrado. En el camino encuentran a Renuard, un ser micelida que los guía hasta la [[Mansión de los Blodstone]]. Allí conocen a Joze Pequeño, heredero legítimo del Gremio, quien revela la división entre los clanes y que los Cazadores de la Noche, liderados por Valkar el Purificador, son quienes mataron a los padres de Raik y Cantharella. Mientras tanto, Cornelius descubre en la biblioteca que su tesis fue financiada por el Gremio y encuentra una misteriosa llave con su nombre.
+> **Resumen:** Los [[Hijos del Fango]] rastrean al ejército del Gremio de Cazadores mientras Raik recuerda historias de su madre sobre Potroneo y el fuego sagrado. En el camino encuentran a [[Renuard]], un ser micelida que los guía hasta la [[Mansión de los Blodstone]]. Allí conocen a Joze Pequeño, heredero legítimo del Gremio, quien revela la división entre los clanes y que los Cazadores de la Noche, liderados por Valkar el Purificador, son quienes mataron a los padres de Raik y Cantharella. Mientras tanto, Cornelius descubre en la biblioteca que su tesis fue financiada por el Gremio y encuentra una misteriosa llave con su nombre.
 
 ## Eventos
 
@@ -66,9 +66,9 @@ Este ser es [[Renuard]], [[Tortuardo]] con sus dotes de habla consigue traduccir
 Pero luego se dan cuenta que no son los mismos ropajes que los que llevan los dos cadaberes del suelo.
 
 [[Renuard]] les dice que ellos, el y su maestro [[Joze Pequeño]] son cazadores "buenos", los otros son los "malos".
-Tras que las cosas se calman y los [[Hijos Del Fango]] no detectan maldad en [[renuard]] y sus palabras deciden seguirlo hacia el [[Mansión De Los Blodstone]], el gremio de cazadores.
+Tras que las cosas se calman y los [[Hijos Del Fango]] no detectan maldad en [[Renuard]] y sus palabras deciden seguirlo hacia el [[Mansión De Los Blodstone]], el gremio de cazadores.
 
-Al anochecer, tras seguir a [[renuard]], los conduce a una meseta rocosa y boscosa. En un claro se alza la [[Mansión De Los Blodstone]]: una imponente estructura de piedra oscura con tejados de teja roja, vitrales carmesí que brillan como brasas encendidas, y torres coronadas por chapiteles naranjos.
+Al anochecer, tras seguir a [[Renuard]], los conduce a una meseta rocosa y boscosa. En un claro se alza la [[Mansión De Los Blodstone]]: una imponente estructura de piedra oscura con tejados de teja roja, vitrales carmesí que brillan como brasas encendidas, y torres coronadas por chapiteles naranjos.
 
 El edificio principal, rodeado de ruinas antiguas cubiertas de musgo y árboles centenarios, emerge del paisaje como una fortaleza entre jardines salvajes. El patio central revela su laberinto de setos carbonizados y estatuas de bestias abatidas. Todo huele a cuero, aceite y antigüedad.
 

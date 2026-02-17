@@ -2,7 +2,7 @@
 type: mechanic
 system: daggerheart
 ---
-
+En [[Daggerheart]] existen comunidades de personaje.
 # Comunidad
 
 - Nacido en alta cuna

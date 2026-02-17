@@ -3,7 +3,7 @@ type: mechanic
 tags:
   - daggerheart
 ---
-
+En [[Daggerheart]] existen diferentes armaduras.
 # Armadura
 
 ## Nivel 1

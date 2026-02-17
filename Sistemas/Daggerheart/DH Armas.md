@@ -1,7 +1,7 @@
 ---
 type: mechanic
 ---
-
+En [[Daggerheart]] existen diferentes armas.
 # Armas
 
 ## NIVEL 1

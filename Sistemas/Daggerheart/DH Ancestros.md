@@ -4,6 +4,8 @@ system: daggerheart
 ---
 # Ancestros
 
+En [[Daggerheart]] existen diferentes especies.
+
 - Clank: Sentinelas mecanicos
 - Drakona: Humanoides dragon
 - Dwarf: Humanoides pequeños pero robustos
