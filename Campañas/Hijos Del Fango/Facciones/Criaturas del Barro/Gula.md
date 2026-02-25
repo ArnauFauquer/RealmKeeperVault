@@ -14,6 +14,8 @@ tags:
 > Hambre infinita que crea enjambres insectoides para recopilar sustento humano.
 > —*La sangre de los antiguos alimentará el enjambre... y vosotros seréis mi aperitivo.*
 
+![[Gula-Portrait.png]]
+
 ## Apariencia
 
 Núcleo central de barro palpitante del que emergen constantemente criaturas insectoides. Masa informe de mandíbulas, quelíceros y extremidades articuladas que se extiende y contrae. Las criaturas que genera varían en tamaño: desde pequeños escarabajos de lodo hasta monstruosidades del tamaño de un caballo con múltiples patas y cabezas devoradoras. Emite un zumbido grave y constante. El barro que la compone huele a putrefacción y hambruna.

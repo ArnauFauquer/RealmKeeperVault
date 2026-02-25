@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campañas/Hijos Del Fango/Sesiones/Sesión 8 Hijos Del Fango.md",
+                "file": "Campañas/Hijos Del Fango/Facciones/Gremio de cazadores/Joze Pequeño.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sesión 8 Hijos Del Fango"
+              "title": "Joze Pequeño"
             }
           }
         ],
@@ -193,8 +193,10 @@
       "graph:Abrir vista gráfica": false
     }
   },
-  "active": "64bacc7762a406c7",
+  "active": "9dc9d1b6b12a73c5",
   "lastOpenFiles": [
+    "Campañas/Hijos Del Fango/Facciones/Cazadores de la noche/Valkar El Purificador.md",
+    "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro/Gula.md",
     "Campañas/Hijos Del Fango/Sesiones/Sesión 8 Hijos Del Fango.md",
     "Campañas/Hijos Del Fango/Sesiones/Sesión 9 Hijos Del Fango.md",
     "Sistemas/Daggerheart/DH Dominios.md",
@@ -219,8 +221,6 @@
     "Campañas/Hijos Del Fango/Sesiones/Sesión 4 Hijos Del Fango.md",
     "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro/Lujuria.md",
     "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro/Ira.md",
-    "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro/Gula.md",
-    "Campañas/Hijos Del Fango/La Tesis Perdida.md",
     "_assets/Gula-Portrait.png",
     "_assets/Puertas De Obsidiana.png",
     "_assets/locations",
