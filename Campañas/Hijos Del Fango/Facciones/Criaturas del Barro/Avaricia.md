@@ -7,7 +7,6 @@ tags:
   - criaturaBarro
   - aracnida
   - acaparadora
-  - draft
 ---
 # Avaricia
 
@@ -32,3 +31,4 @@ Busca acaparar todos los objetos de valor de las Tierras del Este en su red. Cad
 - Mercaderes y viajeros – Víctimas preferidas, fuentes de botín
 - [[Cazadores De La Noche]] – Han perdido reliquias en sus incursiones
 - Ladrones – Competencia odiada que debe ser eliminada
+![[Brasitas.png]]![[Los Quintillizos.png]]![[Muñequita.png]]

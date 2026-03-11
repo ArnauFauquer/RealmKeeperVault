@@ -66,3 +66,15 @@ Sin el, Cornelius no puede acceder al puesto como profesor de la UOC (Universida
 **Sesión 7:** Nadie mas en este mundo se ha **esforzado** tanto por conseguir su sueño, como es posible caer en tantas desgracias, perder a un amigo como [[Neftalí]] y seguir adelante?
 
 > Aunque el mundo me ponga trampas, sigo siendo el mejor, nadie me supera.
+
+**Sesión 8:** la biblioteca de la [[Mansión De Los Blodstone]] esta ordenada?
+
+> La biblioteca esta solo ordenada hasta los números y la letra A
+
+**Sesión 9:** Como reaccionaste cuando resucitasteis al muerto?
+
+> EL experimento fue de lo mas enriquecedor
+
+**Sesión 10:** ¿Hay un vínculo entre el espía y la Mansión De Los Blodstone?
+
+> 

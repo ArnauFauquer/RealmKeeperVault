@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "539e2595a9119e08",
+        "id": "e7cbdf065a3c90ef",
         "type": "tabs",
         "children": [
           {
-            "id": "f280b137add4bb25",
+            "id": "da20736e054963dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campañas/Hijos Del Fango/Sesiones/Sesión 5 Hijos Del Fango.md",
+                "file": "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro/Gula.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sesión 5 Hijos Del Fango"
-            }
-          },
-          {
-            "id": "9dc9d1b6b12a73c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campañas/Hijos Del Fango/Facciones/Gremio de cazadores/Joze Pequeño.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Joze Pequeño"
+              "title": "Gula"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 348.5
   },
   "right": {
     "id": "2d187ccdc4066765",
@@ -193,34 +178,36 @@
       "graph:Abrir vista gráfica": false
     }
   },
-  "active": "9dc9d1b6b12a73c5",
+  "active": "da20736e054963dc",
   "lastOpenFiles": [
-    "Campañas/Hijos Del Fango/Facciones/Cazadores de la noche/Valkar El Purificador.md",
+    "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro/Avaricia.md",
+    "_assets/Brasitas.png",
+    "_assets/Muñequita.png",
+    "_assets/Los Quintillizos.png",
+    "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro/Soberbia.md",
+    "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro/Pereza.md",
+    "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro/Lujuria.md",
+    "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro/Ira.md",
     "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro/Gula.md",
-    "Campañas/Hijos Del Fango/Sesiones/Sesión 8 Hijos Del Fango.md",
+    "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro/Envidia.md",
+    "Campañas/Hijos Del Fango/Facciones/Cazadores de la noche/Valkar El Purificador.md",
+    "Campañas/Hijos Del Fango/Sesiones/Sesión 10 Hijos Del Fango.md",
+    "Campañas/Hijos Del Fango/La Tesis Perdida.md",
+    "Campañas/Hijos Del Fango/Facciones/Pueblo De Fangoalto/Dorkan El Herrero.md",
+    "Campañas/Hijos Del Fango/Jugadores/Clank.md",
+    "Campañas/Hijos Del Fango/Jugadores/Cornelius.md",
     "Campañas/Hijos Del Fango/Sesiones/Sesión 9 Hijos Del Fango.md",
-    "Sistemas/Daggerheart/DH Dominios.md",
-    "Sistemas/Daggerheart/DH Creación De Personaje.md",
-    "Sistemas/Daggerheart/DH Comunidad.md",
-    "Sistemas/Daggerheart/DH Clases Y Subclases.md",
-    "Sistemas/Daggerheart/DH Características.md",
-    "Sistemas/Daggerheart/DH Armas.md",
-    "Sistemas/Daggerheart/DH Armadura.md",
-    "Sistemas/Daggerheart/DH Ancestros.md",
-    "Campañas/Hijos Del Fango/Hijos Del Fango.md",
-    "Campañas/Hijos Del Fango/Sesiones/Sesión 6 Hijos Del Fango.md",
-    "Campañas/Hijos Del Fango/Sesiones/Sesión 5 Hijos Del Fango.md",
-    "Campañas/Hijos Del Fango/Sesiones/Sesión 7 Hijos Del Fango.md",
     "Campañas/Hijos Del Fango/Jugadores/Tortuardo.md",
     "Campañas/Hijos Del Fango/Jugadores/Raik.md",
     "Campañas/Hijos Del Fango/Jugadores/Neftalí.md",
-    "Campañas/Hijos Del Fango/Jugadores/Cornelius.md",
-    "Campañas/Hijos Del Fango/Jugadores/Clank.md",
     "Campañas/Hijos Del Fango/Jugadores/Cantharella.md",
     "Campañas/Hijos Del Fango/Jugadores/Amapola.md",
-    "Campañas/Hijos Del Fango/Sesiones/Sesión 4 Hijos Del Fango.md",
-    "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro/Lujuria.md",
-    "Campañas/Hijos Del Fango/Facciones/Criaturas del Barro/Ira.md",
+    "Campañas/Hijos Del Fango/Sesiones/Sesión 5 Hijos Del Fango.md",
+    "Campañas/Hijos Del Fango/Sesiones/Sesión 8 Hijos Del Fango.md",
+    "Campañas/Hijos Del Fango/Facciones/Gremio de cazadores/Joze Pequeño.md",
+    "Sistemas/Daggerheart/DH Dominios.md",
+    "Sistemas/Daggerheart/DH Creación De Personaje.md",
+    "Sistemas/Daggerheart/DH Comunidad.md",
     "_assets/Gula-Portrait.png",
     "_assets/Puertas De Obsidiana.png",
     "_assets/locations",
@@ -238,9 +225,6 @@
     "Oneshots/Ratas Y Zorros",
     "Oneshots/La Maldicion Del Hombre Lobo",
     "Oneshots/La Pocima De La Voluntad",
-    "_assets/Valkar el Purificador.png",
-    "_assets/ze human.png",
-    "_assets/Dorkan.png",
     "Sin título.canvas"
   ]
 }

@@ -60,3 +60,16 @@ El recién huérfano escapa en hacia el [[Lodazal De Medianoche]] donde encuentr
 **Sesión 7:** Que libro te leía tu madre cuando quería reconfortarte?
 
 > Me contaba las historias de muchos héroes, pero la que mas me gustaba era la de [[Potroneo]].
+
+
+**Sesión 8:** Porque tiene sentido que el libro no fuera como el que te leía tu madre?
+
+> A veces los escritores se equivocan, mi madre tenia la razón
+
+**Sesión 9:** Como te sientes mas solo?
+
+> Sin Corax todo es mas solitario
+
+**Sesión 10:** ¿Matar a humanos es lo mismo que matar monstruos? ¿Constantino 4 se lo merecia?  
+
+> 

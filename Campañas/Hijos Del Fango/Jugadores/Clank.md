@@ -64,3 +64,16 @@ Tiene tacto con las abejas, desde aquel instante que una le intento picar sin é
 **Sesión 7:** [[Gula]] y [[Amapola]] tus hermanas… ? hay algo en los ojos de [[Gula]] que si te es familiar, pero porque no esta [[Amapola]] en tu bases de datos anterior?
 
 > Puede que nacieran después de yo
+
+**Sesión 8:** Porque recuerdas cosas esenciales?
+
+>  Lo llevo incorporado en el sistema
+
+
+**Sesión 9:** que es lo que te tranquiliza mas?
+
+> Pensar quien soy yo i mi famila
+
+**Sesión 10:** ¿Tienes algun motivo para desconfiar de [[Dorkan el herrero]]?
+
+> 

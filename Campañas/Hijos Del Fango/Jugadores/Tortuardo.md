@@ -61,3 +61,15 @@ Como el [[Gremio De Cazadores]] representa todo lo contrario a los valores que T
 **Sesión 7:** Como vas a contar en tu pueblo [[Fangoalto]] que [[Amapola]] ya no esta?
 
 > Sigo conmocionado por la situación, es que no me creo que no este! Además el pueblo sigue sufriendo!
+
+**Sesión 8:** No sabia que eras tan competitivo?
+
+> Me gustan los retos, tan solo
+
+**Sesión 9:** Cual es tu dulce favorito?
+
+>La miel del pantano de al lado de casa de [[Cantharella]] y [[Clank]]
+
+**Sesión 10:** ¿Por qué motivo nos estavan espiando en el santuario?
+
+> 

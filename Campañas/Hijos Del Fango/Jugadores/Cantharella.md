@@ -65,3 +65,15 @@ Una tarde cualquiera volviendo a casa tras una larga colecta de raíces silvestr
 **Sesión 7:** Cual es secreto para tener tanta Templanza [[Cantharella]]?
 
 > No es un secreto, mi madre me lo enseño así, la mayor virtud de un hongo es la paciencia y observar.
+
+**Sesión 8:** Como crees que ira el ritual de hablar con los muertos?
+
+>  Estoy nerviosa por el el ritual es una gran responsabilidad
+
+**Sesión 9:** Que es lo que mas miedo te da?
+
+>  La soledad
+
+**Sesión 10:** ¿Por qué vinieron por tus hierbas y el plano de Clank? ¿o solo huian?
+
+> 
