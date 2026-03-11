@@ -7,7 +7,7 @@ campaign: hijos del fango
 session_number: "10"
 date: 2026-03-11
 ---
-# Sesión 8 Hijos del fango
+# Sesión 10 Hijos del fango
 
 > resumen
 ## Eventos

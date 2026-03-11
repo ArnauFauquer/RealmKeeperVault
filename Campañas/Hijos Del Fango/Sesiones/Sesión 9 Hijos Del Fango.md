@@ -7,7 +7,7 @@ campaign: hijos del fango
 session_number: "9"
 date: 2026-02-25
 ---
-# Sesión 8 Hijos del fango
+# Sesión 9 Hijos del fango
 
 > Un espía de los [[Cazadores De La Noche]] lleva a los [[Hijos Del Fango]] a una trampa!
 ## Eventos
